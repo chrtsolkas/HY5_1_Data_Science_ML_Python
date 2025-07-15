@@ -1,0 +1,8 @@
+- [Batman: Εισαγωγή στη βιβιοθήκη matplotlib](2.1.01_batman.slides.html)
+- [To Νήμα της Ζωής: Οπτικοποίηση προσδόκιμου ζωής](2.1.02_gdp_lifex.slides.html)
+- [Ου Καλόν Είναι τον Άνθρωπον Μόνον: Οπτικοποίηση δεδομένων έρευνας NATSAL](2.1.03_natsal.slides.html)
+- [Διαγράμματα ραντάρ](2.1.04_radar_chart.slides.html)
+- [ggplot2 και seaborn Α](2.1.05_ggplot2_seaborn_1.slides.html)
+- [ggplot2 και seaborn B](2.1.06_ggplot2_seaborn_2.slides.html)
+- [Ματαιότης Ματαιοτήτων: Θερμοχάρτες](2.1.07_this_mortal_coil.slides-2.html)
+- [Παρασπονδία](2.1.08_transgression.slides.html)

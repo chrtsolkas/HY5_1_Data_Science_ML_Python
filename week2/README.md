@@ -7,3 +7,4 @@
 - [ggplot2 και seaborn Α](05_ggplot2_seaborn_1.ipynb)
 - [ggplot2 και seaborn B](06_ggplot2_seaborn_2.ipynb)
 - [Ματαιότης Ματαιοτήτων: Θερμοχάρτες](07_this_mortal_coil-2.ipynb)
+- [Παρασπονδία](08_transgression.ipynb)

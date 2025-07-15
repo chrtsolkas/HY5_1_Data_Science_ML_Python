@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+
+<!-- Example based on http://bl.ocks.org/mbostock/3887118 -->
+<!-- Tooltip example from http://www.d3noob.org/2013/01/adding-tooltips-to-d3js-graph.html -->
+<!-- Coding style based on http://gist.github.com/mbostock/5977197 -->
+<!-- Performance issue on Chrome fixed by Dimitris Tsironis and
+     Vassilis Kefallinos -->
+
+<style>
+body {
+  font: 11px sans-serif;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+.line {
+    fill: none;
+    stroke: steelblue;
+    stroke-width: 3;
+}
+
+.dot {
+    stroke: #000;
+    
+    fill: rgb(176, 196, 222, 0.5) /* lightsteelblue */
+}
+
+.tooltip {
+    position: absolute;
+    width: 13em;
+    height: 4em;
+    background-color: white;
+    border: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    pointer-events: none;
+    padding: 10px;
+}
+
+input {
+  padding : 0 1em;
+  margin: 0px 1em;
+  border-radius: 5px;
+  background : none;
+}
+
+input:focus {
+  background   : rgba(0,0,0,.1);
+  border-radius: 5px;
+}
+
+</style>
+<body>
+
+<p>
+  <label for="seriesTitle" style="display: inline-block; width: 240px; text-align: right">
+    Title
+  </label>
+  <input type="text" value="" id="seriesTitle">
+</p>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="tvseries_d3js.js"></script>
+
+<p>Adapted from the <a href="https://www.economist.com/graphic-detail/2018/11/24/tvs-golden-age-is-real">Economist's analysis of TV shows in America</a>
+</p>
+</body>
+</html>
