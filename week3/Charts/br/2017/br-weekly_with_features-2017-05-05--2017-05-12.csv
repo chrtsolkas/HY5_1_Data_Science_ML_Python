@@ -1,0 +1,201 @@
+position	song_id	song_name	artist	streams	last_week_position	weeks_on_chart	peak_position	position_status
+1	5CtI0qwDJkDQGwXD1H1cLb	Despacito - Remix	Luis Fonsi	3884563	1	4	1	0
+2	7qiZfU4dY1lWllzX7mPBI3	Shape of You	Ed Sheeran	2502067	2	18	1	0
+3	4aWmUDTfIPGksMNLV2rQP2	Despacito (Featuring Daddy Yankee)	Luis Fonsi	2285921	4	15	3	1
+4	1zhfU6YXa2pXUAQdG1NvBZ	Vai Embrazando	Mc Zaac	2119125	3	8	2	-1
+5	06ZpMjkNdIDKVf3mK29UiC	Never Let Me Go	Alok	1779171	nan	1	5	new
+6	1a5Yu5L18qNxVhXx38njON	Hear Me Now	Alok	1747725	7	19	1	1
+7	0u8aj0c4IxeVSLTUuuq9V5	Você Partiu Meu Coração	Nego do Borel	1677502	5	17	1	-2
+8	1bUazU9SSOh02AdlOPeTvm	O Grave Bater	MC Kevinho	1631067	6	7	4	-2
+9	7KBfjlQ85Fqs2MCCvXSW0c	Bum Bum Tam Tam	MC Fioti	1552145	8	8	7	-1
+10	2d3TbSkAscvT3QRQalq6uT	Te Assumi Pro Brasil - Ao Vivo	Matheus & Kauan	1422194	9	19	6	-1
+11	257tme6AhneIKAqVF1HTH4	Loka	Simone & Simaria	1357806	10	18	4	-1
+12	40bK2uosUmAS92c17n98xd	Acordando o Prédio	Luan Santana	1284435	13	14	8	1
+13	3DXncPQOG4VBw3QHh3S817	I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)	DJ Khaled	1280086	19	2	13	6
+14	4eZg3l8x5aMvgwsRHcZuIC	Qual Bumbum Mais Bate, Qual Bumbum Mais Pula	MC WM	1274928	11	9	11	-3
+15	4FHw39Ke6pVt5tNKvLr4r3	Vidinha de Balada - Ao Vivo	Henrique & Juliano	1274592	12	14	5	-3
+16	1e315r3zQjsng2z952ePQ1	Ninguém É de Ferro	Wesley Safadão	1263104	14	13	13	-2
+17	6RUKPb4LETWmmr3iAEQktW	Something Just Like This	The Chainsmokers	1218601	16	11	10	-1
+18	6m2LNopVJKsvBB9l7Z1rwn	Olha a Explosão	MC Kevinho	1174428	15	19	3	-3
+19	5SnQDj5REQVvAdSlhqkEcE	Malbec (Part. Dennis Dj) - Ao Vivo	Henrique & Diego	1043695	17	19	9	-2
+20	6gquljDBW7rE6mCBzmTRxo	Raspão - Ao Vivo	Henrique & Diego	1031206	18	19	18	-2
+21	0KKkJNfGyhkQ5aFogxQAPU	That's What I Like	Bruno Mars	989697	24	12	21	3
+22	2GfxgssRHvY1azHtaRqKoK	Paredes - Ao Vivo	Jorge & Mateus	959461	20	19	16	-2
+23	6vve9WKW5I7fQzkU8dNsUE	E Essa Boca Aí? - Ao Vivo	Bruninho & Davi	945561	21	19	10	-2
+24	3eR23VReFzcdmS7TYCrhCe	It Ain't Me (with Selena Gomez)	Kygo	939882	23	12	11	-1
+25	6bgQIw80xWC3MPZX4kVYGw	Trevo (Tu)	ANAVITÓRIA	930607	25	15	25	0
+26	0lwrkYbCwtAWTI0OIWEnd6	Fica	ANAVITÓRIA	925860	28	3	26	2
+27	3YSagrvQP9x32rAjEI48PL	Raplord	Haikaiss	911658	22	8	10	-5
+28	61GiOLLEn0LcavpVu1my6Q	Fuego	Alok	896198	37	10	21	9
+29	1J0iYsJuVhqfDhBoSLuO9A	K.O.	Pabllo Vittar	893155	36	3	29	7
+30	1Bq86AS6wf5a5cEB8CM6dZ	Exclusividade - Ao Vivo	Matheus & Kauan	884051	33	10	30	3
+31	44mr3ypWNHa0inr3heiOb2	Medida Certa	Jorge & Mateus	882597	52	2	31	21
+32	0dA2Mk56wEzDgegdC6R17g	Stay (with Alessia Cara)	Zedd	867939	39	11	32	7
+33	4sFVdIwmVj2y87qqOWwSU3	Se o Amor Tiver Lugar	Jorge & Mateus	867349	27	15	26	-6
+34	0jIitZeIQRTaZgFQf2WpGK	Decide Aí - Na Praia / Ao Vivo	Matheus & Kauan	863286	26	19	13	-8
+35	2evRcqkyzWqaD9DJtP2oaU	Rabetão	MC Lan	858891	73	5	35	38
+36	2Gvn46nwyQhUnQiFhlP7WX	Como Faz Com Ela - Ao Vivo	Marília Mendonça	854597	31	19	22	-5
+37	56gpstNB96id9ngmImIkaH	Quem Mando Tu Terminar? (To Bonito To Né?)	MC Kekel	847172	29	13	21	-8
+38	77TElJdpImw8cSv6t4mCIr	Open The Tcheka	MC Lan	833089	63	4	38	25
+39	3LFG5DqNQRK0yL6WNMw99P	Ciumento Eu - Ao Vivo	Henrique & Diego	819656	34	17	34	-5
+40	5NNlUMcOEOdoOIwwaWXv0k	Cold	Maroon 5	809818	43	12	31	3
+41	4YhPcVIxIAJrLhFVPGbJkE	De Quem É a Culpa? - Ao Vivo	Marília Mendonça	808182	44	17	24	3
+42	2PS6YQ9jMpm0uCg4sQ1ygm	Oh Novinha	Mc Don Juan	808103	30	16	20	-12
+43	6AaoEX192rJ6o3UFwG43sV	Automaticamente	Dennis DJ	803243	41	11	36	-2
+44	2wFnRPjuqwNySFiK0Qfg8L	10% - Ao Vivo	Maiara & Maraisa	801604	35	19	6	-9
+45	5aAx2yezTd8zXrkmtKl66Z	Starboy	The Weeknd	786647	45	19	6	0
+46	2KGv51jgAz8OTjNPyRryfq	Pra Sempre Com Você - Ao Vivo	Jorge & Mateus	786247	38	19	35	-8
+47	79cuOz3SPQTuFrp8WgftAu	There's Nothing Holdin' Me Back	Shawn Mendes	782032	47	3	47	0
+48	45wqPwIH4A5cr2IyyD4WKf	Eu Sei de Cor - Ao Vivo | Acústico	Marília Mendonça	754904	42	19	4	-6
+49	6mICuAdrwEjh6Y6lroV2Kg	Chantaje (feat. Maluma)	Shakira	739048	57	19	13	8
+50	6zCqeUUqLb2CapBmVwAHll	Meu Coração Deu PT - Ao Vivo	Wesley Safadão	737789	40	19	7	-10
+51	51PIvodunv6NmX5250zxAh	The Cure	Lady Gaga	724148	46	4	15	-5
+52	6kex4EBAj0WHXDKZMEJaaF	Swalla (feat. Nicki Minaj & Ty Dolla $ign)	Jason Derulo	711736	62	8	52	10
+53	12wiyBZqQ3mOU7AfygXJCw	Homem de Família - Ao Vivo	Gusttavo Lima	708906	49	19	28	-4
+54	2CW04trIoYMbroZWDzPAjs	Medo Bobo - Ao Vivo	Maiara & Maraisa	663853	54	19	5	0
+55	4FxumkF81ICxITeqxx4nK9	Sim ou não (participação especial Maluma)	Anitta	663009	48	19	10	-7
+56	0CcQNd8CINkwQfe1RDtGV6	Believer	Imagine Dragons	659891	58	14	38	2
+57	7BKLCZ1jbUBVqRi2FVlTVw	Closer	The Chainsmokers	657933	50	19	3	-7
+58	3NdDpSvN911VPGivFlV5d0	"I Don’t Wanna Live Forever (Fifty Shades Darker) - From ""Fifty Shades Darker (Original Motion Picture Soundtrack)"""	ZAYN	624827	60	19	10	2
+59	0EPxmvsG1BY5td4aTOkWBF	Deu Onda	MC G15	620311	53	19	1	-6
+60	2lLOaRPi8yQxQ8BlFZBLOl	Papel Amassado - Ao Vivo	Matheus & Kauan	615744	61	11	54	1
+61	6SwI4OplF8m5NH8wHKIps8	O Nosso Santo Bateu - Na Praia / Ao Vivo	Matheus & Kauan	614217	59	19	23	-2
+62	6520aj0B4FSKGVuKNsOCOi	Chained To The Rhythm	Katy Perry	608796	51	13	4	-11
+63	4aAq1afusFG6jRiOSHQZvN	Tumbalatum	MC Kevinho	607629	55	19	16	-8
+64	5Ohxk2dO5COHF1krpoPigN	Sign of the Times	Harry Styles	604422	72	5	18	8
+65	4SjkLzyFBVXaxuB6SbJyJN	Eu Sei de Cor - Ao Vivo	Marília Mendonça	601000	65	11	55	0
+66	7KXjTSCq5nL1LoYtL7XAwS	HUMBLE.	Kendrick Lamar	589946	56	6	49	-10
+67	0Zu7NVn4IvfYuEIrD11UVr	Na Hora da Raiva - Ao Vivo	Henrique & Juliano	589307	64	19	35	-3
+68	72jbDTw1piOOj770jWNeaG	Paris	The Chainsmokers	586948	66	17	17	-2
+69	4pdPtRcBmOSQDlJ3Fk945m	Let Me Love You	DJ Snake	580882	69	19	11	0
+70	3ebXMykcMXOcLeJ9xZ17XH	Scared to Be Lonely	Martin Garrix	570401	71	15	40	1
+71	0GR7ZABhVF9GbxghIx2RRv	Nada Nada - Ao Vivo	Henrique & Juliano	567451	68	19	44	-3
+72	4jswhbcaGqFe8v5uSHlqyb	O Verão Está Chegando	Mc Davi	558324	67	19	28	-5
+73	5hkjlU7sUcZb9wOYd1eRBE	Eu Era	Marcos & Belutti	551674	78	4	73	5
+74	3dRBzTOu9polrH9U6Vh2zw	Ou Some Ou Soma - Ao Vivo	Jorge & Mateus	548447	70	19	31	-4
+75	41mt7YrfLrIc4EQJZFCJtw	Como É Que a Gente Fica - Ao Vivo	Henrique & Juliano	543277	75	19	25	0
+76	5GXAXm5YOmYT0kL5jHvYBt	I Feel It Coming	The Weeknd	541333	79	19	46	3
+77	6cbZb9mVAc5s8HtwklLoI0	Cheguei	Ludmilla	529191	151	5	77	74
+78	2Gl0FzuLxflY6nPifJp5Dr	First Time	Kygo	523187	84	2	78	6
+79	0afhq8XCExXpqazXczTSve	Galway Girl	Ed Sheeran	514563	92	10	25	13
+80	5knuzwU65gJK7IF5yJsuaW	Rockabye (feat. Sean Paul & Anne-Marie)	Clean Bandit	513600	81	19	25	1
+81	1louJpMmzEicAn7lzDalPW	No Promises (feat. Demi Lovato)	Cheat Codes	509203	120	6	81	39
+82	4pLwZjInHj3SimIyN9SnOz	Side To Side	Ariana Grande	505157	80	19	20	-2
+83	7hDc8b7IXETo14hHIHdnhd	Passionfruit	Drake	498000	82	8	74	-1
+84	5kXgLlxHMv3aP7xLxMrjiV	Oitava Dose - Ao Vivo	Matheus & Kauan	484381	74	9	68	-10
+85	0Nhu3zSYbEz32IYiobV75e	Now Or Never	Halsey	479652	85	5	67	0
+86	61WbtB6ujkpNAsAf5LjF4b	Bon appétit	Katy Perry	462477	32	2	32	-54
+87	6TmmyW0fR8mo3ACj07lGmO	Oh Meu Deus	Projota	458318	76	15	63	-11
+88	0qYTZCo5Bwh1nsUFGZP3zn	Felices los 4	Maluma	457792	160	2	88	72
+89	3eGK0WFi6ISJ9UZA6Za4HX	Singular	ANAVITÓRIA	443245	89	19	52	0
+90	4YV827A7aWVswtyt0eWoWM	Sorte Que Cê Beija Bem - Ao Vivo	Maiara & Maraisa	432465	107	15	90	17
+91	1LTxGBL6yKtfmW3K8EvbSY	Partiu	MC Kekel	429608	77	19	29	-14
+92	0tKcYR2II1VCQWT79i5NrW	Thunder	Imagine Dragons	426903	103	2	92	11
+93	0QsvXIfqM0zZoerQfsI9lm	Don't Let Me Down	The Chainsmokers	425821	91	19	44	-2
+94	5bm2GTEiU87Z95jX03y2Qk	Do Teto Ao Chão - Ao Vivo	Matheus & Kauan	423605	86	12	59	-8
+95	5Bc53chGSf3AoJRbB5mzR6	Ficadinha - Ao Vivo	Henrique & Diego	416178	90	13	83	-5
+96	4BQMlG5VKApk9AdIsjxDqx	A Nossa Praia - Ao Vivo	Matheus & Kauan	416159	88	13	63	-8
+97	0gbBzIqrECJOEPvQJIBFs5	Green Light	Lorde	414534	83	10	10	-14
+98	6DNtNfH8hXkqOX1sjqmI7p	Cold Water (feat. Justin Bieber & MØ)	Major Lazer	414370	93	19	12	-5
+99	04DwTuZ2VBdJCCC5TROn7L	In the Name of Love	Martin Garrix	409574	96	19	41	-3
+100	0w5Bdu51Ka25Pf3hojsKHh	Hard Times	Paramore	401449	87	4	54	-13
+101	1x5sYLZiu9r5E43kMlt9f8	Symphony (feat. Zara Larsson)	Clean Bandit	399214	105	7	101	4
+102	6BPt2sVRvE41rUixcCAHY6	A Mala É Falsa - Ao Vivo	Felipe Araújo	396361	97	19	67	-5
+103	3twpVbHfTCpgHNlStxfpzx	Até Ex Duvida - Ao Vivo	Day e Lara	394614	98	19	90	-5
+104	2yGnStdGP0V45lPXAJpmDb	Agora Eu Quero Ir	ANAVITÓRIA	393002	109	19	51	5
+105	5kRPPEWFJIMox5qIkQkiz5	Sweet Creature	Harry Styles	392282	nan	1	105	new
+106	4TZy1wLyHec06pwgFYDh1a	Mercy	Shawn Mendes	391144	94	19	39	-12
+107	4lbPwb1Beo7JU2VwuJRTeR	Suíte 14 - Ao Vivo	Henrique & Diego	387878	95	19	62	-12
+108	1xznGGDReH1oQq0xzbwXa3	One Dance	Drake	387089	101	19	17	-7
+109	3EmmCZoqpWOTY1g2GBwJoR	Just Hold On	Steve Aoki	383467	114	19	35	5
+110	0tICYNayWWhH9GPeFrfjfD	This Girl (Kungs Vs. Cookin' On 3 Burners)	Kungs	380794	106	19	63	-4
+111	3CRDbSIZ4r5MsZ0YwxuEkn	Stressed Out	Twenty One Pilots	379081	112	19	82	1
+112	4Hf7WnR761jpxPr5D46Bcd	Treat You Better	Shawn Mendes	377967	99	19	38	-13
+113	5MFzQMkrl1FOOng9tq6R9r	Don't Wanna Know	Maroon 5	376597	102	19	16	-11
+114	1WCn5QBp0Kl9uHrR0J02GS	Vou Voando - Ao Vivo	Jorge & Mateus	374084	104	19	43	-10
+115	6fxVffaTuwjgEk5h9QyRjy	Photograph	Ed Sheeran	366569	127	19	65	12
+116	5NH1hgZbrQGXMMZKcBQV3l	O Mar Parou	Michel Teló	364901	116	7	116	0
+117	69bp2EbF7Q2rqc5N3ylezZ	Sorry	Justin Bieber	363390	115	19	38	-2
+118	6b8Be6ljOzmkOmFslEb23P	24K Magic	Bruno Mars	362056	129	19	24	11
+119	4PNi30UilK0CZi2z9wegMQ	Deixa a Gente Quieto - Ao Vivo	João Bosco & Vinicius	361064	111	19	103	-8
+120	0fg8CqpjdojMyXLNzM2PaJ	Run Up (feat. PARTYNEXTDOOR & Nicki Minaj)	Major Lazer	360269	126	15	67	6
+121	3iDY4SzUHPkC3WTXpfxXJG	Todo Dia	Pabllo Vittar	359472	131	16	41	10
+122	1sXUWdKx03aP9Gmzft58rt	Issues	Julia Michaels	358863	118	14	89	-4
+123	1ypcU9264wnBwPvmrIy4fx	Você Merece Cachê - Ao Vivo	Israel Novaes	358067	110	19	48	-13
+124	75r8bI2MTVDwgIKJplD5LS	Living On The Outside	Bruno Martini	356499	139	5	104	15
+125	3rOSwuTsUlJp0Pu0MkN8r8	Mask Off	Future	354633	128	6	125	3
+126	4iLqG9SeJSnt0cSPICSjxv	Attention	Charlie Puth	354575	175	2	126	49
+127	0YK4RDyccDYO5aWQGKMZ2h	Chave Cópia - Ao Vivo	Felipe Araújo	352407	121	6	120	-6
+128	1vvNmPOiUuyCbgWmtc6yfm	My Way	Calvin Harris	350605	124	19	23	-4
+129	3E9s5Feisg3xmzzAHdq4aa	Remexe mexe	Delano	349502	125	19	80	-4
+130	3mTUqLbtWm2DAEwvQTyu4d	Ela Só Quer Paz	Projota	349149	122	19	37	-8
+131	6mORGLOz79w6VsCRLWYYuK	The Night We Met	Lord Huron	348161	100	5	85	-31
+132	5OZqnhkGUxuSuW2P7CzH7y	Estaca Zero	Luan Santana	346284	113	19	54	-19
+133	6UZJOc2HBrTp9DYfir9N8n	Regime Fechado - Ao Vivo	Simone & Simaria	345024	138	19	54	5
+134	5E7ZTCsfsWr1Jlr6VK1AHu	Xanaína / Boga na Linguiça / Vem Cá Xaninha	MC Lan	342591	130	7	122	-4
+135	27SdWb2rFzO6GWiYDBTD9j	Cheap Thrills	Sia	339281	134	19	41	-1
+136	6JV2JOEocMgcZxYSZelKcc	"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")"	Justin Timberlake	337399	117	19	55	-19
+137	000xQL6tZNLJzIrtIgxqSl	Still Got Time	ZAYN	335186	108	7	69	-29
+138	68EMU2RD1ECNeOeJ5qAXCV	We Don't Talk Anymore	Charlie Puth	333061	137	19	66	-1
+139	3hB5DgAiMAQ4DzYbsMq1IT	Love Yourself	Justin Bieber	332753	133	19	88	-6
+140	5mWbOKfRxcS5iv32amTHPe	All I Want (feat. Stonefox) - Edit	Alok	330465	nan	14	107	re-enter
+141	3pM81OKNrV6d2zJb76nQ6M	Turutum	MC Kevinho	330381	132	19	59	-9
+142	38MpAndIjGAyVdcC6npX95	Infiel - Ao Vivo	Marília Mendonça	328824	123	19	14	-19
+143	6HZILIRieu8S0iqY8kIKhj	DNA.	Kendrick Lamar	327322	119	4	75	-24
+144	4RiawNnc4pew07pvV69ksg	Vish, Aff, Putz, Nossa	Pedro Paulo & Alex	324955	136	15	132	-8
+145	2WTCoQLkQ9FPdvThkf8nN1	Me & You (feat. IRO)	Alok	320906	181	19	80	36
+146	5mR5GuercvLXgx4TPnGl9k	Mordida, Beijo e Tapa	Naiara Azevedo	318781	146	8	146	0
+147	1cG0umU5TKStygKsPFZ9pY	Shed a Light	Robin Schulz	318673	162	19	70	15
+148	50PWlIBU7PlGGwzgN8TiFJ	Million Reasons	Lady Gaga	316414	141	14	111	-7
+149	0azC730Exh71aQlOt9Zj3y	This Is What You Came For	Calvin Harris	316151	142	19	56	-7
+150	1Tn0msQvQMbD6woO9VnEG3	Sou eu	Ludmilla	315058	154	19	50	4
+151	17Fd6Yb7mSbinKG8LoWfFl	I Took A Pill In Ibiza - Seeb Remix	Mike Posner	313129	143	19	51	-8
+152	7hA7pMp2Vr1OCC4sWYwaMG	Our Way	FTampa	309115	172	19	52	20
+153	7nKBxz47S9SD79N086fuhn	SUBEME LA RADIO	Enrique Iglesias	308609	164	3	153	11
+154	2InJDvDcA4RXEeA9njdibl	Louca de Saudade - Ao Vivo	Jorge & Mateus	306697	135	19	36	-19
+155	4ksSf8cL3VlUvQSkFcRHy3	Até Você Voltar	Henrique & Juliano	306028	152	8	152	-3
+156	1FUViuNSldssMIawrOXF2i	I Got You	Bebe Rexha	304354	178	18	104	22
+157	716p41p4BQQuUMgOP8ucpF	Você Foi Diferente	MC G15	304122	147	19	106	-10
+158	6HUnnBwYZqcED1eQztxMBN	Solo Dance	Martin Jensen	303593	153	18	112	-5
+159	1t0EUDKUR1F5911t7eh3Wi	Amante Não Tem Lar - Ao Vivo	Marília Mendonça	303522	173	17	62	14
+160	1n8MLpbFR0fuCjNnlyuHxS	Solteiro Apaixonado	Marcos & Belutti	302996	150	8	150	-10
+161	0phVJ23NJlruwtt1XCm94N	Flor e o Beija-Flor - Ao Vivo	Henrique & Juliano	302735	140	19	46	-21
+162	3HrvG1d9OZpg6eV4A1dcSk	De Tanto Te Querer - Ao Vivo	Jorge & Mateus	301503	148	19	125	-14
+163	5j0tH4MzB4QyJLX8Ys9ofG	Elas Gostam	MC Kevinho	300674	144	19	76	-19
+164	7syZTLPzfZN9rYbQBtYmVB	Minha Ex	MC Bin Laden	295852	149	11	125	-15
+165	4tCtwWceOPWzenK2HAIJSb	Work from Home (feat. Ty Dolla $ign)	Fifth Harmony	295166	163	19	61	-2
+166	5uCax9HTNlzGybIStD3vDh	Say You Won't Let Go	James Arthur	293734	155	19	81	-11
+167	2dvyNlZ8jkLq4DMzVVyXQH	Antídoto - Ao Vivo	Matheus & Kauan	293687	177	5	167	10
+168	4gvePWCd0GfkC40QshflUy	Cheia de Marra	Mc Livinho	293201	157	19	79	-11
+169	3E2Zh20GDCR9B1EYjfXWyv	Weak	AJR	290482	176	15	71	7
+170	7vRriwrloYVaoAe3a9wJHe	i hate u, i love u (feat. olivia o'brien)	gnash	289677	179	19	136	9
+171	2Q4zHSJgtlc9mWoWQXpSJX	Sua Amiga Vou Pegar	MC WM	288517	nan	1	171	new
+172	7tr2za8SQg2CI8EDgrdtNl	Slide (feat. Frank Ocean & Migos)	Calvin Harris	286117	156	11	126	-16
+173	2uZXycmB2DFpJTNl6qmeF4	Fumaça Ninja - Ao Vivo	Henrique & Diego	283385	165	8	151	-8
+174	0tnkjhlQ1mBg8s5guCo9fs	Grave Faz Bum	MC WM	281604	183	3	174	9
+175	2aFiaMXmWsM3Vj72F9ksBl	Cake By The Ocean	DNCE	281144	180	19	78	5
+176	3DxMZGUDd6e3I37WM7IaMK	A Gente Tá Se Amando - Ao Vivo	Henrique & Diego	280318	171	5	168	-5
+177	4xHkRNzzHtj3O3Z1pjYWRC	Me Espera	Sandy	280032	194	19	100	17
+178	6V3J5pbU5yBvB5zxPSyP5v	Pé Direito	Mc Davi	278752	167	19	81	-11
+179	6P8v1a8jyfwG5kc7Si1kUp	Amante Não Tem Lar - Ao Vivo	Marília Mendonça	276732	191	2	179	12
+180	0prNGof3XqfTvNDxHonvdK	Scars To Your Beautiful	Alessia Cara	276409	189	19	89	9
+181	7clSIA4MRU6LJAoCWWEiuy	Made In Roça	Loubet	275522	174	11	167	-7
+182	000xYdQfIZ4pDmBGzQalKU	Eu, Você, O Mar e Ela	Luan Santana	274984	161	19	15	-21
+183	2aksifNn5ph8igDOkPBA02	Love On The Brain	Rihanna	273579	159	9	148	-24
+184	167NczpNbRF7oWakJaY3Hh	Slow Hands	Niall Horan	273382	nan	1	184	new
+185	3FiE2d325mIOc4YjkSLVJR	Everyday	Ariana Grande	269051	145	7	145	-40
+186	1qOLh0tI7trd1zdDKxYZTe	Starving	Hailee Steinfeld	267507	188	18	99	2
+187	1xFgXCY8Zvo76gHg4RgUaU	Sosseguei - Ao Vivo	Jorge & Mateus	266949	169	19	33	-18
+188	78rIJddV4X0HkNAInEcYde	Call On Me - Ryan Riback Extended Remix	Starley	266457	193	19	103	5
+189	6i0V12jOa3mr6uu4WYhUBr	Heathens	Twenty One Pilots	264850	184	19	76	-5
+190	2DAGCHu5aoo2FOjmtU9ojo	50 Reais	Naiara Azevedo	264692	170	19	16	-20
+191	7CmuLM2vfzA78iHeqastoP	Seu Polícia - Ao Vivo	Zé Neto & Cristiano	264253	182	19	49	-9
+192	3rq5w4bQGigXOfdN30ATJt	Do I Wanna Know?	Arctic Monkeys	261728	195	19	153	3
+193	3cS6YsU197mrdPTyR7nbp7	Parece Piada - Ao Vivo	Henrique & Juliano	261085	187	19	74	-6
+194	6PCUP3dWmTjcTtXY02oFdT	Castle on the Hill	Ed Sheeran	260543	168	18	15	-26
+195	7gHs73wELdeycvS48JfIos	Faded	Alan Walker	260176	186	19	116	-9
+196	1WP1r7fuvRqZRnUaTi2I1Q	Stitches	Shawn Mendes	259816	190	19	118	-6
+197	5LYQSNHZxEA880URXFHg6h	Lust for Life (with The Weeknd)	Lana Del Rey	255733	158	3	75	-39
+198	7BpYWzZwrsljT1eIjb0TqR	Told You So	Paramore	254769	nan	1	198	new
+199	6SwRhMLwNqEi6alNPVG00n	LOYALTY. FEAT. RIHANNA.	Kendrick Lamar	252167	166	4	82	-33
+200	1OAiWI2oPmglaOiv9fdioU	Hymn for the Weekend - Seeb Remix	Coldplay	250639	200	18	87	0

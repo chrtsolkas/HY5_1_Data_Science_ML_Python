@@ -1,0 +1,201 @@
+position	song_id	song_name	artist	streams	last_week_position	weeks_on_chart	peak_position	position_status
+1	1skUhc3JS3jLCfugI3gm41	Kein Plan	Loredana	6298941	nan	1	1	new
+2	5dhQeuLGmlhfwlI6BWfSpo	Roller	Apache 207	6238203	1	3	1	-1
+3	6AFIVhbJLR7YVvW9fLFMu1	Huracan	Samra	6175428	nan	1	3	new
+4	1rgnBhdG2JDFTbYkYRZAku	Dance Monkey	Tones And I	4068512	5	6	4	1
+5	01vR5Z7AHinp9D2wu2BNQS	UP IN SMOKE	RIN	3374923	2	2	2	-3
+6	1pUaqU8EUStLTqERPzcp3O	Primetime	Summer Cem	2762453	8	2	6	2
+7	6v3KW9xbzN5yKLt9YKDYA2	Señorita	Shawn Mendes	2538331	7	7	1	0
+8	52UVKsw31NTOCTNPTpwbFJ	Eiskalt	Loredana	2497827	9	6	1	1
+9	1e9QSdX5uLUw6vbrkZJyXi	Fendi Drip	Luciano	2428258	4	2	4	-5
+10	3drwaFqLSEjqzjNRbjap0R	Nummer 1	Capital Bra	2399191	6	3	2	-4
+11	7kQMPnMzK1bykUxmF4QXbV	Intro-Résumé	Miami Yacine	2302469	10	4	3	-1
+12	28r8yfatcoOTY7ZjqhKaJM	Vendetta	RAF Camora	2187923	3	2	3	-9
+13	1VEMUkGFio5uURvN8x1DZJ	Tilidin	Capital Bra	1953977	16	12	1	3
+14	5nmVf5dSgH4A25qsev28Mi	gENAuSo	Dardan	1952127	12	4	4	-2
+15	6osaMSJh9NguagEDQcZaKx	Loco Contigo (feat. J. Balvin & Tyga)	DJ Snake	1938518	13	7	5	-2
+16	51MMC5DogGZAnHil5HQAXg	Circles	Post Malone	1902575	nan	1	16	new
+17	70eFcWOvlMObDhURTqT4Fv	Beautiful People (feat. Khalid)	Ed Sheeran	1878368	15	9	8	-2
+18	0KVMii9yiSjh4az2KzAWnl	Paradies	Mika	1875728	nan	1	18	new
+19	07f2b3CTdgKKlhv0mqUksz	Vermissen (feat. Henning May)	Juju	1751862	19	13	4	0
+20	6vBdBCoOhKHiYDDOcorfNo	Goodbyes (Feat. Young Thug)	Post Malone	1667289	33	10	16	13
+21	65NX0qTlnZTDYzTypKfOWD	Run Run Run	Capo	1624245	21	6	3	0
+22	6c9BTouejmbCClzUFXnKY6	Entourage	Eno	1615415	nan	1	22	new
+23	0sHeIbgbNzKF8rGspC1FHV	Brillis	Shirin David	1597002	14	3	4	-9
+24	2y2Y9NYYK9pSqbTIaSxu1X	Junior Neymar	EREN CAN	1570474	25	2	24	1
+25	2kkcJ8tSDV42LdWcPjy6We	Wieder Lila	Samra	1544264	24	17	1	-1
+26	1DFD5Fotzgn6yYXkYsKiGs	Piece Of Your Heart	MEDUZA	1506452	20	19	8	-6
+27	5opjywL6TBjJRF22TcFDMo	Jetzt rufst du an	Loredana	1464989	23	10	2	-4
+28	3idg3BQI5yc5wnfItAgKkT	Verliebt in einen Gangster 2 (feat. Nura)	18 Karat	1457619	18	2	18	-10
+29	0qpJmNY2DvYNj2MeqTHcYY	Yeah	Luciano	1447583	11	2	11	-18
+30	2Fxmhks0bxGSBdJ92vM42m	bad guy	Billie Eilish	1393978	29	24	3	-1
+31	1Net9qe5SMC39rBDHyFI8U	Tempomat	Bausa	1379756	nan	1	31	new
+32	7C39RtGhnEw7cyf0Pyw7PV	Saint-Tropez	Post Malone	1324340	nan	1	32	new
+33	0U6bQIAh6MCGo1xjbIIx2S	Instagram	Dimitri Vegas & Like Mike	1288159	27	9	24	-6
+34	77Y7tccX9Hx5iClDr39uy9	Hollywood's Bleeding	Post Malone	1284720	nan	1	34	new
+35	2QpxC2yag7Ec7Ut1dovXKb	Diamonds (feat. Capital Bra)	Summer Cem	1282896	30	13	2	-5
+36	51Fjme0JiitpyXKuyQiCDo	Lalala	Y2K	1281261	36	11	36	0
+37	6wo37KVqFJhtuxPTpLCcfe	Takeaway (feat. Lennon Stella)	The Chainsmokers	1271036	26	7	25	-11
+38	5Pwu8NkDhEkObPp8TvHMUn	Better	Lena	1255529	44	4	38	6
+39	3Zigq1lfHmFRlyoRrh9k2s	Kein Problem	Apache 207	1245993	49	18	39	10
+40	0TId5TSbdcBP32haUV4Aet	Stars	VIZE	1200312	35	15	20	-5
+41	7qEHsqek33rTcFNT9PFqLf	Someone You Loved	Lewis Capaldi	1162716	51	17	27	10
+42	0hVXuCcriWRGvwMV1r5Yn9	I Don't Care (with Justin Bieber)	Ed Sheeran	1161526	28	9	9	-14
+43	0YU17F0BlVXvmx5ytsR43w	Monster	LUM!X	1154177	42	13	34	-1
+44	6c1N7X3dDuHz3GXUHwVcNV	Suizid	PA Sports	1153087	nan	1	44	new
+45	406zkeKglOewTtDKfOo7FP	High	Sido	1151826	17	2	17	-28
+46	1brGZSwRGMoIMOmPI6BrS4	Lucky Luke	AK Ausserkontrolle	1132939	nan	1	46	new
+47	3nTDSbzJoMnqcxWbVVrpza	Rollerblades (feat. KC Rebell)	Summer Cem	1117066	34	5	3	-13
+48	2YpeDb67231RjR0MgVLzsG	Old Town Road - Remix	Lil Nas X	1108078	39	7	19	-9
+49	4kna7DSzKjH1Be7Y3XYxYL	Nummer	Ufo361	1095478	31	5	4	-18
+50	7M9w4C8WenlvWfNRAulZOX	Narcotic	Younotus	1088392	40	15	22	-10
+51	6EOKwHETwSkZ9gW2b6ASE0	Ransom	Lil Tecca	1062782	46	2	46	-5
+52	02itaCXOdC54J0ISjqqFAp	All Around The World (La La La)	R3HAB	989057	48	17	20	-4
+53	4Yq3XUNfWrAPWuB94qkC09	Take What You Want (feat. Ozzy Osbourne & Travis Scott)	Post Malone	984275	nan	1	53	new
+54	4SWu9u2dLzmYa8dMieyayQ	Hoch	Tim Bendzko	983284	76	4	54	22
+55	2Jij6ebp6ToNKOn5DWlGxV	Mary	Bausa	974309	54	12	21	-1
+56	0mjAU3yKR1QnXnHtjGJqTM	Rescue Me	OneRepublic	953411	45	17	25	-11
+57	6oJ6le65B3SEqPwMRNXWjY	Higher Love	Kygo	941551	52	11	46	-5
+58	59PYPDxTbqJpiGfyogPb5h	Die For Me (feat. Future & Halsey)	Post Malone	925535	nan	1	58	new
+59	4SCM1b1vS70TtNQmO7Lo7B	04:30	Ufo361	921092	57	5	12	-2
+60	5nAszhJBgJpQUFg5SLF8nt	Modus Mio	Mert	895582	nan	1	60	new
+61	6UFEJuDXQMWhL5UH5f9fUR	Enemies (feat. DaBaby)	Post Malone	888169	nan	1	61	new
+62	1ERXF9U6jJlnhYMHRXSAKG	La Haine	Luciano	880094	38	2	38	-24
+63	554Ip3S1rbeES9TNWXGoK1	ON OFF (feat. Maître Gims)	Shirin David	876331	53	11	2	-10
+64	2ksOAxtIxY8yElEWw8RhgK	China	Anuel AA	873884	55	7	41	-9
+65	0Zp10WiPeEi6EUJZvWcNT9	Mad Love	Mabel	864447	58	6	47	-7
+66	6b2RcmUt1g9N9mQ3CbjX2Y	How Do You Sleep?	Sam Smith	837973	62	8	44	-4
+67	3GmfHF5RUe6r5C9UbvIXQp	Neptun	KC Rebell	832955	59	8	2	-8
+68	6fDC5DIa4bt6NbPZWR1yxM	Zombie	Samra	814825	60	9	1	-8
+69	6erIvryBSsAdebNU4a7Mrs	Hi Babe	Juju	804443	69	13	10	0
+70	1u5jYTx2WdptYWYpwqcE9n	2 Minuten	Apache 207	801524	71	9	24	1
+71	0hGH0S74Eoyv6mXZcOKtdQ	On The Road (feat. Meek Mill & Lil Baby)	Post Malone	797703	nan	1	71	new
+72	5HaEwK6Oml3ofO2XXSMEsV	Shot	Ufo361	792719	61	5	15	-11
+73	5e0bzcsI1khimLSJhddHdS	Brot nach Hause	Apache 207	792567	75	18	43	2
+74	4VqTRBvYg0z8C4nsl4Hupy	Sunflower - Spider-Man: Into the Spider-Verse	Post Malone	780388	nan	1	74	new
+75	56DP74K3QXG718EKuVIB2U	Jean Paul Gaultier	Luciano	773386	22	2	22	-53
+76	4UOXo3xWnxYdTf3sFyRaUG	500 PS	Bonez MC	767303	73	49	1	-3
+77	2Tidd473qI44pMi5eV3lFg	Benzin	Olexesh	761135	43	2	43	-34
+78	7KkRdt5G4MsF1Dm0QobdRZ	Im Film	Luciano	746464	47	2	47	-31
+79	322tcqPhma7F6hfCeLisx0	fuck, i'm lonely	Lauv	744214	78	6	76	-1
+80	2KIXeJqdCFV3Y7IBJyqnMV	Bonbon	Kalazh44	738575	74	2	74	-6
+81	3hFG4jR5stnIQJDI64KlJY	A Thousand Bad Times	Post Malone	730411	nan	1	81	new
+82	5dW1VZPcFqB4n0P08rGDgm	The Git Up	Blanco Brown	724635	80	8	67	-2
+83	3NIRDSC2fcfOZkpx8UPMYd	No Name	MERO	718297	50	3	12	-33
+84	0Nq7JtZtjHjJ2fprzzgwio	Glad You Came	VIZE	717633	66	18	32	-18
+85	211uzLvGARhIKcPycGEg91	Kal Kal	Noah	717093	56	3	23	-29
+86	2vuFdbSOLje3khV4rLSEpm	Viva la Dealer	SDP	708153	83	28	25	-3
+87	3rn5zo49rHQdIR4G8wvXNb	cOcO MAmA	Dardan	689232	84	4	62	-3
+88	1tNJrcVe6gwLEiZCtprs1u	3 Nights	Dominic Fike	686654	77	23	31	-11
+89	2ve5NyzWHUbIYxL33goCX7	Wow.	Post Malone	676467	nan	1	89	new
+90	6moU77g9RQyMzHNuKEaQKq	It's You	Ali Gatie	662944	86	12	59	-4
+91	4k4vUYR2vNbm5Incmgpe4F	Jayjo	Undacava	659942	102	9	80	11
+92	7LzouaWGFCy4tkXDOOnEyM	Liar	Camila Cabello	640811	nan	1	92	new
+93	6n39IzCJ6O6utv65Lcku6X	Rahat	Ardian Bujupi	639087	nan	1	93	new
+94	4KmfgzXQ1trtD2eY7CtUAP	Love On Myself	Felix Jaehn	639078	88	8	87	-6
+95	4hPpVbbakQNv8YTHYaOJP4	One Thing Right	Marshmello	638959	92	12	71	-3
+96	70zRDnEkOhVb51fZA13khd	Yallah Goodbye (feat. Gringo)	Summer Cem	624421	87	10	4	-9
+97	4qOTcNt9fUBA1PhA2VFg8W	Nautilus	Shindy	620918	96	9	20	-1
+98	3mbGX2yy83BtCiPO59mE5r	Barrio	Olexesh	615466	97	17	11	-1
+99	1FuJKBi6XdFyf8Yzmck468	Letzte Träne	Kontra K	612580	107	16	6	8
+100	5WHTFyqSii0lmT9R21abT8	Don't Call Me Up	Mabel	612288	99	31	18	-1
+101	1YPG8NGJrnX9a24BRjsWLI	Cadillac	Luciano	612210	37	2	37	-64
+102	0nxYyX5PIHJqF4VSb4CIFV	All This Love (feat. Harlœ)	Robin Schulz	608079	70	19	39	-32
+103	1sGorUUJzayxTA5JF2Yt8c	Leben vor dem Tod	Sido	605420	90	6	30	-13
+104	4j5WelE5mkf9A2jmts729h	Cherry Lady	Capital Bra	600477	104	18	10	0
+105	7vs1Yi6SUphHp0eW6ys8HG	Vincent	Sarah Connor	594991	108	15	31	3
+106	43DtCXAz2qUJ4YiTX6ICT0	DNA	KC Rebell	591118	110	21	15	4
+107	6fTt0CH2t0mdeB2N9XFG5r	Panini	Lil Nas X	589834	nan	11	70	re-enter
+108	1NEVAw0308u7bIvQ9HLNyl	now*	Data Luv	589126	63	3	19	-45
+109	44ADyYoY5liaRa3EOAl4uf	Slide Away	Miley Cyrus	589013	113	4	104	4
+110	4LIbjDbLweGCrHVw8QbMSb	Allergic	Post Malone	586195	nan	1	110	new
+111	2e5o25udr5nhMuklOTZUME	Du weißt	Trettmann	584373	95	6	9	-16
+112	3wL5sFFKpHM2oGJl9JCpXn	Olé Olé	MERO	577584	81	5	6	-31
+113	2x0RZdkZcD8QRI53XT4GI5	SOS (feat. Aloe Blacc)	Avicii	575101	103	14	14	-10
+114	3I0FLq3MqViqahFskPnmsG	W.I.N.	Luciano	574730	32	2	32	-82
+115	0E9ZjEAyAwOXZ7wJC0PD33	In My Mind	Dynoro	572485	112	65	1	-3
+116	0Tq0EhQpVeQJwV3E3P5Jti	Prinzessa	Capital Bra	563606	116	22	13	0
+117	1194zYf7UfSXP4omxVTmPa	Yapma	C ARMA	561873	106	33	22	-11
+118	4hDoWaIklSVAKLocU3IDBr	I'm Gonna Be	Post Malone	551868	nan	1	118	new
+119	0Cy2x4vkNHiZ2Z3XiZE5Yu	Blei (feat. Veysel)	Kontra K	550653	120	16	14	1
+120	1mLBX54nL0dwn54jesMXGU	Labyrinth	Loredana	549145	125	14	7	5
+121	25sgk305KZfyuqVBQIahim	Sweet but Psycho	Ava Max	549111	124	49	2	3
+122	0Ryd8975WihbObpp5cPW1t	boyfriend (with Social House)	Ariana Grande	548589	91	6	32	-31
+123	4Nip6oiJU24LqcUEi7u19S	Standard (feat. Trettmann, Gringo, Ufo361 & Gzuz)	KitschKrieg	547481	121	47	1	-2
+124	25IrLROBpSpXCAD89NR1Wq	Macarena	Pietro Lombardi	545758	94	6	37	-30
+125	38lQ7lYhN3eSWepnZHaiBF	Rolex	Capital Bra	545333	119	22	1	-6
+126	6xwI9R3ZHT9nWtSYvffYQm	Vintage	RIN	537641	128	16	4	2
+127	40OMBMYRk5IQL6xCzGM0JA	Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)	Martin Garrix	536550	105	10	31	-22
+128	5iIgIxtMNeogKaFUfvuAbs	Gib Ihm	Shirin David	534623	117	30	1	-11
+129	4Eudc7cdrFkbMeYxUwxt9e	SHIRINBAE	Fler	531074	85	4	35	-44
+130	5w9c2J52mkdntKOmRLeM2m	Con Calma	Daddy Yankee	530807	115	31	13	-15
+131	6Q2qQTdLNfOubXXXzMNgwd	Papi (feat. badmómzjay)	Monet192	527393	145	12	123	14
+132	6sYJuVcEu4gFHmeTLdHzRz	Bittersweet Symphony (feat. Emily Roberts)	GAMPER & DADONI	527332	93	15	57	-39
+133	2qxmye6gAegTMjLKEBoR3d	Let Me Down Slowly	Alec Benjamin	527313	127	34	38	-6
+134	6WusSsncC0Oo9sFHKwQii6	Dior 2001	RIN	526019	130	7	130	-4
+135	2leIuE4fdcJoNMSKu5Yr7a	Staring At The Sun (feat. SZA)	Post Malone	516788	nan	1	135	new
+136	4Rif4wqdvzy84dhP1apC4Y	Royal Rumble	Kalazh44	515124	129	13	1	-7
+137	2tnVG71enUj33Ic2nFN6kZ	Ride It	Regard	514342	151	4	137	14
+138	3s4mrPrEFFPF0LmAfutW0n	The London (feat. J. Cole & Travis Scott)	Young Thug	510726	133	4	120	-5
+139	26wLOs3ZuHJa2Ihhx6QIE6	Teeth	5 Seconds of Summer	508753	160	3	139	21
+140	2i2JtDSr6GbkRpTToH15SN	Back to the Start	Michael Schulte	508645	118	20	32	-22
+141	06LvKELThd1uUFOA45VFqB	Nala	Kurdo	508417	111	3	64	-30
+142	0u2P5u6lvoDfwTYjAADbn4	lovely (with Khalid)	Billie Eilish	506686	167	36	54	25
+143	2VxeLyX666F8uXCJ0dZF8B	Shallow	Lady Gaga	505166	137	49	27	-6
+144	200cTjC6si5Xz9af2QeHi2	Wolke 10	MERO	502888	138	26	2	-6
+145	2e3bkN2QCScPUnUQiA9ZA4	Affalterbach	Shindy	502862	131	9	32	-14
+146	4NpCP4YhNlThzn8QFyCceH	Nicht wie du	Apache 207	496865	136	10	45	-10
+147	21cUGpkQZONi4EFowJqWUZ	stoned & allein - Remix	Selmon	494899	nan	1	147	new
+148	0F7FA14euOIX8KcbEturGH	Old Town Road	Lil Nas X	494889	134	7	108	-14
+149	55dO32dZaz8E840Hy1LRVa	J-Lo	AriBeatz	486909	100	3	37	-49
+150	3IAxzaV3IrnAxyDsVVbIR2	World At Our Feet	Timmy Trumpet	485589	nan	1	150	new
+151	6XHVuErjQ4XNm6nDPVCxVX	No Guidance (feat. Drake)	Chris Brown	484405	140	9	111	-11
+152	1jcgbCEa1Et4MEKk0XiWRu	Wie im Traum	Ardian Bujupi	471166	nan	1	152	new
+153	5ry2OE6R2zPQFDO85XkgRb	Money In The Grave (Drake ft. Rick Ross)	Drake	468662	141	13	48	-12
+154	22vgEDb5hykfaTwLuskFGD	Sucker	Jonas Brothers	466865	142	14	37	-12
+155	3yNZ5r3LKfdmjoS3gkhUCT	bad guy (with Justin Bieber)	Billie Eilish	466168	144	9	60	-11
+156	5GO0ZraYzDtjpRzqMfsfLy	Tu m'appelles (feat. PEACHY)	Adel Tawil	462347	146	12	123	-10
+157	3UYiU57SMiAS5LqolhHJw1	Shameless	Camila Cabello	462138	nan	1	157	new
+158	2aUVGOsyUJhAJWBs5aIrFY	Im Plus	Luciano	459568	82	2	82	-76
+159	0bdi6wVy9Z8Mcc0ANgbiDl	Ouh Mädchen	Olexesh	459121	135	5	31	-24
+160	5eA0fLfQRw9WuX34ZRPvAT	Trance	Qzeng	457453	157	28	68	-3
+161	11rBlJlRoWNj69twOOki03	Blackberry Sky	Eno	457335	165	19	13	4
+162	2bPGTMB5sFfFYQ2YvSmup0	DEUTSCHLAND	Rammstein	452873	154	17	21	-8
+163	7sIQ5eF9ZmZY6lGGwZKaP9	Abfahrt	FiNCH ASOZiAL	451956	156	23	116	-7
+164	4e6l3QGj4RZesjDLVqYk3H	Marlboro Rot	Samra	451908	173	16	3	9
+165	2hIY4sjfMeKwXXh2LvhrMo	Was du Liebe nennst	Bausa	450180	180	83	1	15
+166	2PAYSgrVOBz8RJqp9B7QLu	Tausend Tattoos	Sido	449464	155	40	4	-11
+167	0A5gdlrpAuQqZ2iFgnqBFW	Moonlight	Gaullin	444800	158	33	21	-9
+168	2sfZgYusD8bBvB7qWekvSx	I Know	Post Malone	442338	nan	1	168	new
+169	1rqqCSm0Qe4I9rUvWncaom	High Hopes	Panic! At The Disco	441768	171	64	7	2
+170	6kls8cSlUyHW2BUOkDJIZE	Hate Me (with Juice WRLD)	Ellie Goulding	439944	148	9	115	-22
+171	0jB0RNZIfaihaDKNmdrI40	Casanova	Summer Cem	439295	178	59	3	7
+172	24LJZM0JrskDYhwA6E7Cq5	Leben schnell	Nash	437552	101	4	52	-71
+173	1ag6DENIjtcmRFCx5JjUng	Wir ticken	Capital Bra	436170	179	22	7	6
+174	43zdsphuZLzwA9k4DJhU0I	when the party's over	Billie Eilish	433853	nan	18	61	re-enter
+175	68IrchnixOcPeFcgpJc4hD	On Time	Ufo361	433382	143	5	25	-32
+176	3TMW1GOB1lsmvf8er2dE8g	Lambo Diablo GT (feat. Nimo & Juju) - Remix	Capo	433157	168	36	19	-8
+177	0gyO8zq1Hw5GTQ33EXcc40	Benzema	Capital Bra	430676	170	22	22	-7
+178	4YgtN1HasxdDlrrZIggYxn	Myself	Post Malone	430463	nan	1	178	new
+179	5naYe7rLMZcLfO1DKg48MK	All Day And Night	Jax Jones	430320	198	9	135	19
+180	1RkEHRZx7oHZFDnNgG94A5	VENDETTA - RR-Long Version	RAF Camora	430182	nan	1	180	new
+181	13d0lM7B8ermJVn9C1rOTD	Energie	Sido	429812	149	9	6	-32
+182	2FPkRkjYQ4S8g1gVBslCfU	Warnung	Kontra K	428111	177	16	51	-5
+183	5RVjk9aH22Z9Mwg2ZaOPNT	Babygirl	Shindy	422240	164	9	16	-19
+184	4j9XbTUB40qVOHqapA6EMz	Swervin (feat. Veysel)	A Boogie Wit da Hoodie	422160	185	7	85	1
+185	4qX18Am6dJZg0ovgddL7w6	Hardcore High	Juju	421880	182	13	63	-3
+186	4Bj3usjRTckEJARO0dLbDf	Kokain	Bonez MC	418920	184	49	2	-2
+187	4t7HHURXOXQdqE9THQWXqB	Famous	Apache 207	418137	189	3	184	2
+188	0uL88Lp7C6i2WGHub1zrJ9	Later Bitches	The Prince Karma	417573	169	16	88	-19
+189	1dGr1c8CrMLDpV6mPbImSI	Lover	Taylor Swift	416998	126	3	68	-63
+190	5MnhcyP1d3aUEimiwcaWzL	Boxerschnitt	Mert	414742	nan	1	190	new
+191	4y8xXLG9O3Rbl6e1KaNRTG	Deine Mutter (feat. Nessi)	Kool Savas	413960	199	20	18	8
+192	5xIODxqlpUnRVA9ewZUCug	Harami	Samra	413892	nan	22	1	re-enter
+193	3KrO46R3xnMaG7a7rJYcsm	Next	Ufo361	411218	181	5	64	-12
+194	4RzpCjByV1NWUGKVQGuej6	Internet	Post Malone	410768	nan	1	194	new
+195	6CI8yUPEpOffkcevzFr7Qs	Money Money	Azet	401634	172	7	9	-23
+196	2RSHsoi04658QL5xgQVov3	Bad Liar	Imagine Dragons	401078	nan	43	32	re-enter
+197	6AECpQIHLhUyU0zYTCslAb	Fische	Lil Lano	400828	109	3	52	-88
+198	214Mx6MSJhtaO1uPtZGqLH	Copacabana	Leon Machère	397546	186	59	11	-12
+199	5iwz1NiezX7WWjnCgY5TH4	Calma - Remix	Pedro Capó	397149	150	36	88	-49
+200	05Mp2UJulSttxQ4E6hQPH3	Ohne mein Team	Bonez MC	396837	196	140	11	-4

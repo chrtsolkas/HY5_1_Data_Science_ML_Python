@@ -1,0 +1,201 @@
+position	song_id	song_name	artist	streams	last_week_position	weeks_on_chart	peak_position	position_status
+1	75bVc27bDSOAhMAL38cXpV	Méchant	Niska	3135726	nan	1	1	new
+2	7FF6HRsQlc0CtfAbLmrEGX	Bâtiment	Niska	2655517	nan	1	2	new
+3	6P1FUURjn1CXB4y74paDOK	Mr Sal	Niska	2281700	nan	1	3	new
+4	32md7VvQTg5kQqPnbHFjx5	Mendoza	Niska	2058606	nan	1	4	new
+5	3Aq1SJ1hWlfazx8IIC6u1D	Ma belle	Moha La Squale	2044095	1	6	1	-4
+6	4vR2zaYAW8CtzwodeFufkI	Du lundi au lundi	Niska	2020282	nan	1	6	new
+7	4pmQt0EAXwy2SyXOJJ2bPU	Siliconé	Niska	1998213	nan	1	7	new
+8	1EJIBnvrxdkxdHutX37Ff8	Moula	Niska	1901460	nan	1	8	new
+9	60Pwsf0DkDH2Db3cLSFFU8	Tous les couler	Niska	1833646	nan	1	9	new
+10	1cBB5blGPlfKp5V1MQvihZ	La zone est minée	Niska	1825972	nan	1	10	new
+11	0udmmo0fTwWbm6VqEHAvYF	Médicament	Niska	1770454	nan	1	11	new
+12	2hQVgdsbxyEJPpSsljh9xe	Vrai	Niska	1757858	nan	1	12	new
+13	7o1v5rG3vPpjSTtcuye8Da	Hasta Luego	Niska	1742715	nan	1	13	new
+14	1bWafkUCOp6luXRs1cm3w9	Hé oh	Gambi	1502399	14	5	14	0
+15	1sSypXfVuC2Ex0whkbShf0	Valise	Niska	1414896	nan	1	15	new
+16	7j56bK7gq6iV7zsD6lbP4J	Elle est bonne sa mère	Vegedream	1406660	2	9	1	-14
+17	5wFz9pwFowDIzpRGH7smHp	Stop	Niska	1399157	nan	1	17	new
+18	6v3KW9xbzN5yKLt9YKDYA2	Señorita	Shawn Mendes	1377738	3	7	3	-15
+19	63mwDcyMFJIv1R0QO8JsqB	Tellement gang	Niska	1352107	nan	1	19	new
+20	1rgnBhdG2JDFTbYkYRZAku	Dance Monkey	Tones And I	1333261	6	4	6	-14
+21	6bZjrykTVOrOGysDuE6eMp	J’suis dans les wayes	Niska	1293400	nan	1	21	new
+22	6osaMSJh9NguagEDQcZaKx	Loco Contigo (feat. J. Balvin & Tyga)	DJ Snake	1246994	4	7	1	-18
+23	2ya1FzHLODOBo8F26nyp3d	Manu le coq	Niska	1242547	nan	1	23	new
+24	0Ur7L15jrsLGGNpC7nXIU6	Des flingues et des roses	Niska	1206838	nan	1	24	new
+25	5Q9gwUMjyhkgrQCB3EzIEZ	Problèmes	PLK	1198614	7	8	7	-18
+26	7C7GtWZmyicqjBDbAWPsCp	Tricheur	Nekfeu	1168762	5	12	1	-21
+27	2On7uB8PN8JJmBNsms8unQ	Compliqué	Dadju	1107732	10	11	9	-17
+28	51Fjme0JiitpyXKuyQiCDo	Lalala	Y2K	1082984	9	7	9	-19
+29	2YpeDb67231RjR0MgVLzsG	Old Town Road - Remix	Lil Nas X	1004988	11	7	4	-18
+30	4VzalpjiHHK5cKSgrZuNjg	Nique la BAC	Lorenzo	1004141	8	3	4	-22
+31	65hdAdd1skq94ecWH4vfJI	Bitch (feat. Vald)	Lefa	931450	13	9	10	-18
+32	0G0ZyEQyc3IBcRnYCvtTwb	Tes parents (feat. Ninho)	Leto	927855	15	10	14	-17
+33	5c2HadbVTsMKjja4gohEFI	Maman ne le sait pas (feat. Niska)	Ninho	911962	18	25	2	-15
+34	5SNfvgi4TUwx4Si0lFn3G2	Soleil	Roméo Elvis	892970	16	22	11	-18
+35	28fP6qcMGPfYOjrx8AOWFn	RR 9.1	Koba LaD	874203	19	21	2	-16
+36	0Jh6iWjna1wk5le0Ahn7No	La vie qu'on mène	Ninho	863200	20	25	3	-16
+37	10iesoGb4mCYTcur1QfdO9	JCVD	Jul	860046	17	9	7	-20
+38	6atrzNHhWlXTolcIKAjSq2	L'odeur du charbon	Dosseh	756985	23	9	14	-15
+39	6vBdBCoOhKHiYDDOcorfNo	Goodbyes (Feat. Young Thug)	Post Malone	745206	42	10	39	3
+40	70eFcWOvlMObDhURTqT4Fv	Beautiful People (feat. Khalid)	Ed Sheeran	738028	50	9	34	10
+41	1DFD5Fotzgn6yYXkYsKiGs	Piece Of Your Heart	MEDUZA	721589	25	17	16	-16
+42	2PYXOG6GdxF9sUIH2NfOAD	Dans l'univers	Nekfeu	718363	26	12	7	-16
+43	7gNlaZaMIjRUfnAYd9Dvmt	Aristocrate	Heuss L'enfoiré	712175	31	33	31	-12
+44	1r7Uste80NvDFq2ejM2K5D	Damdamdeo	Lorenzo	700845	22	3	9	-22
+45	5vLEmh5EolySKTvXsyWSOg	Hola Señorita	Maître Gims	689253	27	17	20	-18
+46	0rQbvQpjQ6QeeCAnVRzokf	Goutte d'eau	Ninho	685511	34	25	4	-12
+47	5lCxlSBFyP5g4EhVypAoOu	Au DD	PNL	660442	33	23	1	-14
+48	3vmoC735YdyvsrF0HtbmGn	Papers (feat. Ninho)	Zola	650663	32	23	5	-16
+49	3kxl1E1Y43M4vgckXfrSgk	Four	Koba LaD	639894	24	3	14	-25
+50	5dkSQ8ExtSaS5diqiQosOk	Cheum	Nekfeu	632640	30	12	9	-20
+51	4szQkW1CDHqbRZGltXJdd3	Soldi	Mahmood	628584	37	11	35	-14
+52	3b89BehicGUgc60pLBo092	Flou	Angèle	617299	63	23	46	11
+53	2QpUWi6VSNOt2WyH5FIeLD	Pookie	Aya Nakamura	606610	29	45	8	-24
+54	2tA1UUhk2WH3wI1nAXSNBc	Bénéfice max	Djadja & Dinaz	605799	39	4	25	-15
+55	2AFEY781u68sON4BTSPJz4	Passa passa (#BooskaMechant)	Niska	600507	35	6	6	-20
+56	2Fxmhks0bxGSBdJ92vM42m	bad guy	Billie Eilish	590701	41	24	14	-15
+57	4kgHfnWMk3rK5upoZgJrFr	GLAIVE	Booba	579427	45	7	26	-12
+58	7qEHsqek33rTcFNT9PFqLf	Someone You Loved	Lewis Capaldi	579281	49	17	28	-9
+59	0hVXuCcriWRGvwMV1r5Yn9	I Don't Care (with Justin Bieber)	Ed Sheeran	566421	28	9	8	-31
+60	68av1mZz0VsIYXJWATZWUW	Zemër	Soolking	563628	38	21	32	-22
+61	295SxdR1DqunCNwd0U767w	Blanka	PNL	561509	48	23	3	-13
+62	4kqsT3yDyJr1KZ2AkM9qfD	Elle pleut	Nekfeu	557887	43	12	10	-19
+63	5oePa8PlOTPAlRaGs2OZ3A	Putana	Ninho	557472	51	25	4	-12
+64	0YU17F0BlVXvmx5ytsR43w	Monster	LUM!X	552394	66	5	64	2
+65	2ksOAxtIxY8yElEWw8RhgK	China	Anuel AA	549345	40	7	40	-25
+66	2qxmye6gAegTMjLKEBoR3d	Let Me Down Slowly	Alec Benjamin	546556	47	28	17	-19
+67	30Mqfip5b5lCDpCLRvsrTq	San Pellegrino	Chily	538697	64	8	64	-3
+68	07qHCBBSRswIsfs0waYdjC	Arc-en-ciel	Booba	531010	56	18	1	-12
+69	6EOKwHETwSkZ9gW2b6ASE0	Ransom	Lil Tecca	530791	60	2	60	-9
+70	2QrXzOqLCVDRZHkToA0tSR	Never Go Back	Dennis Lloyd	530713	46	11	44	-24
+71	5B4QMW5PC14QKueg318rhY	Omega	Kaaris	520433	75	2	71	4
+72	2abVYMtriZHHIDGFZFT5ij	Quotidien	Koba LaD	514779	54	21	22	-18
+73	51MMC5DogGZAnHil5HQAXg	Circles	Post Malone	510035	nan	1	73	new
+74	1kX5NXQDQbvqhxvisCv1Ok	Binks	100 Blaze	505098	59	11	22	-15
+75	40OMBMYRk5IQL6xCzGM0JA	Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)	Martin Garrix	501884	36	10	13	-39
+76	5w9c2J52mkdntKOmRLeM2m	Con Calma	Daddy Yankee	496624	44	30	9	-32
+77	0r64LBR8RlnXcdd5HTFubd	Les méchants	Heuss L'enfoiré	491182	57	33	4	-20
+78	4ml7hnH3FtGeUDMhzVmnrj	Tel Me	Jul	482144	58	9	24	-20
+79	2jX5c5RFp0A9E1GDsvGxIa	Balance ton quoi	Angèle	473824	53	49	2	-26
+80	6oJ6le65B3SEqPwMRNXWjY	Higher Love	Kygo	463704	62	10	62	-18
+81	3COpbW4W1Qab0ZqiHZxdjv	Matin	Koba LaD	456971	65	21	20	-16
+82	6b2RcmUt1g9N9mQ3CbjX2Y	How Do You Sleep?	Sam Smith	451477	72	8	72	-10
+83	0kH4ZE0SewdiPUUgbQNVSU	La Guenav	Gambi	442549	107	4	83	24
+84	4WB9OeauHXnGOMUK4s80gM	Trop beau	Lomepal	442070	74	40	1	-10
+85	7C39RtGhnEw7cyf0Pyw7PV	Saint-Tropez	Post Malone	440083	nan	1	85	new
+86	6Tvzf3VEi16JMhAgOwdt2y	Birds	Imagine Dragons	439011	102	6	80	16
+87	6dgLDzgL0JYxFr3PjppsnS	Rappelle-toi	Naps	435083	68	11	33	-19
+88	77Y7tccX9Hx5iClDr39uy9	Hollywood's Bleeding	Post Malone	432437	nan	1	88	new
+89	2WZ09SXfgwAdBXB0KYK6ec	Power Rangers	Lorenzo	432105	52	3	12	-37
+90	0U6bQIAh6MCGo1xjbIIx2S	Instagram	Dimitri Vegas & Like Mike	429937	71	10	63	-19
+91	2j3OKdwiMwLQUXHYJ5v1y8	Toujours plus	Lorenzo	423480	61	3	11	-30
+92	3ezXlfmUHipr8A2pH3uNcQ	Me Gusta	DTF	418926	84	20	71	-8
+93	5Q8gCS68FITJDiWnedMejb	Côte Ouest	47ter	418452	80	9	80	-13
+94	4j5Bb0saeXmiz62XIZjcHj	Mirador	Kezah	417664	69	13	10	-25
+95	0mjAU3yKR1QnXnHtjGJqTM	Rescue Me	OneRepublic	414558	78	16	38	-17
+96	3xbws1uOAaxeTPEviKWONY	Ça va ça vient	Vitaa	414418	88	3	88	-8
+97	6g8Waa9vcFQP1FElldjfRr	Possédé	Djadja & Dinaz	412627	79	25	15	-18
+98	01dqWNKgM2ujxu7HacaQwI	Les étoiles vagabondes	Nekfeu	406261	70	12	25	-28
+99	0Ryd8975WihbObpp5cPW1t	boyfriend (with Social House)	Ariana Grande	406160	77	6	44	-22
+100	6stxV2bl7xSiPUornxwyNR	Khapta	Heuss L'enfoiré	401665	89	33	1	-11
+101	2cJb7E0M81nAKl4tkZS3v9	Jazz	Eva	399426	76	10	45	-25
+102	7gFue3UseWrimCsI1gdJIE	C’est Elle	Alonzo	396913	86	22	40	-16
+103	1RighqmKZNqLP9rklJ4HCz	Le coach (feat. Vincenzo)	Soprano	394858	87	11	49	-16
+104	4VMWKOG1q8nE4OHjqLHkZn	Je M'en Tape	OBOY	390032	91	9	91	-13
+105	4vUmTMuQqjdnvlZmAH61Qk	South of the Border (feat. Camila Cabello & Cardi B)	Ed Sheeran	389460	130	9	67	25
+106	3uTNli5uz5rNOqD6qZFi8L	Billets verts	Maes	388512	90	41	7	-16
+107	4miiqu2dxOhBguQDHtqssH	Madrina	Maes	388305	83	41	1	-24
+108	0xh5kFdNkx6h7K1z7XpDqX	Le temps est bon	Bon Entendeur	387583	92	14	35	-16
+109	7MPC1qtCR74fdc9jNdFHeH	C'est pas grave	Columbine	387106	93	21	45	-16
+110	6fTt0CH2t0mdeB2N9XFG5r	Panini	Lil Nas X	380998	nan	10	86	re-enter
+111	67bPDXCsUNsxyNnNg3jYGO	Alunissons	Nekfeu	376694	82	12	30	-29
+112	3lcji9p6PgHYftz88p9SW4	Pardon maman	RK	373453	73	4	36	-39
+113	4VqTRBvYg0z8C4nsl4Hupy	Sunflower - Spider-Man: Into the Spider-Verse	Post Malone	367918	nan	1	113	new
+114	5fW4TKcWuk4hgasD60JyZv	Oh la folle	Marwa Loud	366742	99	13	64	-15
+115	2IlBgMGbkKDfu7qveyT9AB	JTC	Kalash	366467	85	7	8	-30
+116	4a4cTUsFiyPN8jaHt2xf18	Dingue	PLK	365220	104	29	19	-12
+117	4Yq3XUNfWrAPWuB94qkC09	Take What You Want (feat. Ozzy Osbourne & Travis Scott)	Post Malone	362024	nan	1	117	new
+118	6l7PqWKsgm4NLomOE7Veou	1000°C	Lomepal	360459	105	40	2	-13
+119	3aleQrFycCdgq6DpxEPBKn	MBK Rocket	Lorenzo	357199	67	3	20	-52
+120	3M9Apu4OZfylLTFKvgEtKa	Ritual	Tiësto	352332	98	10	90	-22
+121	6L2bXG181V9k56XS167r1P	Las Vegas	Jok'air	351895	118	20	89	-3
+122	1QjKfNGfDuMiVuF8x7cj0R	Allez reste (feat. Vianney)	Boulevard des Airs	351887	96	20	62	-26
+123	6hzi3AGB39FjxFqcjgbWs7	Deux frères	PNL	351475	112	23	2	-11
+124	5TlGrvOMiAltKgRw3anXKo	Sale mood	Bramsito	351145	103	15	43	-21
+125	06O3hxudc6V0BOuoCFSy71	Tout oublier	Angèle	350422	110	49	1	-15
+126	02itaCXOdC54J0ISjqqFAp	All Around The World (La La La)	R3HAB	349789	95	15	23	-31
+127	0DiDStADDVh3SvAsoJAFMk	Only Human	Jonas Brothers	347014	123	8	101	-4
+128	1O2mX6MrjsJlkCGEF0TVWL	Émotif (Booska 1H)	PLK	345774	132	13	39	4
+129	1RE1SDPjuilKM6tLIMxTtP	LVC	Shotas	344727	136	10	116	7
+130	1w2OwBeojIZI8hTI5WkMkV	MOWGLI II	PNL	342717	109	15	1	-21
+131	3yNZ5r3LKfdmjoS3gkhUCT	bad guy (with Justin Bieber)	Billie Eilish	340632	124	9	54	-7
+132	4tWVLBZ3EiSqegpf4jBsei	NWR	Maes	339506	116	20	40	-16
+133	08QXSGwwI8Qu4IQEV3AfM6	Ken Kaneki	Nekfeu	335969	101	12	18	-32
+134	0F7FA14euOIX8KcbEturGH	Old Town Road	Lil Nas X	335491	114	7	73	-20
+135	7tWc8HZfqJSZoK7uukmw8X	Liquide	Shay	328091	115	18	40	-20
+136	27MoaZnyF4chxovDTuIKol	Menteur menteur	Nekfeu	327794	106	12	42	-30
+137	3qSorwKiNvpqrT2PrQOUJs	Massa (feat. Mister V)	Dinor rdt	327110	129	9	47	-8
+138	2ekO98VdclK2zGYJYPixcv	Muerte	Landy	326019	126	27	20	-12
+139	4L0Iwsk1s8cbdBcEgdm8K5	Feu de bois	Damso	325520	131	65	2	-8
+140	6UFEJuDXQMWhL5UH5f9fUR	Enemies (feat. DaBaby)	Post Malone	325091	nan	1	140	new
+141	5FJUbcs6V1sMuDNw0GM2NQ	Voyage léger	Nekfeu	322094	113	12	26	-28
+142	7iuIofLDxuD3BXmUmStKWR	Haut standing	SCH	320215	117	10	22	-25
+143	1T0t45jhIuaXiCBOTFyUdN	Children	MATTN	317128	119	3	119	-24
+144	4J1Xsr38zb9BjM6QraKLqK	Tchop	KeBlack	316418	167	7	77	23
+145	3Q35CdXXoyb2AxDghgadZZ	Premier pas	Nekfeu	315749	111	11	34	-34
+146	1jkQ86kN8w0KKUV2bHJcfN	Kekchose	Lorenzo	312494	81	3	22	-65
+147	1pV9HAOC2RzQ9mtbykEkl1	Ma guapa	Hös Copperfield	311909	125	8	36	-22
+148	5WcW7qcdyPgCrteSgFYSxa	Nous deux	Lorenzo	309842	94	3	23	-54
+149	1NUC8l1gq50VuHzmWRMA2G	Money (feat. Faouzia)	Ninho	309386	146	25	16	-3
+150	5WHTFyqSii0lmT9R21abT8	Don't Call Me Up	Mabel	307790	55	29	16	-95
+151	6wo37KVqFJhtuxPTpLCcfe	Takeaway (feat. Lennon Stella)	The Chainsmokers	306084	nan	1	151	new
+152	3xpMaHXEDMGxukixMcbfxD	Alibi	Eva	305203	127	10	58	-25
+153	1F1qebfYF2rvc1Q0CpM5hf	Beatles	Larry	303267	nan	1	153	new
+154	3yndKI4zWEyC36BQYrdKBA	Hit Sale (feat. Roméo Elvis)	Therapie TAXI	301291	141	84	11	-13
+155	2XnjeLLa8kIgYUjNQuJ24v	Kitoko	Eva	301285	128	10	96	-27
+156	5qkUZ9gfkILxc135ZOMx1O	Promesses	Bigflo & Oli	301276	140	6	114	-16
+157	4NGcxBAtvLtbeizQul82iC	Comme pas deux	PNL	299537	145	10	34	-12
+158	0raZ9gl4gn6KEB0h93FxMk	En bas (feat. Siboy)	4Keus	298773	138	6	122	-20
+159	1FkKaz2v65DsN4WlGsgoqu	Thaïlande	Dosseh	297364	139	3	139	-20
+160	7bg469g8qRoMwFQf6Vleh3	J'aime Bien!	Josman	294676	169	11	153	9
+161	45tz0Mf66Nw7uSPdcOe1Qg	C'est mon sang	RK	294247	143	23	25	-18
+162	7M9w4C8WenlvWfNRAulZOX	Narcotic	Younotus	293616	147	3	139	-15
+163	7ftimUupzPRi0m8z3WaXvw	L1 L2	Zola	293194	158	23	30	-5
+164	3OD2mvxW9oxfcSZFm7Eb4B	Impec	Lorenzo	292140	97	3	30	-67
+165	1XnPRxd67vVxzBCiGLXLxw	Giuseppe	Niska	292031	152	28	5	-13
+166	2VxeLyX666F8uXCJ0dZF8B	Shallow	Lady Gaga	291549	151	49	5	-15
+167	59PYPDxTbqJpiGfyogPb5h	Die For Me (feat. Future & Halsey)	Post Malone	291396	nan	1	167	new
+168	52iVuTAP70Gy1Uy9xkr2No	Monégasque	PLK	289777	162	27	63	-6
+169	7CnlMI3z4COC5WDzkKpeCF	Ecrire	Nekfeu	287883	135	10	24	-34
+170	6La7yrDZgV4kYOk1HrQZvs	Takotsubo	Nekfeu	287208	133	10	33	-37
+171	4EWzghMNZsqi3xqdutlL1O	Sacoche	Larry	283805	176	13	111	5
+172	0RTvfKVdkt10ATfJ8BjMEI	Air Max	Rim'K	283308	160	34	27	-12
+173	5pAbCxt9e3f81lOmjIXwzd	Be Honest (feat. Burna Boy)	Jorja Smith	283053	134	4	134	-39
+174	4LAGHmHcSt0HHwXCJcFri6	91's	PNL	280052	161	23	13	-13
+175	4h3SqMd5F16XJVdGp5fsZG	À nos souvenirs	Trois Cafés Gourmands	279882	150	49	27	-25
+176	7aRlFHYFRngsHVdSHDxaiF	TP (feat. Hornet La Frappe)	Zikxo	275644	nan	1	176	new
+177	31uIcE1TppvHBGNgTGYXO1	Ciel noir	Nekfeu	272461	142	9	44	-35
+178	6FqNHDHEsUTKqVWXBkMd9y	Train de vie	Koba LaD	272073	172	50	3	-6
+179	504JJmqZZnsfeWz8nKHKia	Sexto	Lorenzo	271195	100	3	33	-79
+180	3kNdQLkHijBfHUJTZNy8vn	Kim Jong-il	Ninho	270262	153	13	24	-27
+181	6nIr35G9lVYMcuedV4NY2t	Jamais (feat. Dadju)	Ninho	269376	177	25	11	-4
+182	1Fui5N8AtkDRG1Gmpq4Yk2	Sous les nuages	Nekfeu	267458	155	10	32	-27
+183	7bLy8fxBMroDuV0zxwGSn6	À Kinshasa (feat. Fally Ipupa)	Ninho	266945	164	25	14	-19
+184	0hGH0S74Eoyv6mXZcOKtdQ	On The Road (feat. Meek Mill & Lil Baby)	Post Malone	266637	nan	1	184	new
+185	5w3r6vFKgkji8kpWgW47og	Le bruit qui court	Nekfeu	265847	149	10	41	-36
+186	6ocbgoVGwYJhOv1GgI9NsF	7 rings	Ariana Grande	264917	175	31	2	-11
+187	186HAeS1KdqhztQLq85C24	On Fleek	Eva	264021	157	10	105	-30
+188	2FRnrkO72S9tbqu6eLjq6b	Mômes	Lomepal	262798	179	24	7	-9
+189	4ue5wBIDNJelqiHkm1aMWi	Canal	Dosseh	262247	144	9	100	-45
+190	3s4mrPrEFFPF0LmAfutW0n	The London (feat. J. Cole & Travis Scott)	Young Thug	260941	170	4	142	-20
+191	3at8iNHLzE5EizkFWoQzCK	Nana	Lorenzo	260181	108	3	36	-83
+192	1aSarrHE1TK9vSmyozuo4K	Calma - Alan Walker Remix	Pedro Capó	259665	122	5	79	-70
+193	2KtpMkc1TS1FMwy9FR0gCM	Ma 6t a craqué (feat. Ninho)	Kpoint	259373	171	30	27	-22
+194	6RRNNciQGZEXnqk8SQ9yv5	You Need To Calm Down	Taylor Swift	257315	174	3	163	-20
+195	7lhuM9WUqdThw72dCBRmQW	Rêves bizarres (feat. Damso)	Orelsan	256979	186	40	1	-9
+196	35e7ckbWgHjHI9n3oL6jnd	Malade	Roméo Elvis	256772	181	22	23	-15
+197	17NQSO5OECGGk6Pi9y7jM3	A découvert	Hiro	255406	191	8	162	-6
+198	3hFG4jR5stnIQJDI64KlJY	A Thousand Bad Times	Post Malone	255272	nan	1	198	new
+199	5ugbi9Njjt5PQRqkLXhX2W	Óλά Καλά	Nekfeu	254418	156	9	45	-43
+200	0br27hgKNVMLyXKS3qjLOu	Gaz	Larry	254402	183	7	123	-17

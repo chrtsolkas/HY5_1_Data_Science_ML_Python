@@ -1,0 +1,201 @@
+position	song_id	song_name	artist	streams	last_week_position	weeks_on_chart	peak_position	position_status
+1	0FYpW0zBO7cht8qGRY41Mz	Désaccordé	Vald	1756437	1	2	1	0
+2	2XW4DbS6NddZxRPm5rMCeY	God's Plan	Drake	868911	22	4	2	20
+3	6dotEcliwGD3yrJaUHO621	Dragon	Vald	824261	2	2	2	-1
+4	2HdCh16tdPjle1rm80Y6q7	Reine	Dadju	815439	13	12	2	9
+5	1vVZLmZq8gN8pPCEBLjPvD	Mwaka Moon	Kalash	783551	9	18	1	4
+6	6U0p0b3ma0MgBwNc8i26xw	Longue vie	Sofiane	774461	11	3	2	5
+7	5RQ3ZyfOfJJ2qLKOZTmLiB	Lundi	Sofiane	768445	23	3	4	16
+8	1rfofaqEpACxVEHIZBJe6W	Havana (feat. Young Thug)	Camila Cabello	712273	19	5	2	11
+9	2Imq77E6CEJR5TPUxlJvTY	All The Stars (with SZA)	Kendrick Lamar	693979	nan	1	9	new
+10	0Zik8927LgckQX74uxp25j	Gris	Vald	654889	4	2	4	-6
+11	6L6yn9GeVqnlWX1npp6rAK	Bob Marley	Dadju	646893	25	12	11	14
+12	644Y6gowYTqtd2U2XNKzDS	Diarabi	Kaaris	634284	32	15	12	20
+13	50iHTENAMPdSXPtCgiYgBJ	Primitif	Vald	625322	3	2	3	-10
+14	4s7OqcUEyLJ1RkbzBopRGt	Bling Bling	Kaaris	591293	24	15	7	10
+15	1OmcAT5Y8eg5bUPv9qJT4R	rockstar	Post Malone	575274	21	5	12	6
+16	3cPWIdD2eECl9Q0DasxADQ	Possédé	Vald	571571	5	2	5	-11
+17	0uBu60Wd7yzm2sFrj2hSr6	Salé	Niska	563537	27	21	2	10
+18	2wtZXwhQzaHOf0jLFzHMr4	Offshore	Vald	552845	8	2	8	-10
+19	6xcXAVbDuVT1pCsa2rmDHY	Mobali	Siboy	547233	31	33	7	12
+20	7Ij6GjCcmiAVJlm0ptzAPH	Fallait pas	Marwa Loud	539553	69	8	20	49
+21	1CYj9Yx8zrYvU93khXvmsA	Friday	Booba	532580	28	11	2	7
+22	3IQe7wqTyXxkqeMR8is76T	Tueurs	Damso	527191	30	11	6	8
+23	3CVZ2o5y6YyhKKVJ7X2cRB	Résidus	Vald	515471	6	2	6	-17
+24	7EmGUiUaOSGDnUUQUDrOXC	Wolves	Selena Gomez	514138	47	16	24	23
+25	7if7fmYTfMnsWRlkK3HmcV	Vai et viens	Lartiste	513545	34	6	25	9
+26	6wN357SzlXezV5aJ2wzAPV	Caméléon	Maître Gims	509892	35	14	23	9
+27	2ogSMKrLQnICe1onHfr0rL	Catchu Catchu	Lartiste	486148	36	18	14	9
+28	2r6C2IEw533mDs3sam5Zxx	Tuba Life	Niska	481151	38	21	2	10
+29	1zsG4eaZmkA1dvjDDsAGLK	Échame La Culpa	Luis Fonsi	476254	37	13	28	8
+30	10z0OHuUb2K0K5WjL8kwOd	Réflexions basses	Vald	469993	12	2	12	-18
+31	1PD3C6A1tnUI5Ul7cXGVuc	Seum	Vald	463842	7	2	7	-24
+32	5k38wzpLb15YgncyWdTZE4	Him & I (with Halsey)	G-Eazy	459066	29	9	12	-3
+33	1j4kHkkpqZRBwE0A4CN4Yv	Dusk Till Dawn - Radio Edit	ZAYN	458323	42	23	11	9
+34	3alSzdz0U10gV2aXVigYkT	Par amour	Dadju	455037	43	12	17	9
+35	6mrKP2jyIQmM0rw6fQryjr	Let You Down	NF	448147	39	17	21	4
+36	0rg57AXGXSUMOdFqpTxC5j	Deviens génial	Vald	447303	14	2	14	-22
+37	2nY6MRHWpW0AGXMoGDJOjX	Réseaux	Niska	444412	41	21	1	4
+38	3ldfGgw7IoLHbaqmspX3ME	De l'autre côté (feat. Nekfeu)	Ninho	443790	44	23	1	6
+39	0nWzSrYPNQuULiDFpZ0XU3	Rocking Chair	Vald	438901	18	2	18	-21
+40	4zWO4gvuFtw6EJZC5FFGlr	Bum Bum Tam Tam	MC Fioti	431601	45	7	33	5
+41	5uLFegeYmRJpYI7TDARPNJ	Trophée	Vald	430458	20	2	20	-21
+42	5UEnHoDYpsxlfzWLZIc7LD	River (feat. Ed Sheeran)	Eminem	422561	33	9	12	-9
+43	75150PNLhk4LZwCe3ytsUq	Bienvenue à La Banane	Moha La Squale	417452	49	6	15	6
+44	2xmrfQpmS2iJExTlklLoAL	I Miss You (feat. Julia Michaels)	Clean Bandit	416256	51	14	32	7
+45	4IWAyPf1KMq7JCyGeCjTeH	Whatever It Takes	Imagine Dragons	412435	52	19	43	7
+46	4Ln4KAwk37peyCh2QpqYnP	Rose	Ninho	411047	56	23	5	10
+47	1uaAq8pSghvpVxlrOrgdeO	Yeux disent	Lomepal	408301	64	34	47	17
+48	0ikkSnQLieRReBoQws12dt	Chépakichui	Vald	406825	10	2	10	-38
+49	7d2wHUul70SChBL2mhgIwM	Mistigris	Sofiane	400109	40	3	8	-9
+50	0Zbbxnx4SGGHoIow4PpISP	Stargazing	Kygo	396170	46	20	33	-4
+51	74pksC3zA9Z1Ews25oEVW5	Recherché	Naps	393688	58	2	51	7
+52	7qiZfU4dY1lWllzX7mPBI3	Shape of You	Ed Sheeran	393013	48	58	1	-4
+53	4ofvoCdXq99vpMZO4Cfp8x	Pray For Me (with Kendrick Lamar)	The Weeknd	386999	81	2	53	28
+54	41rOnZXVg3cLacziEBgkpW	Devil in Me (feat. Joe Killington & Duane Harden)	Purple Disco Machine	384660	71	6	54	17
+55	64qdods9r5p6wovmRZdyg3	Sous contrôle	Dadju	381526	55	12	26	0
+56	37YNulvDhyzULfhHycmhEl	Madre mia (feat. Ninho)	Sadek	376248	57	22	6	1
+57	3x3WVsoplPxOrzNrmQEIWM	Rituel	Vald	375319	17	2	17	-40
+58	2UZW9WOPXdxw9YMG1bebS8	Θ. Macarena	Damso	374011	53	42	1	-5
+59	7gmYDrNYV5AaTEnZo0yhtM	Tout va bien	Orelsan	372221	80	17	11	21
+60	2e0cr3SmqCR6Ow6zVCs6pj	All Night	Big Boi	371024	152	2	60	92
+61	6xqAP7kpdgCy8lERQHh29c	113	Booba	368197	54	11	2	-7
+62	03aduXwm6cTqO9bb4XFQ2b	Ε. Signaler	Damso	367252	60	42	5	-2
+63	0OlnLZY4cmQzT6ZGttvWBM	So Far Away (feat. Jamie Scott & Romy Dya)	Martin Garrix	365215	67	11	44	4
+64	4eUxD9V0Df1prftDNBpQ9Z	Noche	Lacrim	364808	65	13	2	1
+65	1ywqGGNsfC9gditduk5hpZ	Petite fille	Booba	363814	50	11	1	-15
+66	29RaD2wl2Qmrj0VxVz6RXU	DQTP	Vald	361241	15	2	15	-51
+67	5CLGzJsGqhCEECcpnFQA8x	These Days (feat. Jess Glynne, Macklemore & Dan Caplen)	Rudimental	360703	109	2	67	42
+68	2ICdvchXmDh5mdLyyL2opB	Basique	Orelsan	357087	103	17	2	35
+69	5oh1KtKBc77vdPprNWBWfn	Jentertain	Vald	356288	16	2	16	-53
+70	3N6Z0Vw427hDGCsXu5TwLS	Bandolero	Moha La Squale	352633	nan	1	70	new
+71	4eWQlBRaTjPPUlzacqEeoQ	Never Be the Same	Camila Cabello	348067	74	5	28	3
+72	6lOWoTqVnAWXchddtTH31W	Leave a Light On	Tom Walker	347613	72	11	71	0
+73	0IvTKTST66tq30ZeFWeqfm	Défaite de famille	Orelsan	346684	96	17	3	23
+74	5SGoH6oXOUUWKpvuOzLEnM	Drapeau noir	Booba	344741	63	11	3	-11
+75	5yFSF6qQA1rcLsQRnBsZgb	All Falls Down (feat. Juliander)	Alan Walker	341699	87	4	75	12
+76	43J4VGh0663OrUXJR0VRQh	Fête de trop - Single Version	Eddy de Pretto	341581	101	6	76	25
+77	43ZyHQITOjhciSUUNPVRHc	Gucci Gang	Lil Pump	336556	59	19	9	-18
+78	0cW4qZevtGLVy7aejt6N3Y	Papa allo	Alonzo	333609	68	25	25	-10
+79	2Qk8dVhZgVpAftReOcXM2I	Mi Gna - Maître Gims Remix	Maître Gims	326233	89	4	79	10
+80	35gJuqfvrdlCA2MmAtaD3J	Mamacita	Ninho	315817	76	23	3	-4
+81	1wjzFQodRWrPcQ0AnYnvQ9	I Like Me Better	Lauv	315723	77	23	57	-4
+82	0Wv5wuenRLI3BcwgT3HPIP	A Different Way (with Lauv)	DJ Snake	312219	70	19	45	-12
+83	3rSi8CHHz7V96AwRQbbjf6	C'est pas bon	Abou Debeing	309953	88	8	81	5
+84	1E3zyoTHtJzsu5CjwIFIhY	Γ. Mosaïque solitaire	Damso	309473	85	42	4	1
+85	1gI6FedOWXQ7aSj4FfEiGK	Medellín	Niska	309165	75	21	3	-10
+86	5fHKAlIbe8Rvtf1LabHJSr	Tout est neuf	Dosseh	308938	86	5	26	0
+87	1uALcl1cjFeHnV4sk5Fw3j	Carton rouge	Lorenzo	305776	83	5	8	-4
+88	0tgVpDi06FyKpA1z0VMD4v	Perfect	Ed Sheeran	303160	93	29	7	5
+89	76cy1WJvNGJTj78UqeA5zr	IDGAF	Dua Lipa	301067	79	4	79	-10
+90	7jqDzXJS0K0Re8uphYNit0	Sick Boy	The Chainsmokers	300652	160	4	90	70
+91	75UFzgBCaVwJJ4IVIaatpe	N. J Respect R	Damso	299975	82	42	9	-9
+92	1LhMopPAallLeaeNutqbgS	Say Something	Justin Timberlake	299060	73	2	73	-19
+93	7hvxMYq9JW5W0vFwiu1Zdr	Dreamer	Axwell /\ Ingrosso	296675	99	2	93	6
+94	06IYJV7Ed3FfpJurK7OIFG	Ridin'	Booba	295735	84	11	4	-10
+95	0tPQPaOKM32WgMSbPCYyRH	Dirty Sexy Money (feat. Charli XCX & French Montana)	David Guetta	294824	90	15	66	-5
+96	2bN31IEckRU6jEj416ABvc	Koussi koussa	Kalash	292804	167	18	54	71
+97	5ymhEBqcRIslXMoeuOr44X	Papa Noël	Moha La Squale	289563	98	3	80	1
+98	0sRYn9ZqR3ZgNW79DgEZwt	#JesuispasséchezSo EP 11	Sofiane	286193	66	3	14	-32
+99	5faMnd4SDjY9kFP4VpSPLi	Breathe	Feder	281599	110	4	99	11
+100	0J2a0afQcr63ymGo5hKCDo	Dommage	Bigflo & Oli	280213	111	15	16	11
+101	5cpMslbJb6KxMGcpfZQB2Q	Délicieuse	Jul	278737	91	11	32	-10
+102	6TmLzC7dbkrWnh0bWXSpyq	O'KCLH	4Keus Gang	278057	113	20	83	11
+103	2jBleFNl3YK8lyJc1OvxXt	Jusqu'au dernier gramme	PNL	278044	97	57	18	-6
+104	36SHbxigbf4iSCHdQVgy6V	San	Orelsan	277558	192	17	5	88
+105	2aiYL5JuMbaOLwFqNc8NMf	Ne me déteste pas	Vald	274206	26	2	26	-79
+106	1bhUWB0zJMIKr9yVPrkEuI	Perfect Duet (Ed Sheeran & Beyoncé)	Ed Sheeran	272907	95	11	34	-11
+107	32DGGj6KlNuBr6WaqRxpxi	How Long	Charlie Puth	271360	112	16	52	5
+108	3Vo4wInECJQuz9BIBMOu8i	Finesse - Remix; feat. Cardi B	Bruno Mars	267932	92	6	49	-16
+109	6QgjcU0zLnzq5OrUoSZ3OK	Feel It Still	Portugal. The Man	265371	104	26	21	-5
+110	4LmAnpjlhWTahvRkYR8xJa	X (with 2 Chainz & Saudi)	ScHoolboy Q	263549	nan	1	110	new
+111	2z4pcBLQXF2BXKFvd0BuB6	Tip Toe (feat. French Montana)	Jason Derulo	263367	105	3	102	-6
+112	3WAKs2Rne0gHa9NR6LTZjU	Havana	Hayce Lemsi	261614	124	10	89	12
+113	7EI6Iki24tBHAMxtb4xQN2	Anywhere	Rita Ora	260379	117	12	78	4
+114	4vEaXY95aExfle99vJgXzU	Je pense à toi	Hornet La Frappe	259568	102	20	9	-12
+115	3yndKI4zWEyC36BQYrdKBA	Hit Sale (feat. Roméo Elvis)	Therapie TAXI	257080	122	2	115	7
+116	3qWNgvQTzSbA67Z4r0mX9O	Paradis	Orelsan	256536	nan	15	10	re-enter
+117	6ariFR8E7Z4WhjS6riI1Yi	La fuite - Vegedream X Dj Leska / Edit MIx	Vegedream	255532	120	6	95	3
+118	3SgnYOV9ONL0bIHaAcOYE1	Notes pour trop tard (feat. Ibeyi)	Orelsan	255057	151	17	7	33
+119	5hM6sP0Gh1jD57drszNueC	For You (Fifty Shades Freed) (& Rita Ora)	Liam Payne	255038	nan	1	119	new
+120	3xbPIl1dqCSbymBpBrNl73	Maghrébin	Hornet La Frappe	253823	107	20	31	-13
+121	0b3dRQO5pgGtwSMufwmzAr	La fête est finie	Orelsan	251472	170	17	6	49
+122	6sZ2zjebkPsXTrxhvaRFJF	Who Mad Again	Jahyanai	251333	nan	1	122	new
+123	69RclklKbEelwfQJCBzh0m	Vide	13 Block	249287	119	9	67	-4
+124	5uTod3SFov0HLe1QAPn960	Trône	Booba	248659	106	11	5	-18
+125	5dNqqkbIFBs8C3AcOdH7ov	Arafricain	Sofiane	244445	78	3	15	-47
+126	16pMGll7Ngwq32CrLEMyxa	Je vais t'oublier	Jul	243197	123	11	25	-3
+127	1oHh0DAi8nJDORn90H97QA	Life	Hamza	241384	131	16	49	4
+128	2Avff1j0GiY8mfHWbWdNRC	Afro Trap Pt. 10 (Moula Gang)	MHD	232848	108	3	60	-20
+129	2ekn2ttSfGqwhhate0LSR0	New Rules	Dua Lipa	232517	116	29	17	-13
+130	3hBBKuWJfxlIlnd9QFoC8k	What Lovers Do (feat. SZA)	Maroon 5	231450	61	15	18	-69
+131	2i3WO0WkrlnrA1I4GdUmxh	I Believe I'm Fine	Robin Schulz	229840	126	11	109	-5
+132	3L9Ih3UDmjqqVOhP6HXJbm	Je suis gninnin, je suis bien	Kaaris	228521	137	15	20	5
+133	4qKcDkK6siZ7Jp1Jb4m0aL	Look Alive (feat. Drake)	BlocBoy JB	226647	nan	1	133	new
+134	3kxw1ojLnfX1T5qq1wBaEu	Comme si de rien n'était	Dadju	226121	125	12	19	-9
+135	5jyyPsIGM2yqkZN9R3TmvN	The Ways (with Swae Lee)	Khalid	223940	nan	1	135	new
+136	2NF8A7C6tICScdRaZ0BrEe	Katchi - Ofenbach vs. Nick Waterhouse	Ofenbach	223158	118	23	14	-18
+137	0c2xKpDCi9yAeZZiqxEyV2	Viens on s’aime	Slimane	221011	129	3	114	-8
+138	68m6iwhKElLTBaGRG1LLwE	Get It Right (feat. MØ)	Diplo	220648	132	10	94	-6
+139	0tKcYR2II1VCQWT79i5NrW	Thunder	Imagine Dragons	220542	140	37	17	1
+140	1GsAqsSOtQ0EWHm9E93eeD	Madame Courage	Sofiane	220483	94	3	22	-46
+141	0wbnC9AUenxp613TYaJsGK	Narcos	Migos	219796	114	3	72	-27
+142	2VoJe7vkKkigs7C3CGnSXL	Hurtin' Me	Stefflon Don	218303	130	6	114	-12
+143	0VhkA3NAwIFfVW4NFCbAOD	Christophe (feat. Maître Gims)	Orelsan	217166	193	17	8	50
+144	51rXHuKN8Loc4sUlKPODgH	King's Dead (with Kendrick Lamar, Future & James Blake)	Jay Rock	216722	nan	1	144	new
+145	14EgW52HVqnLHd30bgbPxg	Darkside (with Ty Dolla $ign & Future feat. Kiiara)	Ty Dolla $ign	216305	133	9	113	-12
+146	4cYFep5SECqb4EsSkF82e0	La pluie (feat. Stromae)	Orelsan	216203	186	17	9	40
+147	6pSeZIGjpijuBpr8dIfQ11	M'appelle pas mon frérot	Moha La Squale	215857	142	6	68	-5
+148	5qN4HFkapdAOV94XPryVof	Black Panther	Kendrick Lamar	214967	nan	1	148	new
+149	78DktVruMrKYyv6rjdKDMM	Elle m'a eu	Ninho	213957	138	23	6	-11
+150	3iq9nhbI8fcnNamxMft1uv	Real Friends	Camila Cabello	213858	143	5	59	-7
+151	2UVbBKQOdFAekPTRsnkzcf	Stir Fry	Migos	212235	127	3	106	-24
+152	4z0IXsydGE0IpQnO2uOlKU	Ma fierté	Dadju	211420	139	12	29	-13
+153	2fgk04HR0nlgNysfX7fKF0	Fume à fond	Lorenzo	209806	157	35	11	4
+154	33zIhQOVgPmUIYwubdzmMW	T'es une galère	Sofiane	207233	100	3	25	-54
+155	1xznGGDReH1oQq0xzbwXa3	One Dance	Drake	206244	nan	51	1	re-enter
+156	1Tx2jZNOvlrj20ctkCg8vR	Zone (feat. Nekfeu & Dizzee Rascal)	Orelsan	204461	nan	16	4	re-enter
+157	1m519DBMMI8x3EPGzSCBki	Tant pis (feat. Dadju)	Dry	202705	150	3	150	-7
+158	6ulvRbG61Svk6iiKyzflbz	Shaina	Doks	202564	148	5	138	-10
+159	6q7ZhZkvOoTKEfdkvr1Nxm	Pas comme eux	Moha La Squale	201437	159	6	79	0
+160	0rDp24SRrDTsrVoUdSWZa2	Pierre, feuille, papier, ciseaux	Columbine	200505	145	28	28	-15
+161	4XkeMvQuwKWMrXu0iy54sF	Vai Nova	YL	198955	115	2	115	-46
+162	0NUvPSk4VzBW0ClqgGxNRj	Vitrine	Vald	195414	121	36	42	-41
+163	6tHWl8ows5JOZq9Yfaqn3M	Mine	Bazzi	195109	nan	1	163	new
+164	7GX5flRQZVHRAGd6B4TmDO	XO Tour Llif3	Lil Uzi Vert	194877	154	25	59	-10
+165	4GCIYE1x1TWJCChPkpy9by	Onizuka	PNL	194761	158	59	11	-7
+166	1Fv767CH5YFrjo6HwzHnpR	Laisse pas traîner ton fils (feat. Sofiane)	Ninho	192031	165	23	7	-1
+167	5rxPi0MiR4miNK0rCmk980	Broken People (with Logic & Rag'n'Bone Man)	Logic	190545	163	3	154	-4
+168	51PPDB9v8QOMkiUe06eYfc	Django	Dadju	189695	156	12	30	-12
+169	5cXg9IQS34FzLVdHhp7hu7	Big Shot (with Travis Scott)	Kendrick Lamar	189357	nan	1	169	new
+170	0Qh38w01QRXK6KHIv0e3hb	What About Us	P!nk	189012	198	18	28	28
+171	1mXVgsBdtIVeCLJnSnmtdV	Too Good At Goodbyes	Sam Smith	188969	136	15	35	-35
+172	5HrXDe1X7CmcrAImUTfBnv	Veux-tu ?	Lacrim	187019	172	13	3	0
+173	2Za1AlJNvksouPPWbXpR2X	Good Old Days (feat. Kesha)	Macklemore	186451	141	21	89	-32
+174	0OI7AFifLSoGzpb8bdBLLV	Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)	Machine Gun Kelly	185481	185	5	106	11
+175	4oj5EhSEKKpxG3R34btLta	Quand est-ce que ça s'arrête	Orelsan	184072	nan	15	12	re-enter
+176	6RcunYh727ddHarRJ4mTIj	Lionne	Dadju	182657	162	12	27	-14
+177	3WRQUvzRvBDr4AxMWhXc5E	Sunset Lover	Petit Biscuit	181851	nan	9	91	re-enter
+178	35KAT6TuJKhKM8Fi6XpObd	Club	Lomepal	181380	nan	2	178	re-enter
+179	6PmduAwBxCsGIQXPDoWzLm	T'étais où?	Moha La Squale	181087	196	6	96	17
+180	3towKHKVOXCCcL1fHv6xFO	Capital Letters	Hailee Steinfeld	179062	nan	1	180	new
+181	3B54sVLJ402zGa6Xm4YGNe	Unforgettable	French Montana	178705	171	32	3	-10
+182	2DlIwu1iDTILEMXA7MUotn	Beautiful Trauma	P!nk	178542	177	8	146	-5
+183	61TEjsLb7OlStCTpQfcHnC	Ça va aller	Booba	177206	161	11	10	-22
+184	2nUJvBO87SkxCViQsLc9Zr	Man's Not Hot	Big Shaq	176990	175	14	95	-9
+185	4WofdKO5C0u80rjjpQwmFf	Cramé	Sofiane	176922	128	3	24	-57
+186	3ZIWdjqDCjAtq4daPmYr6g	Oublie-le	Dadju	176090	168	12	16	-18
+187	0CokSRCu5hZgPxcZBaEzVE	Glorious (feat. Skylar Grey)	Macklemore	175073	174	21	14	-13
+188	7vGuf3Y35N4wmASOKLUVVU	Silence	Marshmello	174740	183	26	47	-5
+189	22s2CAMi1ciy0wMN42OCV2	À la folie	Booba	174283	164	11	13	-25
+190	09IStsImFySgyp0pIQdqAc	The Middle	Zedd	174052	nan	1	190	new
+191	08Dx3uIZwSJIzhkHbteMg9	Centurion	Booba	173608	166	11	7	-25
+192	4ycYWTh5pNq2Dgyh201skD	Le temps passe	4Keus Gang	172655	169	2	169	-23
+193	00X2yv2vrtritPt2CZnUTZ	Bené	PNL	172564	184	59	5	-9
+194	67vgq9l5uvS6JKNOsTQs44	Déjà trouvé	Dadju	172158	176	12	48	-18
+195	4ixCzEIDG8nLFkIVO7gpQT	La tête dans les nuages	Jul	172153	179	11	29	-16
+196	57U26FwUclMqyZ5ylnPpw1	Α. Nwaar Is The New Black	Damso	172151	188	43	2	-8
+197	5h0cywRy1x3LQc7kHIxPgu	DKR - Bonus Track	Booba	171718	173	11	17	-24
+198	0CcQNd8CINkwQfe1RDtGV6	Believer	Imagine Dragons	171582	199	50	10	1
+199	68zuCikj1diNMG5FBuOCph	Fruit d'mon époque	YL	170655	nan	2	180	re-enter
+200	5GXAXm5YOmYT0kL5jHvYBt	I Feel It Coming	The Weeknd	170542	nan	43	9	re-enter

@@ -1,0 +1,201 @@
+position	song_id	song_name	artist	streams	last_week_position	weeks_on_chart	peak_position	position_status
+1	1OUPXna2MCgAt3VNmXJBtg	Bola Rebola	Tropkillaz	3027344	1	5	1	0
+2	5EKHbW7mXcAR4hCyS3YXjb	Atrasadinha - Ao Vivo	Felipe Araújo	2770180	2	27	1	0
+3	7FiIQXpIeLo3ITfGGpb8PB	Vamos pra Gaiola	MC Kevin o Chris	2698115	3	11	2	0
+4	5eMmT4Ava5BGThju0AD8vQ	Cem Mil - Ao Vivo	Gusttavo Lima	2612707	8	22	4	4
+5	3RbXsVQr4jeTxvT35Hssq3	Bebi Liguei - Ao Vivo	Marília Mendonça	2554109	4	5	4	-1
+6	6sRLrSetyIwIKhW1eMlUNP	Vou Ter Que Superar - Ao Vivo	Matheus & Kauan	2389677	nan	1	6	new
+7	2lAyctg5FocS67eksHoyIg	Quem Me Dera	Márcia Fellipe	2361927	6	16	4	-1
+8	2VxeLyX666F8uXCJ0dZF8B	Shallow	Lady Gaga	2297368	5	25	3	-3
+9	7oEr56KG6odStlQH0nvdyr	Solteiro Não Trai - Ao Vivo	Gustavo Mioto	2273063	15	16	9	6
+10	7KdcbYcVF8LkQeQcTYOixJ	Vingança - Ao Vivo	Luan Santana	2136595	10	28	10	0
+11	5yH8pYxNckOU1cxfPsMIaz	Agora é Tudo Meu	Dennis DJ	2132867	7	16	3	-4
+12	4eB8rsNNm5791m3uvEBNLR	Estado Decadente - Acústico	Zé Neto & Cristiano	2115681	17	11	10	5
+13	0IQCOAw9ZAI6WnXIrl481F	Hoje Eu Vou Parar Na Gaiola	Mc Livinho	2114375	9	20	5	-4
+14	6PqUdUGS4h5aGY7YyEGXr8	All The Lies	Alok	2085965	nan	1	14	new
+15	6YjyT6MEMsMc41NNWk2dYg	Bebaça - Ao Vivo	Marília Mendonça	2062957	13	5	13	-2
+16	2qkNnJvQvhLiZ63X1L3eFz	Notificação Preferida - Ao Vivo	Zé Neto & Cristiano	2038591	11	41	2	-5
+17	1xyVMQx51Kab6eLVtE6twx	Cobaia	Lauana Prado	1988198	29	33	17	12
+18	0XEJ7eph2IWFYZc73Jm3n2	Infarto	Diego & Victor Hugo	1958577	14	20	9	-4
+19	2caDAj0O4uD8OlJ8bap9nz	Favela chegou - Ao vivo	Ludmilla	1943280	16	5	12	-3
+20	7G2XZhDNHo7SSDWSVxC0UT	Terremoto	Anitta	1850007	12	8	1	-8
+21	1qCLx3nX25NuhfPjM5E1qV	Ouvi Dizer	Melim	1777591	19	36	13	-2
+22	7nJJKm0R90xM1nGlxTHTme	Cerveja, Sal E Limão - Ao Vivo	Matheus & Kauan	1758015	nan	1	22	new
+23	3Hb9kUdm4yf839Fle4RIdT	Parado no Bailão	MC L da Vinte	1753272	18	26	1	-5
+24	7wMAgaPiKzTNxpDWu2BPfk	Jenifer	Gabriel Diniz	1696535	21	8	6	-3
+25	2mJOngYlqgfdLMBSxPcJL3	Quem Tem o Dom	Jerry Smith	1633002	20	9	15	-5
+26	5MMrkwK6AgNAsgHVdC7daZ	Péssimo Negócio (Ao Vivo)	Dilsinho	1616996	26	8	25	0
+27	6ocbgoVGwYJhOv1GgI9NsF	7 rings	Ariana Grande	1605567	23	7	11	-4
+28	7D5F5BzIon5zhzQrOU2pdN	Ciumeira - Ao Vivo	Marília Mendonça	1593859	25	5	22	-3
+29	3mNmUjoDHYDYj08IaRPtg0	Posto 24h (feat. Wesley Safadão) - Ao Vivo	Lucas Lucco	1564995	32	23	23	3
+30	0EZuXcsnjEmGuRYdFdcctX	Sem Sal - Ao Vivo	Marília Mendonça	1561103	28	5	20	-2
+31	13Rf6RaZT13TW4xLQR3MQr	Poesia Acústica #6: Era uma Vez	Pineapple StormTv	1548123	24	13	18	-7
+32	2X8sssaxS5GReg6945B6RW	Só Pra Castigar	Wesley Safadão	1547669	27	28	4	-5
+33	3o67Yt3Ua1qlSNV22zWUAn	Traí Sim - Ao Vivo	Maiara & Maraisa	1516142	30	17	18	-3
+34	0kCqaybZgYcLYxzZymmBoc	Quem Pegou, Pegou - Ao Vivo	Henrique & Juliano	1511728	31	31	7	-3
+35	6JqpFboOH2bq9pzaYbkKBn	R.I.P. (feat. Rita Ora & Anitta)	Sofia Reyes	1410848	22	2	22	-13
+36	5Wmg5LPPJnbMsKA9fthM3l	Qualidade De Vida - Ao Vivo	Simone & Simaria	1393184	34	11	8	-2
+37	7rLegaz7zKB6EtDNzcslKE	Medley da Gaiola - Dennis DJ Remix	MC Kevin o Chris	1345089	35	30	4	-2
+38	4SBQSroThFQ98U29IwnJ2g	Coisa Boa	Gloria Groove	1335779	33	11	33	-5
+39	7LPR6AdkOQR9WpEixCGNCk	Sapequinha	Lexa	1292210	38	30	12	-1
+40	5pRGXCDY0eT6R1QicAn7Uk	Lençol Dobrado	João Gustavo e Murilo	1289237	47	6	40	7
+41	5U28PY9MekLyCBYtLHGQpe	Meu Abrigo	Melim	1286751	40	42	3	-1
+42	28SWsF1IQxfc9bP5yua35K	Provocar	Lexa	1265358	36	18	34	-6
+43	0H8CBal2Dcu5Yc001VotZN	Dona de mim	IZA	1250783	37	26	26	-6
+44	3L2uyIJoJPjYkSETVNSPBQ	Não Abro Mão - Ao Vivo	Maiara & Maraisa	1243071	49	8	44	5
+45	2x8TNY9KwNvD19gVGs4WOP	Ela É do Tipo	MC Kevin o Chris	1221462	131	2	45	86
+46	6HtVFR6WAeJRgYtleNcEE8	Só Depois do Carnaval	Lexa	1208286	41	8	28	-5
+47	7oe0Ix6qnvqZhK0zDzOPie	Então Vem Cá - Ao Vivo	Mano Walter	1181480	45	11	43	-2
+48	5q0NlM6Pm8Pp3orq7zGiRn	Quarta Cadeira - Ao Vivo	Matheus & Kauan	1143504	nan	1	48	new
+49	4HTrlT5mmxPaZZKs4JSPeI	To Gostando Tanto de Você	Mc Don Juan	1132644	42	17	33	-7
+50	3IdXfXbXcbEe3LP9ClIZw8	Pronta pra Trair	Yasmin Santos	1111503	44	5	42	-6
+51	2dpaYNEQHiRxtZbfNsse99	Happier	Marshmello	1101497	43	32	43	-8
+52	5cN5ZOVcYBl4Lnq50Zeqsx	Mágica - Ao Vivo	Matheus & Kauan	1068126	nan	1	52	new
+53	1IJH7QjV5V99eJBtKXqGXE	Largado Às Traças - Ao Vivo	Zé Neto & Cristiano	1037297	46	45	1	-7
+54	7E5cJjrgYLHo13pI0hpmWw	Não Atende Não	Wesley Safadão	997281	55	15	40	1
+55	11KS9tNAAQJW7jTq7W1WcD	Tem Moda Pra Tudo - Ao Vivo	Matheus & Kauan	992780	nan	1	55	new
+56	3fLqmaO4vvZpFZSZy52VMp	Deixa (feat. Ana Gabriela)	Lagum	980496	48	42	28	-8
+57	0PaAB17axL9hn88mHiw8g0	Não Fala Não pra Mim	Humberto & Ronaldo	966045	54	38	5	-3
+58	6NgwHmEgfQVIYQBq8QcWMi	Do Copo Eu Vim (feat. Marília Mendonça) - Ao Vivo em Brasília	Diego & Victor Hugo	962788	74	3	58	16
+59	4UANYptjv2kpV6IY7IjXoJ	Bem Pior Que Eu - Ao Vivo	Marília Mendonça	950939	52	5	50	-7
+60	4mtHXZBOBMrZSI6jp3X9WJ	Espelho Meu - Ao Vivo	Henrique & Diego	947160	58	8	46	-2
+61	2Ab1wPTEqulaCGoBak1gUo	Ao Vivo E A Cores	Matheus & Kauan	942682	75	46	1	14
+62	36UiRg8wGUOFC3E0gdyvFA	Morena	Vitor Kley	941539	53	24	46	-9
+63	2PMLdLt5QeOuOgxfAvx1in	Sofazinho - Ao Vivo	Luan Santana	937322	60	28	6	-3
+64	40s35Bws3HIO5DLRlrosyL	Pior Que Possa Imaginar	Luísa Sonza	929440	nan	1	64	new
+65	0vT797IpZpF5o1XLCnWCUL	É natural (Participação especial de Bruno Cardoso) - Ao vivo	Ferrugem	923757	59	33	36	-6
+66	5JZufG8AcnMvCOeFoMFExv	Pro Nosso Bem - Ao Vivo	Gustavo Mioto	916101	nan	1	66	new
+67	3e9HZxeyfWwjeyPAMmWSSQ	thank u, next	Ariana Grande	911448	56	7	26	-11
+68	6TER2h6vsimc7EmnQDY7uR	Pedacim De Noite - Ao Vivo	Matheus & Kauan	910638	nan	1	68	new
+69	3i4ssEZfLO3bgaB6hnj3tp	Baixinha - Ao Vivo	Matheus & Kauan	904712	nan	1	69	new
+70	3HEb6Y5dv8PgD6JgsIQNac	Bebida Na Ferida - Ao Vivo	Zé Neto & Cristiano	900032	63	45	25	-7
+71	6i9ToXS6CAfjpp8veBklg1	Café	Vitão	888718	88	2	71	17
+72	7uU04pPMnKELpv8mIJ3yLa	Zé da Recaída - Ao Vivo	Gusttavo Lima	881610	65	22	23	-7
+73	6pgoGpBkKUvXrrU95j0khl	Cidade Vizinha - Ao Vivo	Henrique & Juliano	874019	69	25	6	-4
+74	2dmGj5Nf01FcR6N4HPzAbL	Saudade Nível Hard	Yasmin Santos	874001	68	33	7	-6
+75	4y3OI86AEP6PQoDE6olYhO	Sucker	Jonas Brothers	873402	57	4	46	-18
+76	3NpRkAnxexTh4TklAZNjag	Bye Bye	Mc Don Juan	870195	98	2	76	22
+77	4xc6RrWzEOdprPqYn9Cyen	Só Você	Dennis DJ	869129	61	35	2	-16
+78	11DkUDkBt9kaha1QRnuCMU	Regras - Ao Vivo	Diego & Arnaldo	864840	67	2	67	-11
+79	4kV4N9D1iKVxx1KLvtTpjS	break up with your girlfriend, i'm bored	Ariana Grande	849003	62	7	18	-17
+80	3Vc8vnid3noqupe9PvUKxP	Dizeres	Lourena	846933	66	9	65	-14
+81	7tU3GVhGsQFZze6C5vIwQ5	Consórcio - Ao Vivo	Matheus & Kauan	845121	nan	1	81	new
+82	3KkXRkHbMCARz0aVfEt68P	Sunflower - Spider-Man: Into the Spider-Verse	Post Malone	844369	77	12	67	-5
+83	39aWBx86ZdvXQ9d0fRAXxH	Fingindo Maturidade - Ao Vivo	Mano Walter	841492	139	2	83	56
+84	6zdrUt0j8guhZfcSF6X2Sb	Quer mais?	POCAH	838150	51	20	34	-33
+85	1xg3EbmhAr1cfNOA55pvKH	Pesquisa no Google (feat. Henrique & Diego) - Ao Vivo	Turma do Pagode	834762	nan	1	85	new
+86	74n5d5M21JnC4WJ6gdkggK	Propaganda - Ao Vivo	Jorge & Mateus	812810	79	57	2	-7
+87	5Vw6ZLNB6Ko7VZM6vmNIbr	O Alvo - Ao Vivo	Diego & Victor Hugo	809180	76	62	12	-11
+88	3wB81eGupHVv9W4mF9IsHh	Facilita	MC Kevinho	804934	nan	1	88	new
+89	2JVbZEpewmqNlSzmXJTx2E	Favela	Alok	787897	78	32	4	-11
+90	4lEw9Id7kLDSJ6KRdaenM9	Espaçosa Demais - Ao Vivo	Felipe Araújo	785531	85	25	39	-5
+91	1fyhyOy6iS9E2NckAzjmTo	Status Que Eu Não Queria - Ao Vivo	Zé Neto & Cristiano	781890	81	45	6	-10
+92	3fwAaOwyR4e8WF3tuj0sOS	Anticorpos - Ao Vivo	Matheus & Kauan	779947	nan	1	92	new
+93	5mFn4teAi2HMi7kRHliyFL	Surto De Amor - Ao Vivo Em Uberlândia / 2018	Bruno & Marrone	775561	72	2	72	-21
+94	3QkKCTSHnJlUag0GG9F1cN	Maturidade (feat. Matheus & Kauan)	Avine Vinny	772879	73	19	69	-21
+95	4u7EnebtmKWzUH433cf5Qv	Bohemian Rhapsody - 2011 Mix	Queen	764472	nan	1	95	new
+96	3ywQX0K3P9WKKzyhjkWd0S	Estabelecimento - Ao Vivo	Matheus & Kauan	762808	nan	1	96	new
+97	7MPQNyAX02uIEQCRsC4sgc	Banco	Matuê	762007	86	10	86	-11
+98	0E9ZjEAyAwOXZ7wJC0PD33	In My Mind	Dynoro	750714	83	34	36	-15
+99	4oH03lpFiysmcWex1AyddD	Me Negaram Amor	Cynthia Luz	749743	84	31	83	-15
+100	1ELXy0IfF2iKYwnsUqbYIQ	Tijolinho por Tijolinho	Enzo Rabelo	748363	82	24	64	-18
+101	7qQV8fo97AFhrL9HPUeAsk	Zona de Risco - Ao Vivo	Fernando & Sorocaba	738792	118	15	74	17
+102	7Cpd4UGXnTrloIgZpSs46e	Passa Mal - Ao Vivo	Marília Mendonça	720855	87	5	64	-15
+103	4lvGHfDuzfv9uDTHMrRMiH	O Sol	Vitor Kley	720675	93	24	38	-10
+104	6FWMkcaZyKS8I60zR6ro7h	Dentro do Carro	MC Kevin o Chris	717519	94	24	46	-10
+105	5rwdmpN5eMWIIwK4R96vv1	Malemolência	Dynho Alves	714927	109	5	105	4
+106	59zP5esW1c3mYUgW5aiaZU	Não Pedi Pra Me Amar - Ao Vivo	Matheus & Kauan	714876	nan	1	106	new
+107	2odzriVVZBwYOiYJEj30tm	Pouca Pausa	Clau	709309	50	41	8	-57
+108	4w8niZpiMy6qz1mntFA5uM	Taki Taki (with Selena Gomez, Ozuna & Cardi B)	DJ Snake	706767	90	26	30	-18
+109	4gDvg62vG96w0qJaF6wzcd	A Culpa é do Meu Grau (feat. Zé Neto & Cristiano) - Ao Vivo em Brasília	Diego & Victor Hugo	701110	nan	1	109	new
+110	5bQ1HaDRZpOjq2etsPfu3O	Grupo bom	UM44K	689564	95	10	52	-15
+111	5Yzb3sVRYO4kqHhy0iVs1K	Clichê (Participação especial de Felipe Araújo)	Ludmilla	687968	96	16	61	-15
+112	220QqE38Qrmyrtyd5xqB8i	Seu Crime	Pabllo Vittar	687136	89	12	24	-23
+113	2PADJK4rhdklqFLQFa5oMX	Cerveja De Garrafa (Fumaça Que Eu Faço) - Ao Vivo	Atitude 67	687118	101	45	23	-12
+114	5lYKob6hewwt3dcy5kWMfF	Praia do Rosa - Acústico	Oriente	683087	99	17	61	-15
+115	4Lxv5hGnHOUYBVeDgWgcaP	Long Neck - Acústico	Zé Neto & Cristiano	681594	120	11	36	5
+116	5bp0iH4hXKrvwxi64oDGon	Bebo Litro - Ao Vivo	Maiara & Maraisa	675744	104	11	64	-12
+117	7fa9MBXhVfQ8P8Df9OEbD8	Girls Like You (feat. Cardi B)	Maroon 5	668868	103	41	36	-14
+118	5p7ujcrUXASCNwRaWNHR1C	Without Me	Halsey	667760	100	25	93	-18
+119	2rbDhOo9Fh61Bbu23T2qCk	Always Remember Us This Way	Lady Gaga	662564	91	12	64	-28
+120	055TcJ0BdCrW7qE8Yq5KRM	Bye Bye - Ao Vivo	Marília Mendonça	659155	102	5	78	-18
+121	2srL4DYBekshpbprS6H0mO	Deixe Me Ir - Acústico	1Kilo	657432	106	97	1	-15
+122	6MWtB6iiXyIwun0YzU6DFP	Wow.	Post Malone	656228	127	13	96	5
+123	0lCmp1Mws7I9K4a0OAgces	Juramento do Dedinho	Mano Walter	650873	105	47	51	-18
+124	1qDZnViQgUItsMpWLVwfGb	Fica - Bonus Track	ANAVITÓRIA	650552	117	74	24	-7
+125	0pqnGHJpmpxLKifKRmU6WP	Believer	Imagine Dragons	647926	116	36	71	-9
+126	6Qs4SXO9dwPj5GKvVOv8Ki	Dancing With A Stranger (with Normani)	Sam Smith	644081	112	11	60	-14
+127	2BF6mQdYAkLmeRQmX7YyPy	Me Desculpa Jay Z	Baco Exu do Blues	641105	108	18	27	-19
+128	1ekX8JX7LF3AyxI0nyOzvB	Santo Forte (Ao Vivo) (feat. Luan Santana)	Dilsinho	636629	111	8	110	-17
+129	5kmxwo1fwzwavHqJ3UzbP8	Bebeu, Lembrou - Ao Vivo	Matheus & Kauan	635684	nan	1	129	new
+130	2U94QDSo9N4e1iXrjo7KAB	Terra Sem CEP - Ao Vivo	Jorge & Mateus	634853	126	57	30	-4
+131	37erXXnh4mlWE7mdO6EYOp	Ausência - Ao Vivo | Acústico	Marília Mendonça	627983	115	36	44	-16
+132	5KNi9XFap48ry4puG7rvqv	Pra você acreditar - Ao vivo	Ferrugem	626606	119	51	56	-13
+133	7qiZfU4dY1lWllzX7mPBI3	Shape of You	Ed Sheeran	625281	121	116	1	-12
+134	51HrDv54pSe1IqynORNXBd	O Bebê	MC Kevinho	622687	110	29	2	-24
+135	4fMjqKYYsvtT6Fvca8lGFl	Sua Mãe Vai Me Amar	Turma do Pagode	620841	124	37	42	-11
+136	1oQppEGTHYN53xfEaTz4ua	Vai menina	Pedro Sampaio	616418	157	2	136	21
+137	4uD7ypL7pDmOiMiVX6TCCa	3 Dias Virado	Mc IG	608782	125	58	35	-12
+138	1EQ8sBQ7Abv9DvNBzhXAcv	Pra Você Guardei O Amor	Nando Reis	605240	128	31	121	-10
+139	1YUWhlQjFv7MQpcbb77zTL	Poesia Acústica #3: Capricorniana	Pineapple StormTv	604884	122	71	77	-17
+140	26WpOBpHiIMoBuMEIwtOCH	Quando a vontade bater (Participação especial de PK Delas)	Pk	597877	165	2	140	25
+141	1F46LaY3gYpvL2r534FeWs	Respeita o Nosso Fim - Ao Vivo	Gusttavo Lima	596255	134	22	112	-7
+142	3QtOsthM0N3gRfD3dkqbl4	Eu não vou embora	DJ Zullu	592281	133	14	76	-9
+143	78RKj8Df8tRGFukJglsvCR	Abaixa Que É Tiro - Ao Vivo	Parangolé	591697	107	4	107	-36
+144	1aqRJG36VbTp8E37W4cMGa	Eu Mereço Ser Feliz - Ao Vivo	Mumuzinho	588751	130	10	117	-14
+145	3bR8wBqLky6b61ROJlaBEF	Ai, Amor	ANAVITÓRIA	585367	138	34	32	-7
+146	2aRdz1goHRuJ2FkDw3vpVX	Anos Luz	Matuê	579969	140	16	67	-6
+147	3M6QJpWhM9NPcBwxTRKLlH	Compartilhando Mágoa	George Henrique & Rodrigo	578544	145	7	43	-2
+148	4cnNrOojGyU6J3OXqVTPIg	Pra Inveja É Tchau	Mc Kevin	576571	135	39	21	-13
+149	2lm3Ric7MeBk8hLfsiVokr	Pouco a Pouco (Ao Vivo) (feat. Sorriso Maroto)	Dilsinho	568160	142	8	140	-7
+150	3xRicZvi4SnqWUpgfmB3Uy	Briguinha Boba (Pã Pã Rã Pã Pã) - Ao Vivo	Lucas Lucco	568112	136	20	88	-14
+151	7j5Bbkg5cHDkf0ETPGf2Uh	Cada um na Sua - Ao Vivo	Fernando & Sorocaba	564878	152	15	58	1
+152	126x7SdXVva2Dqh2is2CEe	Carrinho Na Areia - Ao Vivo	Gusttavo Lima	561586	144	22	63	-8
+153	6HaTYIUKd8SzdvGOfutBRD	Poesia Acústica #2: Sobre Nós	Delacruz	559399	141	62	91	-12
+154	2cbMXc0P5s271VwZOUk1Gb	Mulher Maravilha - Ao Vivo	Zé Neto & Cristiano	558329	147	37	31	-7
+155	6nn9utEXmkfR5iBxerXtB5	Amigo Emprestado - Ao Vivo	Marília Mendonça	555269	132	5	109	-23
+156	1WSGTYKLEpKfNQYYW5Oymt	I Can’t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)	benny blanco	552794	149	4	117	-7
+157	4Da1U4No5kamKMoJ82RGan	Piscininha Amor	Whadi Gama	552635	123	10	41	-34
+158	6YNCE5qtrTa7YcnAOAEsDQ	Apenas Mais uma de Amor	Lulu Santos	539441	155	50	111	-3
+159	1KFN3kB4hc6r7ILpifFsqf	Veneno	Anitta	536252	146	20	1	-13
+160	4iANxSIDT3kGekiquMSAgT	Embrasa	Vitão	535629	150	2	150	-10
+161	2dEkETSUpO8oZoCOcKT1yN	Tonelada de Solidão (feat. Ferrugem) - Ao Vivo	Marcos & Belutti	526121	nan	7	161	re-enter
+162	2vRBYKWOyHtFMtiK60qRz7	Trevo (Tu)	ANAVITÓRIA	524033	164	39	99	2
+163	4b08wlmxdHRHS1jLS4wcmd	Deus Me Livre Quem Me Dera	Israel & Rodolffo	523417	163	29	113	0
+164	5cEZdqWwTQbQ5mfiZJpzps	LEAL	Djonga	523012	92	2	92	-72
+165	5TUYLsiIi3tuvR2fCJjZUy	Kikadinha	Jerry Smith	522974	154	30	15	-11
+166	5zweis4XXFug8uxTRnqH1W	Casa da Mãe Joana - Ao Vivo	Marília Mendonça	522292	153	5	103	-13
+167	4nraNqonMyfc0U3o8VeXVu	Ocean	Alok	519881	159	48	7	-8
+168	7JdZZfozlODQ08ATf8xIZ6	Anti-Amor - Ao Vivo	Gustavo Mioto	518299	162	66	7	-6
+169	3eCofNVG97J3lRyNhh0zPP	Boa Menina	Luísa Sonza	515602	176	21	61	7
+170	3eWHUE5D5R19q7BvOX7NSJ	Sinto sua falta - Ao vivo	Ferrugem	515365	183	37	113	13
+171	0e7ipj03S05BNilyu5bRzt	rockstar (feat. 21 Savage)	Post Malone	514404	166	48	38	-5
+172	1r62NEaZiAwJllEGCySaIq	Troca de Favor - Ao Vivo	Marcos & Belutti	513653	188	20	84	16
+173	5w9c2J52mkdntKOmRLeM2m	Con Calma	Daddy Yankee	513558	175	2	173	2
+174	0EyxB6uQOUC4ex2tbJuu6m	Deixa Eu Te Chamar de Meu Amor	Breno & Caio Cesar	513407	148	8	95	-26
+175	3MJHSt27qd1umxmtt4IVmu	Nossa música	UM44K	512542	158	10	82	-17
+176	6TLHo63Z3wqHkW6adVeEwZ	Plaqtudum	Recayd Mob	509695	160	26	130	-16
+177	2AuQcbltEHog9kOv9Ms3W3	Sujeito - Ao Vivo	Gusttavo Lima	509439	170	21	133	-7
+178	4MF0VMffyxHsy3GZwwUnAs	A Morte do Autotune	Matuê	505777	168	13	94	-10
+179	1zB4vmk8tFRmM9UULNzbLB	Thunder	Imagine Dragons	501028	169	36	94	-10
+180	0PG9fbaaHFHfre2gUVo7AN	Please Me	Cardi B	500924	151	4	127	-29
+181	5itOtNx0WxtJmi1TQ3RuRd	Giant (with Rag'n'Bone Man)	Calvin Harris	500053	180	11	139	-1
+182	09Q3su74ehVmR87tA3msB9	Eu Não Iria - Ao Vivo	Gusttavo Lima	498869	173	8	173	-9
+183	5icOoE6VgqFKohjWWNp0Ac	Here With Me	Marshmello	494811	nan	1	183	new
+184	1R1HmdunvOnEK4bibKp7q5	Bonita, Lindinha e Sagaz	Mc Davi	491713	167	57	38	-17
+185	6fxVffaTuwjgEk5h9QyRjy	Photograph	Ed Sheeran	491122	177	87	65	-8
+186	5kuUOpHZlZjL8b7HXkxRsm	Luxúria	Xamã	489787	179	15	174	-7
+187	0aUGXSCmdJz9I9kdY9e9kk	Love À Queima Roupa - Ao Vivo	Marília Mendonça	485967	161	5	127	-26
+188	39cmB3ZoTOLwOTq7tMNqKa	Hear Me Now	Alok	483865	178	20	146	-10
+189	21ko2JKn0ynlRYLlAfIkPA	Sexta Do Mal	Mc Zaac	483391	174	11	100	-15
+190	1KIMRoLleFJCwABBrlAOPI	Pra Me Refazer	Sandy	481839	182	16	96	-8
+191	6WkJ2OK163XXS2oARUC9JM	Dancin (feat. Luvli) - Krono Remix	Aaron Smith	479788	192	32	56	1
+192	5rRi4RW8F99U24EAS2Cdte	Vem amor	Ludmilla	467722	181	7	36	-11
+193	1crJyVBXmm9w8ljO6PylZ6	HAT-­TRICK	Djonga	465502	97	2	97	-96
+194	25sgk305KZfyuqVBQIahim	Sweet but Psycho	Ava Max	465120	191	9	163	-3
+195	2Y73798F4zbbbvKT02fbtE	Finalidade Era Ficar em Casa	MC Kevin o Chris	465041	197	23	17	2
+196	0iAiunuKLLAUmQxgkcJza2	Caderninho	Vitão	464941	171	4	168	-25
+197	2QkXuBmYljpYwgcyqbA1C2	Algo Parecido	Skank	462886	195	24	91	-2
+198	4muZ1PUxmss4cVmYnpLrvs	Refém	Dilsinho	460928	nan	30	152	re-enter
+199	5qjMyKkmosPBws5cImS9Zz	Trincadinho - Ao Vivo	Jorge & Mateus	459112	198	57	7	-1
+200	66toMgjEVAujGwyc1PEDvx	Próximo amor	Alok	458349	187	18	81	-13

@@ -1,0 +1,201 @@
+position	song_id	song_name	artist	streams	last_week_position	weeks_on_chart	peak_position	position_status
+1	1H3oIeKUEHpBhXUiso0IMH	Kokain	Bonez MC	4045984	1	2	1	0
+2	6XjEOPgbgHKcaHcunEHSJJ	UFF	Veysel	3652684	nan	1	2	new
+3	5UtiebKGhsSce9gX1qCqic	BONNIE & CLYDE	Loredana	3524415	2	2	2	-1
+4	4IAVIBh9jbYN30DwpHFMD4	INTERNATIONAL GANGSTAS	Farid Bang	3122462	nan	1	4	new
+5	641R77CBy4bOLGRcA9sgHy	500 PS	Bonez MC	2923684	4	8	2	-1
+6	0E9ZjEAyAwOXZ7wJC0PD33	In My Mind	Dynoro	2900836	3	15	1	-3
+7	2eNSyVH3sNPiAj9WpRYK73	Dior 2001	RIN	2692385	5	6	3	-2
+8	0oZyouBDStcJEUbTmSfys2	Facetime	Dardan	2665586	6	6	5	-2
+9	4S8d14HvHb70ImctNgVzQQ	I Love It (& Lil Pump)	Kanye West	2431978	8	3	8	-1
+10	5d35jcJj7WjDQBOHCHPY6t	Melodien (feat. Juju)	Capital Bra	2248263	7	8	1	-3
+11	0Dn40gxVCMo5TkgS8Ik18Q	Falling Down - Bonus Track	Lil Peep	2142906	105	2	11	94
+12	5N5k9nd479b1xpDZ4usjrg	Promises (with Sam Smith)	Calvin Harris	2022738	11	6	11	-1
+13	0mjbIwkdLPK5g2nGzhacjU	Risiko	Bonez MC	1992781	9	4	5	-4
+14	2dpaYNEQHiRxtZbfNsse99	Happier	Marshmello	1895013	13	6	13	-1
+15	0jB0RNZIfaihaDKNmdrI40	Casanova	Summer Cem	1583985	15	9	3	0
+16	0d2iYfpKoM0QCKvcLCkBao	Eastside (with Halsey & Khalid)	benny blanco	1571899	16	11	12	0
+17	214Mx6MSJhtaO1uPtZGqLH	Copacabana	Leon Machère	1501148	19	9	11	2
+18	7K7MUBCnzgBAvMVW2RTWNs	Body (feat. brando)	Loud Luxury	1496735	14	8	7	-4
+19	4mGxpq4nAOz9ZHe7GmPcgO	BlaBla	Azzi Memo	1493392	nan	1	19	new
+20	6ctK397vh20Ok72DMhbRI6	Wie ein Alpha	Kollegah	1481203	161	2	20	141
+21	1phPPgHcR590i0y8c9H36r	Wellou	Kurdo	1436055	nan	1	21	new
+22	3u1S1OmAUhx5DRlLrXqyp3	Rise	Jonas Blue	1393822	20	16	7	-2
+23	4ofwffwvvnbSkrMSCKQDaC	Shotgun	George Ezra	1376137	25	11	20	2
+24	0tp6mwUt99QnfY95T30Lqj	Blah Blah Blah	Armin van Buuren	1363928	23	12	17	-1
+25	0VNlBq4JKqvlIlveSwC4WJ	Mercedes	Eno	1334440	21	10	3	-4
+26	3yhaXZury9ZUpfXvdvuWiB	Vagabund	Bausa	1318050	22	5	9	-4
+27	60SdxE8apGAxMiRrpbmLY0	Lucky You (feat. Joyner Lucas)	Eminem	1300108	17	4	10	-10
+28	1rqqCSm0Qe4I9rUvWncaom	High Hopes	Panic! At The Disco	1279744	29	14	28	1
+29	7fa9MBXhVfQ8P8Df9OEbD8	Girls Like You (feat. Cardi B)	Maroon 5	1240178	24	15	12	-5
+30	3EPXxR3ImUwfayaurPi3cm	Be Alright	Dean Lewis	1207649	34	9	30	4
+31	1MFSD0AkPk8Yq7TDEhrHcb	Bella ciao - HUGEL Remix	El Profesor	1192810	28	17	4	-3
+32	6kPJZM97LwdG9QIsT7khp6	Solo (feat. Demi Lovato)	Clean Bandit	1192699	27	19	2	-5
+33	7k6sTmc6wuOnvelPcOMyf1	Unterwegs	AK Ausserkontrolle	1188404	26	4	21	-7
+34	3DGar7krWlmrXRFHBcQF6z	Whenever (feat. Conor Maynard)	Kris Kross Amsterdam	1112301	31	7	31	-3
+35	5IaHrVsrferBYDm0bDyABy	Taste (feat. Offset)	Tyga	1070065	30	19	10	-5
+36	2G7V7zsVDxg1yRsu7Ew9RJ	In My Feelings	Drake	1020898	33	10	2	-3
+37	3AXtDUSO78KrGa9Rq8rWUS	One Night Stand	Capital Bra	1014609	35	14	3	-2
+38	5f6Bft94CPc7caZuqywckE	Testarossa	Miami Yacine	998285	32	6	17	-6
+39	77YLeSEI8unMbZVWNUqioQ	Only Thing We Know	Alle Farben	997360	36	11	31	-3
+40	5HZaPWkOHUioEbruRY8HnL	Mephisto	Bushido	996135	10	2	10	-30
+41	77VLYTyrdlHEWcjhjQoXlz	Oh Child	Robin Schulz	977951	39	2	39	-2
+42	5psDugCQ2V8uayDeSuTvdD	"Immer wenn wir uns sehn (""Das schönste Mädchen der Welt"", Soundtrack)"	LEA	972387	54	6	42	12
+43	2zy9TMoZlYGuCNY4TLqG24	Don't Leave Me Alone (feat. Anne-Marie)	David Guetta	972184	40	2	40	-3
+44	7ecGSqT8Ulbzhs5QwgWGVN	Neymar	Capital Bra	966264	38	14	5	-6
+45	2E124GmJRnBJuXbTb4cPUB	FEFE (feat. Nicki Minaj & Murda Beatz)	6ix9ine	960981	37	10	15	-8
+46	63SevszngYpZOwf63o61K4	Nevermind	Dennis Lloyd	957972	43	29	4	-3
+47	7bTpDFKTd8GiLzrDclmCjh	Ruf mich nicht an	Mert	942264	nan	1	47	new
+48	1ZxBGZ7pxkh0VwFRp6biXk	Ballin	Luciano	891473	41	11	7	-7
+49	2BgEsaKNfHUdlh97KmvFyo	2002	Anne-Marie	881026	47	7	25	-2
+50	78CLZUWhsxIDwObCKOh1fh	Für Euch alle (feat. Samra & Capital Bra)	Bushido	862617	46	12	1	-4
+51	4leY6qRRp1GGnv5gvMMYVr	Cane Cane	Eno	858912	18	2	18	-33
+52	5B7AL4ZcRVNsUzR8WUVxmT	Safe	Nico Santos	826337	48	14	31	-4
+53	194IS9NnPN3clG6v3BakTR	Habibo	Veysel	823006	49	13	6	-4
+54	5Xn4IyTtW6FUGIUyWjbUHG	Goodbye (feat. Nicki Minaj & Willy William)	Jason Derulo	816265	56	5	54	2
+55	4rAN7PfOWxyR9MAeUd7wLy	Nike Pullover	Azet	803294	42	8	14	-13
+56	0s3nnoMeVWz3989MkNQiRf	Lucid Dreams	Juice WRLD	795987	52	11	29	-4
+57	5WvAo7DNuPRmk4APhdPzi8	No Brainer	DJ Khaled	774489	45	9	17	-12
+58	1iBOPEE6fIMsl7GMMcEyCF	Jennie (feat. R. City, Bori)	Felix Jaehn	748326	55	20	25	-3
+59	4zIO3ilp5HvTeK3HJHxhMP	Natural	Imagine Dragons	740955	57	10	57	-2
+60	4kWO6O1BUXcZmaxitpVUwp	Jackie Chan	Tiësto	740774	50	19	20	-10
+61	43aHoeHvYOBBvzZdopsA4e	Penthouse	Eno	735707	58	15	20	-3
+62	7dt6x5M1jzdTEt8oCbisTK	Better Now	Post Malone	732743	59	22	6	-3
+63	4T3fNx3CgwDRRYgmFCbD4J	Better	Khalid	729084	82	2	63	19
+64	0kHyKhJMukHEPfeh8s7rdM	Born To Be Yours	Kygo	720960	60	15	27	-4
+65	3ee8Jmje8o58CHK66QrVC2	SAD!	XXXTENTACION	688342	71	28	7	6
+66	0w7Yk16SqMY7BioZktmcYm	GIGI (ZKITTLEZ)	Gringo	682552	53	8	4	-13
+67	4kAIdBQEmb1M9ryd9tNSCD	Kennzeichen B-TK	Capital Bra	667668	70	14	4	3
+68	55GiOwtxNajXVbpjjIzMnD	SWISH	Tyga	667480	65	9	54	-3
+69	5a8RPWgKSmcGBGcffmIrUi	Thunderclouds	Sia	664584	67	7	67	-2
+70	7ef4DlsgrMEH11cDZd32M6	One Kiss (with Dua Lipa)	Calvin Harris	656214	62	25	2	-8
+71	1fyvQWmRbW81M0xXKI1Rrk	Toto (feat. RAF Camora)	Noizy	655682	63	15	16	-8
+72	3LMQL9CSxvUP2m8FeFszP6	Wann dann	Capital Bra	642375	68	14	13	-4
+73	2eRq2jwsZtb0uGH4qUsvT1	Tamam Tamam	Summer Cem	639552	73	9	35	0
+74	2hIY4sjfMeKwXXh2LvhrMo	Was du Liebe nennst	Bausa	638413	83	33	1	9
+75	58q2HKrzhC3ozto2nDdN4z	I Like It	Cardi B	632642	64	25	20	-11
+76	0fRoN30HIQ9pju3O6HLsTz	30 km/h	PA Sports	621792	66	2	66	-10
+77	2xLMifQCjDGFmkHkpNLD9h	SICKO MODE	Travis Scott	621005	72	8	42	-5
+78	3irKuchN2iCEcFQKPGOBNx	10419	Cro	619870	44	3	26	-34
+79	5N4erncE7kuUccm7zEmwzk	Electricity (with Dua Lipa)	Silk City	617094	85	3	79	6
+80	04ZTP5KsCypmtCmQg5tH9R	I'm a Mess	Bebe Rexha	614312	78	12	70	-2
+81	1zl1smQ584EZKCfLVeYWNq	Berlin lebt	Capital Bra	597904	75	14	1	-6
+82	483ykNWhSQXYprueXUMNeo	Cordula Grün	Josh.	594545	114	4	82	32
+83	14kafeLy8vQRvGhA9nQnC8	Sonnenbrille	Loredana	588427	77	15	4	-6
+84	3MhCFPbAnGEboerYtltiPk	Eksi	Mert	583991	51	3	47	-33
+85	654asYGOrY9LZLiQD73O4F	Zu dir	LEA	582976	74	2	74	-11
+86	04MLEeAMuV9IlHEsD8vF6A	No Stylist	French Montana	579889	nan	1	86	new
+87	4VUwkH455At9kENOfzTqmF	Beautiful (feat. Camila Cabello)	Bazzi	562495	87	7	74	0
+88	4keoy2fqgwGnbWlm3ZVZFa	Happy Now	Zedd	557069	76	10	58	-12
+89	4kOlyvj9WiPrI4zpmzKAeA	Change Your Mind	ELI	556255	88	24	13	-1
+90	6WToDfqIH6mO6lDXGyRu54	Marie	AnnenMayKantereit	540275	nan	1	90	new
+91	0e7ipj03S05BNilyu5bRzt	rockstar (feat. 21 Savage)	Post Malone	530183	96	22	20	5
+92	1zOMSnF631rlPHlS4hH9rV	Sex Tape	Katja Krasavice	521434	84	7	15	-8
+93	5xnKRr7fCLm0Gew1TBou7e	40K	Ufo361	519654	80	6	14	-13
+94	6xtcFXSo8H9BZN637BMVKS	Let You Love Me	Rita Ora	505859	nan	1	94	new
+95	0JP9xo3adEtGSdUEISiszL	Moonlight	XXXTENTACION	499806	97	21	23	2
+96	58QhkbaAkLFnn7JwAnAato	Fall	Eminem	497972	61	4	41	-35
+97	1jo3TwNGCXfNdB5uba3ZVv	Killshot	Eminem	495976	nan	1	97	new
+98	7ATATJztoWLcqDAcVVof0C	BEBE	6ix9ine	493981	91	4	81	-7
+99	1mxJFXWfAUl2vfOAk86rPf	Zinedine	XATAR	493596	nan	1	99	new
+100	1ZQhnmtZ2tq1t3TzguTciR	Santorini (feat. Veysel)	Summer Cem	484191	94	9	19	-6
+101	4gnuy9VBU2GGrN60UMB79t	Magisch	Olexesh	483108	102	30	1	1
+102	2qfR91VvO7hRp4IajDT08h	Dip (feat. Nicki Minaj)	Tyga	482594	nan	1	102	new
+103	05Mp2UJulSttxQ4E6hQPH3	Ohne mein Team	Bonez MC	479659	100	91	11	-3
+104	15kQGEy89K8deJcZVFEn0N	This Feeling (feat. Kelsea Ballerini)	The Chainsmokers	476482	nan	1	104	new
+105	2kx7rcukcL50UysnBiWJxf	Paradies	Ufo361	475491	92	6	46	-13
+106	0aHq4pmQth8Ggj5LyFNBn9	Zuhause	Fynn Kliemann	474163	144	11	106	38
+107	08bNPGLD8AhKpnnERrAc6G	FRIENDS	Marshmello	473686	107	33	2	0
+108	5OCJzvD7sykQEKHH7qAC3C	God is a woman	Ariana Grande	464470	90	6	45	-18
+109	7ycWLEP1GsNjVvcjawXz3z	Praise The Lord (Da Shine) (feat. Skepta)	A$AP Rocky	463995	99	18	50	-10
+110	0QIjsbm2fh1cJ45XO9eGqq	Wake Up in the Sky	Gucci Mane	463153	98	2	98	-12
+111	1imtCbjVIxYIkurjkye7Dg	Fame (feat. RAF Camora)	Kontra K	458048	101	8	52	-10
+112	4OafepJy2teCjYJbvFE60J	breathin	Ariana Grande	447788	93	6	43	-19
+113	4hQ6UGyWQIGJmHSo0J88JW	Back To You - From 13 Reasons Why – Season 2 Soundtrack	Selena Gomez	446686	116	12	42	3
+114	2jt2WxXMCD4zjACthkJQVE	The Ringer	Eminem	444683	69	4	16	-45
+115	2qT1uLXPVPzGgFOx4jtEuo	no tears left to cry	Ariana Grande	442046	112	6	66	-3
+116	66BjcDhhwWCcQIBxHMpKXh	Flames	David Guetta	437170	109	2	109	-7
+117	72gemWtPeCOrRnX4PhjNNk	5 Songs in einer Nacht	Capital Bra	433902	110	14	19	-7
+118	6DCZcSspjsKoFjzjrWoCdn	God's Plan	Drake	425505	119	10	63	1
+119	7AwPgamlOy97TfTIXDvb4S	Knöcheltief	Trettmann	424669	124	16	97	5
+120	2iUXsYOEPhVqEBwsqP70rE	Youngblood	5 Seconds of Summer	417144	106	15	31	-14
+121	3nc420PXjTdBV5TN0gCFkS	Ocean (feat. Khalid)	Martin Garrix	415797	115	15	39	-6
+122	7y5chiQbuvviOYUfUmOPqo	Primo	RAF Camora	414474	120	57	3	-2
+123	0LH2h4pwiX1iY3KDuONOb6	Je ne parle pas français - Beatgees Remix	Namika	413157	108	24	11	-15
+124	5JmBRZy6cXuqJntsAjcGhC	Hubba Bubba	Massiv	412623	81	2	81	-43
+125	4ut5G4rgB1ClpMTMfjoIuy	High On Life (feat. Bonn)	Martin Garrix	411774	117	8	104	-8
+126	7AFASza1mXqntmGtbxXprO	changes	XXXTENTACION	409967	127	18	14	1
+127	2U5cq89GCnsR1yixKkC8d5	Barking	Ramz	402230	128	13	52	1
+128	1hLjLWrzO18acdCFcccFWk	We Can Do Better	Matt Simons	392429	135	18	61	7
+129	1LxXvGH86GJqxzipPJFzWY	Bei Nacht	Azzi Memo	392283	nan	1	129	new
+130	5CLGzJsGqhCEECcpnFQA8x	These Days (feat. Jess Glynne, Macklemore & Dan Caplen)	Rudimental	391018	142	36	4	12
+131	2Th7xjHwXwT07el10FcwMk	Flouz	Azzi Memo	387885	nan	1	131	new
+132	4I4E7QZ0ZiNt0pWBk7XyiI	offenes verdeck	KALIM	383415	104	4	97	-28
+133	1rfofaqEpACxVEHIZBJe6W	Havana (feat. Young Thug)	Camila Cabello	381454	150	37	3	17
+134	7m9OqQk4RVRkw9JJdeAw96	Jocelyn Flores	XXXTENTACION	379872	148	27	33	14
+135	3a5qsP4xawpweFRXgzG6VP	Chinchilla (feat. KC Rebell & Capital Bra)	Summer Cem	375651	134	9	53	-1
+136	7qiZfU4dY1lWllzX7mPBI3	Shape of You	Ed Sheeran	374818	133	90	1	-3
+137	4aBYzs8RxZMuqyOanNlf8I	Like I Do	David Guetta	374656	137	2	137	0
+138	2PogneD4c7isUlvNo2k2XM	Supernova	Marteria	374360	113	4	50	-25
+139	0TlLq3lA83rQOYtrqBqSct	Nonstop	Drake	370349	138	10	80	-1
+140	0YammaEkYSeo9vQYZ1OwS6	Say My Name	David Guetta	369196	79	2	79	-61
+141	1eia3gI1BlQpEdwPVTDhW6	Check	Azzi Memo	365471	nan	1	141	new
+142	5FnVTit5CWHIou1GHWVGoO	Fuego	Veysel	364460	125	6	37	-17
+143	0Fpen1PTuEnCmOJtUU9Iud	New Patek	Lil Uzi Vert	362765	nan	1	143	new
+144	337IpkRKsb4oEFnsU84eLX	Alles für mich (feat. Moe Phoenix)	Fard	359388	123	4	109	-21
+145	35Ma4j9sPWhUAJ471naHV3	Zusammen feat. Clueso	Die Fantastischen Vier	358299	136	22	26	-9
+146	4KRmpPRbmQ8s3D1PWtZeIi	Üff Üff	Fard	357070	182	3	146	36
+147	6i7N2P5oPwqJ6tnh6BUIoQ	Alli-Alligatoah	Alligatoah	355675	95	2	95	-52
+148	7wBJfHzpfI3032CSD7CE2m	STARGAZING	Travis Scott	354845	129	8	21	-19
+149	7rsE2eXXUbekAmpHkpiKxM	Ein Problem mit Alkohol	Alligatoah	352854	89	2	89	-60
+150	5SEZFneawUVRkA6AIXWpf8	WACH (OST)	DAT ADAM	348004	nan	1	150	new
+151	1zB4vmk8tFRmM9UULNzbLB	Thunder	Imagine Dragons	346243	170	9	151	19
+152	2SL6oP2YAEQbqsrkOzRGO4	Venom - Music From The Motion Picture	Eminem	344436	176	4	82	24
+153	4e1419QvoC97H0GxYM3zIr	Leiser	LEA	344323	158	2	153	5
+154	3Cw0IAdjDgjyD4AEY4o2ZW	KMN Member	KMN Gang	338859	151	13	8	-3
+155	1uGERQ2DVv7j9WSsWzOHVp	Kontrollieren	RAF Camora	338428	156	57	40	1
+156	0tgVpDi06FyKpA1z0VMD4v	Perfect	Ed Sheeran	335778	194	64	6	38
+157	6h5PAsRni4IRlxWr6uDPTP	More Than You Know	Axwell /\ Ingrosso	335719	199	12	105	42
+158	0pqnGHJpmpxLKifKRmU6WP	Believer	Imagine Dragons	335503	165	10	148	7
+159	6xTU6B6nFwKKTSZ9ySXS80	Remind Me to Forget	Kygo	331672	163	28	15	4
+160	0cDwUAF7yQrOLRcFfJpSc2	"Zero - From the Original Motion Picture ""Ralph Breaks The Internet"""	Imagine Dragons	329676	nan	1	160	new
+161	4FD1sv2CDjz9ktp0bxdZIS	Beinebrechen	Alligatoah	328051	86	2	86	-75
+162	5mkBSuxDpC0m5tudoaIbVR	Senorita	Kay One	326264	197	3	152	35
+163	2374M0fQpWi3dLnB54qaLX	Africa	TOTO	324948	167	11	156	4
+164	75do9XnLzMDDkeDYRY75FV	Avirex	RIN	322830	157	6	114	-7
+165	2SxsI73qXm0rJ89Kp5JnpT	Sick Boy	The Chainsmokers	322592	nan	1	165	new
+166	7d6XJZjnm7iWcKwYL9z5kC	Noticed	Lil Mosey	319267	nan	1	166	new
+167	4h6UIDvGWTYZvu4BLf2GpO	Von Party zu Party	SXTN	319188	178	70	60	11
+168	60a0Rd6pjrkxjPbaKzXjfq	In the End	Linkin Park	317588	191	51	15	23
+169	6wHRm1KR8pzVDPdmR6Qovj	Palmen aus Plastik	Bonez MC	317273	160	86	32	-9
+170	4OIvBxO2bUD2J9L1hD7IpV	Molotov (feat. RAF Camora)	Summer Cem	316983	155	9	24	-15
+171	28FGV3ORH14MYORd7s5dlU	Not Alike (feat. Royce Da 5'9)	Eminem	316271	103	4	51	-68
+172	0JyiveD2YWsxJWAJmlrCNS	Verändert	Ufo361	315127	132	5	71	-40
+173	07ow7Aog78Gb0OnavPf8i9	Wo kann man das kaufen	Alligatoah	312401	118	2	118	-55
+174	1snWlbcbgQpJfknoI30DWG	Darkside	Alan Walker	311809	153	9	140	-21
+175	5mqjWAb4xWdoIr6IZdHpqS	Qa bone	Azet	310929	168	26	23	-7
+176	2RttW7RAu5nOAfq6YFvApB	Happier	Ed Sheeran	309927	183	32	13	7
+177	5KhFaq45chTw8RGfWo8T8J	BILLY	6ix9ine	308969	181	7	177	4
+178	09IStsImFySgyp0pIQdqAc	The Middle	Zedd	308722	200	17	30	22
+179	0mG6upCcUF0Qvq08FnjRDZ	Bros	RIN	308019	173	32	67	-6
+180	1MUL6DO2gVimj2YrVedubd	Creep On Me	GASHI	305607	172	2	172	-8
+181	5qqabIl2vWzo9ApSC317sa	Wonderwall - Remastered	Oasis	304224	186	48	145	5
+182	01q4ydDZhk4xdVb0M7uvgu	Immer wieder (feat. MoTrip)	Rooz	303391	nan	28	15	re-enter
+183	2P91MQbaiQOfbiz9VqhqKQ	I Like Me Better	Lauv	303269	nan	1	183	new
+184	2XTquzYQAdT1Hk78bOUwsv	Greatest	Eminem	302486	111	4	34	-73
+185	3DCPcT6lwFmyWuSmqvj1ke	Mi Corazon	Rooz	302470	146	4	126	-39
+186	4v4ZuW2tjSyyci2BcE5bTp	Olé Olé	Capital Bra	302365	175	52	24	-11
+187	6mw02h3qbWmuq2bJCRjRAe	Millionär	187 Strassenbande	300350	185	63	1	-2
+188	099UF5JVmCFcDaWFNWzrZj	Lamborghini	Noah	297822	nan	1	188	new
+189	7fUWZUNj5qbEuoL6K9947g	Heute mit mir	Nimo	297745	193	68	8	4
+190	281fGyI8q8gdQWtMpXlfdC	Morgen	Fynn Kliemann	296951	nan	9	106	re-enter
+191	4dSoDnmR9opAQ8KxUc9SbC	Mad Love	Sean Paul	296706	nan	11	118	re-enter
+192	6HxFJbQahRd5rWQ752D710	Lambo Diablo GT (feat. Nimo)	Capo	294750	nan	58	18	re-enter
+193	0MCuJk4KeBnweGeMZXc6Br	¿ Warum ?	Gzuz	294148	nan	17	10	re-enter
+194	7w9bgPAmPTtrkt2v16QWvQ	"Lose Yourself - From ""8 Mile"" Soundtrack"	Eminem	293882	nan	33	112	re-enter
+195	6Ey4u2VsUbBz52l2cPvuxa	Maserati	RAF Camora	288774	nan	22	11	re-enter
+196	355kY0VYYf2AUOnUsU56Xq	La Cintura	Alvaro Soler	288179	174	3	142	-22
+197	7IWTIkiWGWNQyYfOLdMrGD	Burn Out (feat. Dewain Whitmore)	Martin Garrix	287346	121	2	121	-76
+198	2JqnpexlO9dmvjUMCaLCLJ	Love Someone	Lukas Graham	285028	nan	1	198	new
+199	3HSFw0MFTq8Jy9cDkmYwfw	Booty (feat. Dopebwoy)	Majoe	282912	154	4	101	-45
+200	625SfHM2FVyyUj3cT8108G	H.O.L.Y.	Alle Farben	280819	nan	24	48	re-enter

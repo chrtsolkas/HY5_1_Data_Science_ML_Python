@@ -1,0 +1,201 @@
+position	song_id	song_name	artist	streams	last_week_position	weeks_on_chart	peak_position	position_status
+1	7qiZfU4dY1lWllzX7mPBI3	Shape of You	Ed Sheeran	159453	1	10	1	0
+2	7pcTLUekZJQnzDOUDuExVJ	打上花火	DAOKO	121122	2	10	1	0
+3	4mxWSdf71VFO52qFeY0fZt	What Lovers Do (feat. SZA)	Maroon 5	111144	5	9	3	2
+4	7EmGUiUaOSGDnUUQUDrOXC	Wolves	Selena Gomez	110180	nan	1	4	new
+5	2ekn2ttSfGqwhhate0LSR0	New Rules	Dua Lipa	101349	6	10	4	1
+6	6q2cJXwzu89N8okT69L7KC	One More Time	TWICE	99885	3	3	3	-3
+7	0ofbQMrRDsUaVKq2mGLEAb	Havana	Camila Cabello	93577	9	10	7	2
+8	6uFsE1JgZ20EXyU0JQZbUR	Look What You Made Me Do	Taylor Swift	92361	4	10	1	-4
+9	2gasr6aemUqZIBBN05EO03	My Boo	Shota Shimizu	90676	7	10	7	-2
+10	7nZmah2llfvLDiUjm0kiyz	Friends (with BloodPop®)	Justin Bieber	89582	8	10	4	-2
+11	2OALaHcDdKkjYEpAr0Qzab	Lonely Together (feat. Rita Ora)	Avicii	85753	12	10	11	1
+12	3m660poUr1chesgkkjQM7P	Sorry Not Sorry	Demi Lovato	84168	11	5	8	-1
+13	32DGGj6KlNuBr6WaqRxpxi	How Long	Charlie Puth	83750	18	4	13	5
+14	5CtI0qwDJkDQGwXD1H1cLb	Despacito - Remix	Luis Fonsi	82838	10	10	5	-4
+15	0tgVpDi06FyKpA1z0VMD4v	Perfect	Ed Sheeran	82803	13	10	12	-2
+16	46gSY0U7ZZCmd7EuJuo15N	恋音と雨空	AAA	80967	16	10	13	0
+17	0YAMQSmHk6BSUGTYpaoqTJ	Wherever you are	ONE OK ROCK	78045	17	10	16	0
+18	1j4kHkkpqZRBwE0A4CN4Yv	Dusk Till Dawn - Radio Edit	ZAYN	77978	19	8	18	1
+19	5AEtlRudpgdT5FtNiuly6Y	Let Me Go (with Alesso, Florida Georgia Line & watt)	Hailee Steinfeld	75798	32	7	19	13
+20	40cPkRjw5aLQIOjaqgUVnB	RAIN	SEKAI NO OWARI	75638	15	7	15	-5
+21	4iLqG9SeJSnt0cSPICSjxv	Attention	Charlie Puth	74823	21	10	13	0
+22	6PO8T4qt3FHfauSs98zO9j	Dream	Shota Shimizu	74472	24	10	22	2
+23	5Gd19NupVe5X8bAqxf9Iaz	Gorgeous	Taylor Swift	72366	14	2	14	-9
+24	0mel2N9Ws9r4yLQn5QE21Y	Too Good At Goodbyes - Edit	Sam Smith	71916	26	8	5	2
+25	7wGoVu4Dady5GV0Sv4UIsx	rockstar	Post Malone	71590	22	4	14	-3
+26	0PAyiPTz8gL0udQnSasc5G	TT - Japanese ver.	TWICE	70579	25	10	12	-1
+27	4m8ayeTlVnsYAtR42NhDqZ	WanteD! WanteD!	Mrs. GREEN APPLE	70336	20	10	10	-7
+28	0dA2Mk56wEzDgegdC6R17g	Stay (with Alessia Cara)	Zedd	69966	27	10	21	-1
+29	7vwXjDrZT2mqiFynlEwwgG	さよならの前に	AAA	67654	34	10	29	5
+30	5Bg0HkfaRYRx8A7tMrjT9Z	君が好き	Shota Shimizu	67188	33	10	30	3
+31	7CmWXD3w1xOO53AAO4LRVQ	愛をこめて花束を	Superfly	66915	35	10	31	4
+32	7BKLCZ1jbUBVqRi2FVlTVw	Closer	The Chainsmokers	66388	29	10	24	-3
+33	66KjxbYrSBdnxJcHjnLM7o	ONE	Aimer	65913	48	3	33	15
+34	7vGuf3Y35N4wmASOKLUVVU	Silence	Marshmello	65821	31	10	26	-3
+35	0ve9Tpz8Yw0I4eXhWsy21o	ワタリドリ	[Alexandros]	64087	40	10	35	5
+36	5SE57ljOIUJ1ybL9U6CuBH	DNA	BTS	64064	23	7	3	-13
+37	0Zbbxnx4SGGHoIow4PpISP	Stargazing	Kygo	63929	41	6	37	4
+38	79cuOz3SPQTuFrp8WgftAu	There's Nothing Holdin' Me Back	Shawn Mendes	62826	28	10	15	-10
+39	6IxWbmElUUj7AstEEzIgtl	LIFE	AAA	62667	39	5	37	0
+40	6WbADFqMvR8N5u0BvtsWQE	Without You (feat. Sandro Cavazza)	Avicii	62610	36	10	10	-4
+41	0Qh38w01QRXK6KHIv0e3hb	What About Us	P!nk	61252	37	3	24	-4
+42	5tz69p7tJuGPeMGwNTxYuV	1-800-273-8255	Logic	60311	38	10	27	-4
+43	6RUKPb4LETWmmr3iAEQktW	Something Just Like This	The Chainsmokers	58679	42	10	11	-1
+44	3PEgB3fkiojxms35ntsTgs	More Than You Know	Axwell /\ Ingrosso	57095	43	10	24	-1
+45	4v094LQ9eF10k2O2Te2ngK	Too Much To Ask	Niall Horan	56634	50	2	45	5
+46	0CokSRCu5hZgPxcZBaEzVE	Glorious (feat. Skylar Grey)	Macklemore	56608	45	6	38	-1
+47	5bcTCxgc7xVfSaMV3RuVke	Feels (feat. Pharrell Williams, Katy Perry & Big Sean)	Calvin Harris	56528	44	10	8	-3
+48	1wjzFQodRWrPcQ0AnYnvQ9	I Like Me Better	Lauv	54924	47	10	28	-1
+49	4f3nDjgqXurMryYBSp0TZD	The Beginning	ONE OK ROCK	53922	49	10	49	0
+50	0NiXXAI876aGImAd6rTj8w	Mama	Jonas Blue	52603	30	10	7	-20
+51	6QgjcU0zLnzq5OrUoSZ3OK	Feel It Still	Portugal. The Man	50750	51	8	51	0
+52	7swIKcU4tFRk4iFJpi12Fg	小さな恋のうた	MONGOL800	48037	52	10	52	0
+53	7iXHLtPosbHvglVSJ4rxLq	愛唄	GReeeeN	47415	54	10	53	1
+54	6mrKP2jyIQmM0rw6fQryjr	Let You Down	NF	44491	55	3	54	1
+55	3pzjHKrQSvXGHQ98dx18HI	What Do You Mean?	Justin Bieber	43909	46	10	41	-9
+56	5PF0IW8iHqOcTWAyRqiDzb	Home	Shota Shimizu	42859	60	10	56	4
+57	7ztdl6cnbJgHRdMkKldkts	キセキ	GReeeeN	41870	68	10	57	11
+58	468Jl0mOuztlhQDKMhO8Rq	BIG CITY RODEO	GENERATIONS from EXILE TRIBE	41717	nan	1	58	new
+59	2LwjA3u1bTgnhfbR4MsPxw	Because of You	Shota Shimizu	40567	65	10	59	6
+60	17DfKcV1gBdfMBdzsf4NQx	Kataomoi	miwa	40339	66	10	60	6
+61	1x5sYLZiu9r5E43kMlt9f8	Symphony (feat. Zara Larsson)	Clean Bandit	40121	62	10	34	1
+62	3Xrd2febrBti5pNuRTVmra	SORA	GENERATIONS from EXILE TRIBE	39799	75	10	48	13
+63	4c2W3VKsOFoIg2SFaO6DY5	Your Song	Rita Ora	38348	53	10	16	-10
+64	1nMbZ9OsVNSLEyijI80EST	TT	TWICE	38312	59	10	36	-5
+65	4R7QVSqBN0koJHcOL7PGb5	SIGNAL - Japanese ver.	TWICE	37717	56	10	44	-9
+66	23nQaCPwwIT4AV9jn6kUbg	ステップアップLOVE	DAOKO	37688	133	2	66	67
+67	5Z3GHaZ6ec9bsiI5BenrbY	Young Dumb & Broke	Khalid	37505	63	10	62	-4
+68	0ijT1F143SdGb45SQB3rHk	Milk Tea	Shota Shimizu	36954	72	10	68	4
+69	0q0TDcXNZHj0prJIG4R4Jz	DIAMOND SUNSET	Hiroomi Tosaka	36819	61	3	60	-8
+70	3B54sVLJ402zGa6Xm4YGNe	Unforgettable	French Montana	36715	70	10	18	0
+71	2RobEQGaFJS8tZ0EWnCtld	鱗(うろこ)	Motohiro Hata	36320	64	10	64	-7
+72	4jaaMznp3KPllxbmRdiIbx	Hanataba No Kawari Ni Melody Wo	Shota Shimizu	35750	82	9	72	10
+73	0eEaGQuEZo5sEuJzU5kwkW	Fire	Shota Shimizu	35683	81	10	71	8
+74	0K4Wg6Pwx0cOuJkN8xvuto	MAGIC	AAA	35597	78	10	67	4
+75	69bp2EbF7Q2rqc5N3ylezZ	Sorry	Justin Bieber	35471	79	10	58	4
+76	2rb5MvYT7ZIxbKW5hfcHx8	Mi Gente	J Balvin	35460	67	10	17	-9
+77	0afhq8XCExXpqazXczTSve	Galway Girl	Ed Sheeran	35318	74	10	59	-3
+78	5UnRutJ5phJ9Ti4WnFgEoJ	CHEER UP - Japanese ver.	TWICE	34631	73	10	56	-5
+79	7fwXWKdDNI5IutOMc5OKYw	Mi Gente (feat. Beyoncé)	J Balvin	34544	58	5	44	-21
+80	6g93YtKKHU2H1qIqhLIL0Y	Kataomoi	Aimer	34428	85	9	80	5
+81	1RGmoxDK77rPBGUNQbHKLW	No Way Back	AAA	34375	87	5	75	6
+82	3A7qX2QjDlPnazUsRk5y0M	2U (feat. Justin Bieber)	David Guetta	34363	69	10	6	-13
+83	0tKcYR2II1VCQWT79i5NrW	Thunder	Imagine Dragons	34191	77	10	47	-6
+84	1XT0cpl9g0GuRQJao2nqXd	Kanzen kankaku Dreamer	ONE OK ROCK	34184	84	10	79	0
+85	75ZvA4QfFiZvzhj2xkaWAh	I Fall Apart	Post Malone	33636	83	4	78	-2
+86	3DXncPQOG4VBw3QHh3S817	I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)	DJ Khaled	33610	76	10	7	-10
+87	0KKkJNfGyhkQ5aFogxQAPU	That's What I Like	Bruno Mars	33533	80	10	43	-7
+88	1P3cdB5wydoRlTFRz0bNLO	Take what you want (featuring 5 Seconds of Summer)	ONE OK ROCK	32809	103	8	66	15
+89	1xcly2STvNcbfbUwZWuAL9	Tell Me Why	ReN	32790	90	3	89	1
+90	4clwFLZjrvTtnrMviJnVKh	花	ORANGE RANGE	32770	110	5	90	20
+91	3hB5DgAiMAQ4DzYbsMq1IT	Love Yourself	Justin Bieber	32526	88	10	70	-3
+92	6IghCx6jRj5VHEmXKQH2pR	Re:make	ONE OK ROCK	31993	92	10	92	0
+93	43ZyHQITOjhciSUUNPVRHc	Gucci Gang	Lil Pump	31963	120	4	93	27
+94	7GX5flRQZVHRAGd6B4TmDO	XO Tour Llif3	Lil Uzi Vert	31757	99	10	44	5
+95	4b5oBON2DgamONUxvP4JyQ	Slow & Easy	HIRAIDAI	31725	91	10	73	-4
+96	6RKE835qBUUneyOH1p0fnP	AM11:00	HY	31720	146	3	96	50
+97	1X2Zd5wKGbY1oKzb8dzJRy	Break Free	Ariana Grande	31523	106	10	87	9
+98	21z1GxeHjfD3qkaF5CgCTO	Silhouette	KANA-BOON	31351	109	10	98	11
+99	2771LMNxwf62FTAdpJMQfM	Bodak Yellow	Cardi B	31009	96	10	63	-3
+100	0cqRj7pUJDkTCEsJkx8snD	Shake It Off	Taylor Swift	30825	107	10	86	7
+101	1Zyd6zQnC6XIIzmg3hP7Ot	As If It's Your Last	BLACKPINK	30331	102	9	70	1
+102	3glfyV9FhK872pJcAtOjeI	涙のない世界	AAA	30243	108	10	90	6
+103	2mfUa8bLs2s5N4VaqJZ4lZ	Most Girls	Hailee Steinfeld	30221	101	10	51	-2
+104	68EMU2RD1ECNeOeJ5qAXCV	We Don't Talk Anymore	Charlie Puth	30160	105	10	96	1
+105	3eR23VReFzcdmS7TYCrhCe	It Ain't Me (with Selena Gomez)	Kygo	30147	104	10	64	-1
+106	7bJwvubZZaoGE1AGEfu8Fi	One Last Time	Ariana Grande	30102	100	10	90	-6
+107	4pLwZjInHj3SimIyN9SnOz	Side To Side	Ariana Grande	29785	95	10	77	-12
+108	1pZdegOXTZ2ftINo3oUuRZ	Bedroom Floor	Liam Payne	29514	132	2	108	24
+109	2bnUATKYS3JykGpZjjlbXV	Like OOH-AHH - Japanese ver.	TWICE	29444	124	10	71	15
+110	1KT0xdIjm7t053xByACrrg	美女と野獣	Ariana Grande	29236	121	10	110	11
+111	1louJpMmzEicAn7lzDalPW	No Promises (feat. Demi Lovato)	Cheat Codes	29150	123	10	52	12
+112	6b8Be6ljOzmkOmFslEb23P	24K Magic	Bruno Mars	29132	119	10	88	7
+113	2Dovl1obNCp8nJoTT6oJOF	おいしい季節	Sheena Ringo	28954	94	4	94	-19
+114	494OU6M7NOf4ICYb4zWCf5	Sugar	Maroon 5	28880	116	10	92	2
+115	3a1lNhkSLSkpJE4MSHpDu9	Congratulations	Post Malone	28782	115	10	91	0
+116	7KXjTSCq5nL1LoYtL7XAwS	HUMBLE.	Kendrick Lamar	28700	112	10	67	-4
+117	2xmrfQpmS2iJExTlklLoAL	I Miss You (feat. Julia Michaels)	Clean Bandit	28389	nan	1	117	new
+118	1qAPA8TooLVEqAZ58fhcrt	BOOMBAYAH - KR Ver.	BLACKPINK	28381	111	10	74	-7
+119	0albLGvYx6ftOUJ7KF0i5I	STAY TUNE	Suchmos	28290	113	10	84	-6
+120	3NdDpSvN911VPGivFlV5d0	"I Don’t Wanna Live Forever (Fifty Shades Darker) - From ""Fifty Shades Darker (Original Motion Picture Soundtrack)"""	ZAYN	28250	125	10	76	5
+121	2fQrGHiQOvpL9UgPvtYy6G	Bank Account	21 Savage	27757	122	6	91	1
+122	6EpRaXYhGOB3fj4V2uDkMJ	Strip That Down	Liam Payne	27745	57	10	26	-65
+123	72jbDTw1piOOj770jWNeaG	Paris	The Chainsmokers	27647	117	10	94	-6
+124	6fopHFCIoCVcZtMq6QqrFX	普通の今夜のことを ― let tonight be forever remembered ―	DREAMS COME TRUE	27437	114	3	114	-10
+125	0Wv5wuenRLI3BcwgT3HPIP	A Different Way (with Lauv)	DJ Snake	27350	118	6	112	-7
+126	6IcrwGdIvRsrImOnoYfG9Z	See You Again (feat. Charlie Puth)	Wiz Khalifa	27293	134	10	125	8
+127	4tCtwWceOPWzenK2HAIJSb	Work from Home (feat. Ty Dolla $ign)	Fifth Harmony	26953	127	10	95	0
+128	5nq1uTNIR1cBR72T87viS0	Go Go	BTS	26878	128	7	40	0
+129	19WjVVgXjdKXfLXoaDPwTM	...Ready For It?	Taylor Swift	26827	136	8	6	7
+130	7FyHSAzfTFu88aDOpOIVtH	Story of Our Life	HIRAIDAI	26757	89	10	43	-41
+131	1OAh8uOEOvTDqkKFsKksCi	Wild Thoughts (feat. Rihanna & Bryson Tiller)	DJ Khaled	26681	86	10	15	-45
+132	1Slwb6dOYkBlWal1PGtnNg	Thinking out Loud	Ed Sheeran	26420	129	10	125	-3
+133	4pdPtRcBmOSQDlJ3Fk945m	Let Me Love You	DJ Snake	26099	130	10	112	-3
+134	38yBBH2jacvDxrznF7h08J	Slow Hands	Niall Horan	26043	71	2	71	-63
+135	3awymLmIrvn9lkJeFpmRSf	また逢う日まで	HIRAIDAI	25852	131	10	114	-4
+136	2UxfcZJCphbEkfbZ6nLiDx	Kids in Love	Kygo	25711	93	2	93	-43
+137	1X1BrTxo2C77VnyEkBJm21	LUV ME	TWICE	25256	158	2	137	21
+138	3oEekS4xhmFQ88ieCVTZ7H	Bang Bang	Jessie J	25150	137	10	126	-1
+139	7yHEDfrJNd0zWOfXwydNH0	Into You	Ariana Grande	24965	144	10	120	5
+140	5EXJyRqlfZX7hXwUsbb9YQ	Renaissance	PUNPEE	24942	nan	1	140	new
+141	7JNh1cfm0eXjqFVOzKLyau	Mayores	Becky G	24923	142	4	139	1
+142	3ojTJaonfkL96iIWa47SU3	Questions	Chris Brown	24701	nan	1	142	new
+143	4Eb5cLWxKQUoUQaKUYSRgI	LIKEY	TWICE	24668	nan	1	143	new
+144	6kex4EBAj0WHXDKZMEJaaF	Swalla (feat. Nicki Minaj & Ty Dolla $ign)	Jason Derulo	24627	138	10	38	-6
+145	315z5bDr8oJ0OAxD3jQZmH	ひまわりの約束	Motohiro Hata	24605	161	9	145	16
+146	7fYbFYt7X4FZvuJJC90EX0	Problem	Ariana Grande	24574	145	10	117	-1
+147	6De0lHrwBfPfrhorm9q1Xl	Me Rehúso	Danny Ocean	24471	143	10	113	-4
+148	6PCUP3dWmTjcTtXY02oFdT	Castle on the Hill	Ed Sheeran	23806	148	10	141	0
+149	4AW9Fobw3ENnOFDKwKdq7Q	普通の今夜のことを ー let tonight be forever remembered ー	Daichi Miura	23677	126	5	89	-23
+150	4v6edT4Ogf8qXGphyFfg1u	イト	Creep Hyp	23623	139	10	98	-11
+151	1Eck97uRMlprKOOJN9oO1E	Good Life (with G-Eazy & Kehlani)	G-Eazy	23552	155	10	120	4
+152	2wAf64UF5cK7mlAUfvVPl9	Tda'''Aitakute	EXILE	23522	163	10	152	11
+153	2GJxT761mGTQocouI2oLTe	Jelly Jelly	TWICE	23291	140	10	121	-13
+154	2NgQV5lmGPPTTlrHXeAPJ7	Yasashisade Afureruyouni	Flower	23201	159	10	145	5
+155	5LkQpbBFgoyQm1jGlznT7p	KNOCK KNOCK - Japanese ver.	TWICE	23070	141	10	78	-14
+156	1bHgnjGsRCxlCxD5BobatI	"奏(かなで) - ARENA TOUR '07 ""W-ARENA"""	Sukima Switch	22927	182	3	156	26
+157	1XRgIKC5TPwo7nWGyKqgG0	I Get the Bag (feat. Migos)	Gucci Mane	22893	153	3	153	-4
+158	3KOAjzxIJdreRSzffGLYoa	366nichi (feat. Izumi Nakasone)	Shota Shimizu	22807	184	10	158	26
+159	1vBVxhdaJWb1Eca4yc7K4t	Michi	EXILE	22718	174	8	159	15
+160	5SDVaYU4nfaIV0rNSlWSCa	三日月	ayaka	22704	188	4	160	28
+161	6Flllj0iIJPwXUpxL9KdxC	Choucho Musubi	Aimer	22698	166	5	161	5
+162	6875MeXyCW0wLyT72Eetmo	Starving	Hailee Steinfeld	22693	157	10	124	-5
+163	2SYa5Lx1uoCvyDIW4oee9b	MIC Drop	BTS	22632	149	7	45	-14
+164	7BqBn9nzAq8spo5e7cZ0dJ	Just the Way You Are	Bruno Mars	22609	164	10	149	0
+165	7H46BzLoUnOmeMnpmTlddm	春夏秋冬	Hilcrhyme	22447	185	3	165	20
+166	5RGf8qn1TBWVplLyyKUsuV	Blood Sweat & Tears	BTS	22446	152	9	148	-14
+167	1u8c2t2Cy7UBoG4ArRcF5g	Blank Space	Taylor Swift	22433	154	10	134	-13
+168	20I6sIOMTCkB6w7ryavxtO	Call Me Maybe	Carly Rae Jepsen	22355	167	10	150	-1
+169	3BbfgC1wM6x5TRYgAVZYi0	SIGNAL	TWICE	22348	147	10	119	-22
+170	4kjF1ooqgWABonCJOQee0Y	ITO	EXILE ATSUSHI	22245	189	3	170	19
+171	26b8AQqACTxOEWpEejMPLY	Aitai	Miliyah	22120	183	8	171	12
+172	2GLp1Arz4ZtihdjdL9m80W	愛してるのに、愛せない	AAA	22043	178	10	160	6
+173	7m9OqQk4RVRkw9JJdeAw96	Jocelyn Flores	XXXTENTACION	22037	151	9	70	-22
+174	0GhhU1qpdbKG1AUMKkFGbi	366日	HY	21698	197	2	174	23
+175	3JrxNi0sQ1Lnx8eGonp3Ma	にじいろ	ayaka	21492	198	3	175	23
+176	5knuzwU65gJK7IF5yJsuaW	Rockabye (feat. Sean Paul & Anne-Marie)	Clean Bandit	21476	172	10	142	-4
+177	2Gl0FzuLxflY6nPifJp5Dr	First Time	Kygo	21461	160	10	111	-17
+178	1CKd1PnqfYx0H12V9MSaIY	Get Low (with Liam Payne)	Zedd	21314	135	10	43	-43
+179	2SmgFAhQkQCQPyBiBxR6Te	Criminal	Natti Natasha	21301	169	2	169	-10
+180	32OlwWuMpZ6b0aN2RZOeMS	Uptown Funk (feat. Bruno Mars)	Mark Ronson	21297	170	10	156	-10
+181	1dB06EmjB6NyftV1pxq6Qk	BOOMBAYAH	BLACKPINK	21232	171	10	93	-10
+182	3FiE2d325mIOc4YjkSLVJR	Everyday	Ariana Grande	21225	nan	8	150	re-enter
+183	1m69ELEgE6k5ZWsap40ozt	Se Preparó	Ozuna	21072	173	4	163	-10
+184	2tdq0CeAGSfhI2l4Gwkvgx	Best Of Me	BTS	21010	165	7	41	-19
+185	3rQjCycDV0Ibadg6A1Nq45	KNOCK KNOCK	TWICE	21004	196	6	133	11
+186	60QO7SvW5aaFgMLvltlr6E	Overflows~言葉にできなくて~	Naoto	20970	176	5	176	-10
+187	3A0VFRUxhqpJeOxo0rklqC	友よ 〜 この先もずっと・・・	Ketsumeishi	20898	nan	1	187	new
+188	1NDxZ7cFAo481dtYWdrUnR	Pretty Girl - Cheat Codes X CADE Remix	Maggie Lindemann	20830	187	10	29	-1
+189	7ozAc74JyFBZaneEwQO1DH	Song for…	HY	20762	nan	1	189	new
+190	6FZGeOJzBQ6KI8lyqaztae	ふたりごと - 一生に一度のワープVer.	RADWIMPS	20730	192	10	175	2
+191	0eio2xxlLcgMCSMPgJseeI	R.Y.U.S.E.I.	J Soul Brothers III from EXILE TRIBE	20723	186	3	176	-5
+192	4QL5DKkPZwBXkph4fW2Y0Z	We are	ONE OK ROCK	20708	150	8	93	-42
+193	5A4QP4EpcPxD5CapYSJfeV	Dirty Work	Austin Mahone	20669	180	10	139	-13
+194	20H2Hd5AkUcRjB4yL3UQtJ	Down	Fifth Harmony	20601	181	10	45	-13
+195	7FJP35tUJ2121EJsFpU1Gh	Beautiful Now	Zedd	20583	194	10	161	-1
+196	6YtmVjtDWDbac5tcto0BAn	Sobakasu	JUDY AND MARY	20568	nan	1	196	new
+197	2YtGffDs1z9VOZRLW1Iv5J	いいんですか?	RADWIMPS	20380	nan	1	197	new
+198	5A4xCfm0MybwPbAdVqoJe2	Beautiful	HIRAIDAI	20367	191	10	104	-7
+199	0rduVGD3WmGciFFb6sUScg	オレンジ	GReeeeN	20322	nan	8	145	re-enter
+200	4pLwn8PSL0aW11gTO9LTJ8	NAO	HY	20265	nan	1	200	new

@@ -1,0 +1,201 @@
+position	song_id	song_name	artist	streams	last_week_position	weeks_on_chart	peak_position	position_status
+1	4VginDwYTP2eaHJzO0QMjG	Circles	Post Malone	14783964	nan	1	1	new
+2	6EOKwHETwSkZ9gW2b6ASE0	Ransom	Lil Tecca	11219214	nan	1	2	new
+3	5qmq61DAAOUaW8AUo8xKhh	Truth Hurts	Lizzo	8746725	6	18	3	3
+4	6v3KW9xbzN5yKLt9YKDYA2	Señorita	Shawn Mendes	8002090	7	6	2	3
+5	6vBdBCoOhKHiYDDOcorfNo	Goodbyes (Feat. Young Thug)	Post Malone	7491630	10	9	1	5
+6	1dGr1c8CrMLDpV6mPbImSI	Lover	Taylor Swift	7190759	1	2	1	-5
+7	6XHVuErjQ4XNm6nDPVCxVX	No Guidance (feat. Drake)	Chris Brown	6736344	14	10	6	7
+8	5ry2OE6R2zPQFDO85XkgRb	Money In The Grave (Drake ft. Rick Ross)	Drake	6601949	12	12	1	4
+9	3s4mrPrEFFPF0LmAfutW0n	The London (feat. J. Cole & Travis Scott)	Young Thug	5706264	19	3	8	10
+10	3KkXRkHbMCARz0aVfEt68P	Sunflower - Spider-Man: Into the Spider-Verse	Post Malone	5651824	24	36	1	14
+11	6fTt0CH2t0mdeB2N9XFG5r	Panini	Lil Nas X	5573927	21	11	2	10
+12	3RauEVgRgj1IuWdJ9fDs70	The Man	Taylor Swift	5522754	3	2	3	-9
+13	7qEHsqek33rTcFNT9PFqLf	Someone You Loved	Lewis Capaldi	5325279	28	16	13	15
+14	2Fxmhks0bxGSBdJ92vM42m	bad guy	Billie Eilish	5252668	20	23	1	6
+15	0Ryd8975WihbObpp5cPW1t	boyfriend (with Social House)	Ariana Grande	5250757	22	5	2	7
+16	2gwkD6igEhQbDQegRCcdoB	Suge	DaBaby	5113585	27	23	4	11
+17	6RRNNciQGZEXnqk8SQ9yv5	You Need To Calm Down	Taylor Swift	5078864	8	2	8	-9
+18	70eFcWOvlMObDhURTqT4Fv	Beautiful People (feat. Khalid)	Ed Sheeran	5006433	31	8	6	13
+19	51Fjme0JiitpyXKuyQiCDo	Lalala	Y2K	4809704	32	10	12	13
+20	5MPPttjfGap2C6j6eKcO6J	Baby (Lil Baby feat. DaBaby)	Quality Control	4790503	33	3	14	13
+21	6alCTRgBPoeAFi2N4il9Q4	Did It Again	Lil Tecca	4761483	nan	1	21	new
+22	3Yh9lZcWyKrK9GjbhuS0hR	Good as Hell	Lizzo	4723170	37	3	22	15
+23	1BxfuPKGuaTgP7aM0Bbdwr	Cruel Summer	Taylor Swift	4684840	4	2	4	-19
+24	1GeNui6m825V8jP4uKiIaH	Bad Bad Bad (feat. Lil Baby)	Young Thug	4616333	29	3	9	5
+25	6b2RcmUt1g9N9mQ3CbjX2Y	How Do You Sleep?	Sam Smith	4577207	34	7	10	9
+26	643PW82aBMUa1FiWi5VQY7	Babushka Boi	A$AP Rocky	4369100	nan	1	26	new
+27	5Z8HZM6iQMhhqyPcCGY5g9	Hot (feat. Gunna)	Young Thug	4292211	39	3	20	12
+28	43rA71bccXFGD4C8GOpIlN	I Forgot That You Existed	Taylor Swift	4236573	5	2	5	-23
+29	5N1o6d8zGcSZSeMFkOUQOk	Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign)	Megan Thee Stallion	4231286	36	4	8	7
+30	0DZJACISivjWjscIp5Kg1q	Ransom (with Juice WRLD) - Remix	Lil Tecca	4184590	nan	1	30	new
+31	7aiClxsDWFRQ0Kzk5KI5ku	hot girl bummer	blackbear	4164740	55	2	31	24
+32	3TLwAp3uX1nKsVxrDhNPOL	Love Me	Lil Tecca	4022497	nan	1	32	new
+33	44ADyYoY5liaRa3EOAl4uf	Slide Away	Miley Cyrus	3875625	41	3	22	8
+34	6uFn47ACjqYkc0jADwEdj1	Pop Out (feat. Lil Tjay)	Polo G	3825549	40	13	8	6
+35	5xjei7JnROsAzLY2a7RdZU	Shots	Lil Tecca	3810219	nan	1	35	new
+36	67XyC1GdSkKb9sbRRkUDXS	Shotta Flow (Feat. Blueface) [Remix]	NLE Choppa	3682147	42	10	20	6
+37	2YpeDb67231RjR0MgVLzsG	Old Town Road - Remix	Lil Nas X	3653894	44	6	16	7
+38	2zjGJ0dChMR0KxBZS15aqo	Baguettes in the Face (feat. NAV, Playboi Carti & A Boogie Wit da Hoodie)	Mustard	3597392	49	10	34	11
+39	6cjSh516BbrNUs213jDAGm	Graduation (with Juice WRLD)	benny blanco	3568972	nan	1	39	new
+40	0rIAC4PXANcKmitJfoqmVm	Motivation	Normani	3524295	52	3	26	12
+41	3RIgHHpnFKj5Rni1shokDj	Norman fucking Rockwell	Lana Del Rey	3523970	nan	1	41	new
+42	4y5bvROuBDPr5fuwXbIBZR	Paper Rings	Taylor Swift	3496109	9	2	9	-33
+43	6TqXcAFInzjp0bODyvrWEq	Talk (feat. Disclosure)	Khalid	3408318	46	22	6	3
+44	1rgnBhdG2JDFTbYkYRZAku	Dance Monkey	Tones And I	3344777	72	5	44	28
+45	0hVXuCcriWRGvwMV1r5Yn9	I Don't Care (with Justin Bieber)	Ed Sheeran	3341473	50	8	9	5
+46	322tcqPhma7F6hfCeLisx0	fuck, i'm lonely	Lauv	3317802	59	5	31	13
+47	6MWtB6iiXyIwun0YzU6DFP	Wow.	Post Malone	3268419	57	37	2	10
+48	2JvzF1RMd7lE3KmFlsyZD8	MIDDLE CHILD	J. Cole	3268417	51	33	1	3
+49	2ksOAxtIxY8yElEWw8RhgK	China	Anuel AA	3245738	48	7	25	-1
+50	2B9wgj9XzbJZLty03PRbVo	Bezerk (feat. A$AP Ferg)	Big Sean	3223466	nan	1	50	new
+51	2YWtcWi3a83pdEg3Gif4Pd	I Think He Knows	Taylor Swift	3219804	11	2	11	-40
+52	5hVghJ4KaYES3BFUATCYn0	EARFQUAKE	Tyler, The Creator	3112223	53	16	1	1
+53	214nt20w5wOxJnY462klLw	Miss Americana & The Heartbreak Prince	Taylor Swift	3109467	13	2	13	-40
+54	2Rk4JlNc2TPmZe2af99d45	ME! (feat. Brendon Urie of Panic! At The Disco)	Taylor Swift	3107965	23	2	23	-31
+55	2xLMifQCjDGFmkHkpNLD9h	SICKO MODE	Travis Scott	3064003	83	57	1	28
+56	6moU77g9RQyMzHNuKEaQKq	It's You	Ali Gatie	3050381	54	12	17	-2
+57	4sjiIpEv617LDXaidKioOI	223's (feat. 9lokknine)	YNW Melly	3047585	69	3	57	12
+58	4a6q8CR2hzLk2plDkSxkfD	I.F.L.Y.	Bazzi	2939369	58	4	28	0
+59	12M5uqx0ZuwkpLp5rJim1a	Cornelia Street	Taylor Swift	2937435	15	2	15	-44
+60	1LLXZFeAHK9R4xUramtUKw	London Boy	Taylor Swift	2900341	16	2	16	-44
+61	0Oqc0kKFsQ6MhFOLBNZIGX	Doin' Time	Lana Del Rey	2875086	nan	1	61	new
+62	0UPBidRYcgJ2mjZlk08V8x	F.N	Lil Tjay	2874418	73	4	62	11
+63	2dgFqt3w9xIQRjhPtwNk3D	Death By A Thousand Cuts	Taylor Swift	2800266	18	2	18	-45
+64	2IRZnDFmlqMuOrYOLnZZyc	Going Bad (feat. Drake)	Meek Mill	2796009	63	40	2	-1
+65	6wo37KVqFJhtuxPTpLCcfe	Takeaway (feat. Lennon Stella)	The Chainsmokers	2793002	56	6	18	-9
+66	26wLOs3ZuHJa2Ihhx6QIE6	Teeth	5 Seconds of Summer	2776906	86	2	66	20
+67	3pHkh7d0lzM2AldUtz2x37	The Archer	Taylor Swift	2773828	17	2	17	-50
+68	2TH65lNHgvLxCKXM3apjxI	Callaita	Bad Bunny	2770515	60	14	41	-8
+69	1wJRveJZLSb1rjhnUHQiv6	Swervin (feat. 6ix9ine)	A Boogie Wit da Hoodie	2728032	64	37	7	-5
+70	4hPpVbbakQNv8YTHYaOJP4	One Thing Right	Marshmello	2719424	67	11	15	-3
+71	78QR3Wp35dqAhFEc2qAGjE	Drip Too Hard (Lil Baby & Gunna)	Lil Baby	2692014	65	48	1	-6
+72	7MtVPRGtZl6rPjMfLoI3Lh	Fuck it I love you	Lana Del Rey	2675670	nan	1	72	new
+73	3XiNC94b4Tq1xwv70sQJGN	Sanguine Paradise	Lil Uzi Vert	2673964	70	22	6	-3
+74	7rvyVWja33WG9R97oeJAjx	Envy Me	Calboy	2635895	82	14	29	8
+75	285pBltuF7vW8TeWk8hdRR	Lucid Dreams	Juice WRLD	2574415	89	39	11	14
+76	0k664IuFwVP557Gnx7RhIl	Juice	Lizzo	2570188	74	20	71	-2
+77	1kK6DwzyXJSp58u5HYWwuD	Go Loko (feat. Tyga, Jon Z)	YG	2565749	66	15	17	-11
+78	5rU6kDNXZLXIinFezpbWbO	Tap (feat. Meek Mill)	NAV	2534535	62	18	50	-16
+79	22vgEDb5hykfaTwLuskFGD	Sucker	Jonas Brothers	2528518	85	13	10	6
+80	7eBqSVxrzQZtK2mmgRG6lC	Murder On My Mind	YNW Melly	2528026	81	50	4	1
+81	5KBARWIxeMGkvUax9VtVC9	My Type	Saweetie	2497919	61	9	44	-20
+82	6ocbgoVGwYJhOv1GgI9NsF	7 rings	Ariana Grande	2478409	78	30	1	-4
+83	0u2P5u6lvoDfwTYjAADbn4	lovely (with Khalid)	Billie Eilish	2459001	84	50	24	1
+84	43zdsphuZLzwA9k4DJhU0I	when the party's over	Billie Eilish	2458433	76	23	5	-8
+85	3j84U36KvLeXNDPv4t5pI8	Pure Water (with Migos)	Mustard	2454056	87	10	38	2
+86	7dt6x5M1jzdTEt8oCbisTK	Better Now	Post Malone	2443935	101	71	1	15
+87	00ko9WaS4jOX1kEk3gvHjf	Hot Shower	Chance the Rapper	2440672	75	6	10	-12
+88	6PYnUsNEpYC7A4BS2sjw3L	Right Back (feat. A Boogie Wit Da Hoodie)	Khalid	2430313	79	5	68	-9
+89	2rMAtCaTj16NptyVfEIeAC	Cash Shit (feat. DaBaby)	Megan Thee Stallion	2412520	80	10	69	-9
+90	2mdEsXPu8ZmkHRRtAdC09e	Cinnamon Girl	Lana Del Rey	2390965	nan	1	90	new
+91	1SymEzIT3H8UZfibCs3TYi	Afterglow	Taylor Swift	2380962	25	2	25	-66
+92	2bT1PH7Cw3J9p3t7nlXCdh	If I Can't Have You	Shawn Mendes	2354236	88	6	32	-4
+93	0e7ipj03S05BNilyu5bRzt	rockstar (feat. 21 Savage)	Post Malone	2349463	103	71	9	10
+94	6zeeWid2sgw4lap2jV61PZ	Better	Khalid	2348746	91	45	10	-3
+95	7FGq80cy8juXBCD2nrqdWU	Eastside (with Halsey & Khalid)	benny blanco	2303989	98	39	25	3
+96	5dW1VZPcFqB4n0P08rGDgm	The Git Up	Blanco Brown	2267661	90	12	34	-6
+97	2dpaYNEQHiRxtZbfNsse99	Happier	Marshmello	2261821	97	55	8	0
+98	6Hj9jySrnFppAI0sEMCZpJ	Robbery	Juice WRLD	2256947	99	26	3	1
+99	4hanO6Du5J7QEguNHYZHmw	Daddy (feat. Rich The Kid)	Blueface	2254737	96	4	75	-3
+100	5hQSXkFgbxjZo9uCwd11so	False God	Taylor Swift	2250957	26	2	26	-74
+101	0fea68AdmYNygeTGI4RC18	LA CANCIÓN	J Balvin	2244971	93	10	43	-8
+102	0Rx0DJI556Ix5gBny6EWmn	Paradise	Bazzi	2199053	100	4	57	-2
+103	5WnfnSpuNEGXyEt78PBA6d	Costa Rica (with Bas & JID feat. Guapdad 4000, Reese LAFLARE, Jace, Mez, Smokepurpp, Buddy & Ski Mask The Slump God)	Dreamville	2184869	110	9	31	7
+104	2sqsNXfN0HtgDEgaHXiUTa	Won't Be Late (feat. Drake)	Swae Lee	2178499	71	3	34	-33
+105	6osaMSJh9NguagEDQcZaKx	Loco Contigo (feat. J. Balvin & Tyga)	DJ Snake	2148449	102	6	79	-3
+106	3GJ4hzg4lrGwU51Y3VARbF	Speechless	Dan + Shay	2113584	107	57	84	1
+107	0rKtyWc8bvkriBthvHKY8d	SLOW DANCING IN THE DARK	Joji	2103691	105	44	41	-2
+108	2ZGvw7BpnUHG89yt8fNxH7	Out Of Luck	Lil Tecca	2102419	nan	1	108	new
+109	7f1zjZG77S891Uv4O68yfk	Baby Sitter (feat. Offset)	DaBaby	2081035	109	17	61	0
+110	6OG05bPAwUuV3OMvy2Vy1P	Mariners Apartment Complex	Lana Del Rey	2069974	nan	1	110	new
+111	6gBFPUFcJLzWGx4lenP6h2	goosebumps	Travis Scott	2067426	175	140	16	64
+112	3AEgic4yp82NxMWUjHtxnO	Uno	Ambjaay	2066664	106	9	79	-6
+113	03sEzk1VyrUZSgyhoQR0LZ	Pneuma	TOOL	2050370	nan	1	113	new
+114	5tyMJlMqaggzvuX7TtlrTe	Love song	Lana Del Rey	2042621	nan	1	114	new
+115	75ZvA4QfFiZvzhj2xkaWAh	I Fall Apart	Post Malone	2039054	130	103	2	15
+116	6oJ6le65B3SEqPwMRNXWjY	Higher Love	Kygo	2018174	119	10	28	3
+117	3WyRgi8CzQnhzO0xw79tTS	Goin Baby	DaBaby	2008222	127	20	67	10
+118	3ee8Jmje8o58CHK66QrVC2	SAD!	XXXTENTACION	2000544	115	77	1	-3
+119	6qWSHYcZEvE0MIcH2WmB23	Amigo	Lil Tecca	1981189	nan	1	119	new
+120	3Ol2xnObFdKV9pmRD2t9x8	Look Back at It	A Boogie Wit da Hoodie	1968887	116	37	9	-4
+121	0BOmhToQ03yOdpzYKMEnAg	Baby Birkin	Gunna	1967492	131	4	121	10
+122	3hwQhakFwm9soLEBnSDH17	Venice Bitch	Lana Del Rey	1963863	nan	1	122	new
+123	5p7ujcrUXASCNwRaWNHR1C	Without Me	Halsey	1962745	120	48	5	-3
+124	0rFQ5cKYJ9WtHSKp9sxVYt	Heartless (feat. Morgan Wallen)	Diplo	1948574	157	3	81	33
+125	3LxG9HkMMFP0MZuiw3O2rF	Good Things Fall Apart (with Jon Bellion)	ILLENIUM	1944602	121	3	102	-4
+126	3QzAOrNlsabgbMwlZt7TAY	Ballin' (with Roddy Ricch)	Mustard	1940778	137	5	126	11
+127	6foY66mWZN0pSRjZ408c00	Whiskey Glasses	Morgan Wallen	1939147	125	25	66	-2
+128	7BlBVFwvbWvcwNcUarQmjk	Yo x Ti, Tu x Mi	ROSALÍA	1937365	117	3	117	-11
+129	2t8yVaLvJ0RenpXUIAC52d	a lot	21 Savage	1931384	113	37	7	-16
+130	4ak7xjvBeBOcJGWFDX9w5n	Rodeo	Lil Nas X	1927708	95	11	9	-35
+131	3707IBa4HnS3zDDoWfeUBl	I Warned Myself	Charlie Puth	1926752	149	2	131	18
+132	2qMnZF5Ja2WvmfbblByQza	Soltera (Remix)	Lunay	1923551	112	3	99	-20
+133	4R8BJggjosTswLxtkw8V7P	No Me Conoce - Remix	Jhay Cortez	1905587	122	12	119	-11
+134	2rxQMGVafnNaRaXlRMWPde	Beautiful Crazy	Luke Combs	1905365	129	61	61	-5
+135	3e9HZxeyfWwjeyPAMmWSSQ	thank u, next	Ariana Grande	1904194	128	30	7	-7
+136	4AYtqFyFbX0Xkc2wtcygTr	Soon You’ll Get Better (feat. Dixie Chicks)	Taylor Swift	1897910	30	2	30	-106
+137	1fzAuUVbzlhZ1lJAx9PtY6	Daylight	Taylor Swift	1895750	35	2	35	-102
+138	6kls8cSlUyHW2BUOkDJIZE	Hate Me (with Juice WRLD)	Ellie Goulding	1882935	92	10	51	-46
+139	4SSnFejRGlZikf02HLewEF	bury a friend	Billie Eilish	1873362	118	23	4	-21
+140	3npzogdOEiVsieXmmhBepL	The Bones	Maren Morris	1866127	126	17	60	-14
+141	0DiDStADDVh3SvAsoJAFMk	Only Human	Jonas Brothers	1852417	139	13	12	-2
+142	2xKDKtJBLDPd7BF3VmSQQO	Invincible	TOOL	1850396	nan	1	142	new
+143	1FUVCa49nKsPRuznGVrIFY	Bossanova	Lil Tecca	1843311	nan	1	143	new
+144	4bTZeO72FwMa6wKOiqoynL	Otro Trago - Remix	Sech	1838250	124	6	84	-20
+145	36orMWv2PgvnzXsd5CJ0yL	Post Malone (feat. RANI)	Sam Feldt	1831059	135	3	135	-10
+146	3swc6WTsr7rl9DqQKQA55C	Psycho (feat. Ty Dolla $ign)	Post Malone	1826265	164	71	2	18
+147	6ERZ30cRjVWGtVLhczX9aL	The greatest	Lana Del Rey	1821447	nan	1	147	new
+148	7m9OqQk4RVRkw9JJdeAw96	Jocelyn Flores	XXXTENTACION	1813584	136	106	3	-12
+149	4qUtC2BwFC154Ha8YQRrkk	How to disappear	Lana Del Rey	1798859	nan	1	149	new
+150	39zWYYZStDgWi32sOU9AX4	Fear Inoculum	TOOL	1796790	nan	1	150	new
+151	6xcJyGpfZbuuiequtnlKt4	BUTTERFLY EFFECT	Travis Scott	1789427	nan	27	26	re-enter
+152	3a1lNhkSLSkpJE4MSHpDu9	Congratulations	Post Malone	1788657	172	140	5	20
+153	3A2yGHWIzmGEIolwonU69h	Act Up	City Girls	1787692	134	22	66	-19
+154	6Qs4SXO9dwPj5GKvVOv8Ki	Dancing With A Stranger (with Normani)	Sam Smith	1786954	132	34	12	-22
+155	1gZFRYcPz3wKevEaNYRwfW	Time - Edit	NF	1776685	108	6	47	-47
+156	0FZ4Dmg8jJJAPJnvBIzD9z	ZEZE (feat. Travis Scott & Offset)	Kodak Black	1768125	138	38	4	-18
+157	7oTE1KmtU2ml9zBhv9Reao	California	Lana Del Rey	1767503	nan	1	157	new
+158	7nfmK6oHPDlAd68A11d7AN	Beer Never Broke My Heart	Luke Combs	1763710	140	9	85	-18
+159	4VXIryQMWpIdGgYR4TrjT1	All Girls Are The Same	Juice WRLD	1758064	145	39	66	-14
+160	1SmiQ65iSAbPto6gPFlBYm	It’s Nice To Have A Friend	Taylor Swift	1755521	38	2	38	-122
+161	0HJvoOkpflwYJb21VkTmGD	Left, Right	Lil Tecca	1752408	nan	1	161	new
+162	0JP9xo3adEtGSdUEISiszL	Moonlight	XXXTENTACION	1745177	143	77	3	-19
+163	2JdIqJBbIiwEah4ejqIWGj	Big Rocks (Offset feat. Young Thug)	Quality Control	1742208	114	3	90	-49
+164	4kV4N9D1iKVxx1KLvtTpjS	break up with your girlfriend, i'm bored	Ariana Grande	1738653	155	30	1	-9
+165	1ThmUihH9dF8EV08ku5AXN	Faucet Failure	Ski Mask The Slump God	1733337	142	39	27	-23
+166	2iUXsYOEPhVqEBwsqP70rE	Youngblood	5 Seconds of Summer	1728702	167	64	17	1
+167	7zLYKWcXnYeHHWidalz7rj	Noticed	Lil Mosey	1722385	153	10	153	-14
+168	6U0FIYXCQ3TGrk4tFpLrEA	SUGAR	BROCKHAMPTON	1719827	77	2	77	-91
+169	1rqqCSm0Qe4I9rUvWncaom	High Hopes	Panic! At The Disco	1714121	146	63	13	-23
+170	5kfNriitmkNE8mUbZ7gbq8	Saturday Nights	Khalid	1712979	152	45	14	-18
+171	7lAK3oHbfEnvUQWosrMMpR	YOSEMITE	Travis Scott	1703422	nan	43	7	re-enter
+172	4XiGKQqbmnMVxDzUj6j3f2	Worth It	YK Osiris	1702109	144	27	71	-28
+173	4u7EnebtmKWzUH433cf5Qv	Bohemian Rhapsody - 2011 Mix	Queen	1699219	148	24	76	-25
+174	6vN77lE9LK6HP2DewaN6HZ	Yes Indeed	Lil Baby	1683541	160	68	2	-14
+175	5PYQUBXc7NYeI1obMKSJK0	Never Really Over	Katy Perry	1680523	111	14	10	-64
+176	42fw0rxRO2xbesF6mJfd4Y	Tequila	Dan + Shay	1673460	176	61	60	0
+177	7GX5flRQZVHRAGd6B4TmDO	XO Tour Llif3	Lil Uzi Vert	1672192	169	106	2	-8
+178	2VxeLyX666F8uXCJ0dZF8B	Shallow	Lady Gaga	1652710	147	48	10	-31
+179	6CcJMwBtXByIz4zQLzFkKc	i love you	Billie Eilish	1647895	150	23	17	-29
+180	1SNiXDwSilLujcYdvfqVpT	Call You Mine	The Chainsmokers	1643973	178	3	149	-2
+181	6nBQFAIVFmAx2oZ8p6lUg6	Tempo (feat. Missy Elliott)	Lizzo	1640013	168	3	168	-13
+182	4e4fqjx0Izh4svvTef1z7e	Meant to Be (feat. Florida Georgia Line)	Bebe Rexha	1639101	182	63	44	0
+183	3lG6OtGDsYAOALxEmubQQm	Happiness is a butterfly	Lana Del Rey	1638751	nan	1	183	new
+184	14mHfNsSHN0FbLftyjrV9g	Leave Me Alone	Flipp Dinero	1636561	177	53	10	-7
+185	1DhRbox3xkceP64k3JeYfW	Antisocial (with Travis Scott)	Ed Sheeran	1635661	154	8	7	-31
+186	4ZT9FnbFu1PaBfV3itxiqT	I	Lil Skies	1632823	165	27	16	-21
+187	58q2HKrzhC3ozto2nDdN4z	I Like It	Cardi B	1628258	162	74	3	-25
+188	0TlLq3lA83rQOYtrqBqSct	Nonstop	Drake	1628173	151	59	5	-37
+189	0gGfmw4csswZmFPj9YK8GW	7empest	TOOL	1625315	nan	1	189	new
+190	2P91MQbaiQOfbiz9VqhqKQ	I Like Me Better	Lauv	1622980	nan	64	79	re-enter
+191	2uIX8YMNjGMD7441kqyyNU	ocean eyes	Billie Eilish	1619819	158	53	78	-33
+192	3Fj47GNK2kUF0uaEDgXLaD	wish you were gay	Billie Eilish	1596572	161	23	3	-31
+193	25ZAibhr3bdlMCLmubZDVt	QUE PRETENDES	J Balvin	1594396	173	10	27	-20
+194	7AQim7LbvFVZJE3O8TYgf2	Fuck Love (feat. Trippie Redd)	XXXTENTACION	1575251	185	106	8	-9
+195	2toVe5hfuIi97ytDPDbQFt	Taste (feat. Offset)	Tyga	1567961	179	13	87	-16
+196	1xzBco0xcoJEDXktl7Jxrr	Mo Bamba	Sheck Wes	1564136	197	48	1	1
+197	1ITsmuChPVC05ogvorAyVu	Boys	Lizzo	1547913	nan	1	197	new
+198	1dyxS3YzBbL0t8rEVwVQ1K	God's Country	Blake Shelton	1546810	133	18	69	-65
+199	6DCZcSspjsKoFjzjrWoCdn	God's Plan	Drake	1544644	200	59	16	1
+200	18uwL0vNUanqZH0ro2QcOP	comethru	Jeremy Zucker	1543824	188	8	163	-12

@@ -1,0 +1,201 @@
+position	song_id	song_name	artist	streams	last_week_position	weeks_on_chart	peak_position	position_status
+1	5CtI0qwDJkDQGwXD1H1cLb	Despacito - Remix	Luis Fonsi	5196357	1	10	1	0
+2	1OAh8uOEOvTDqkKFsKksCi	Wild Thoughts (feat. Rihanna & Bryson Tiller)	DJ Khaled	3586389	nan	1	2	new
+3	1F2HXIJrE2Xn81OzT2zZvW	Unforgettable	French Montana	3514702	2	11	2	-1
+4	1jYiIOC5d6soxkJP81fxq2	I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)	DJ Khaled	3252293	nan	1	4	new
+5	4xlrALxuaCf9yZBHJeTSG6	Mama	Jonas Blue	3201418	5	7	5	0
+6	6EpRaXYhGOB3fj4V2uDkMJ	Strip That Down	Liam Payne	3072907	4	5	4	-2
+7	3A7qX2QjDlPnazUsRk5y0M	2U (feat. Justin Bieber)	David Guetta	2724667	7	2	7	0
+8	4iLqG9SeJSnt0cSPICSjxv	Attention	Charlie Puth	2478927	6	9	6	-2
+9	1NDxZ7cFAo481dtYWdrUnR	Pretty Girl - Cheat Codes X CADE Remix	Maggie Lindemann	2409650	10	11	9	1
+10	79cuOz3SPQTuFrp8WgftAu	There's Nothing Holdin' Me Back	Shawn Mendes	2304338	8	9	3	-2
+11	1x5sYLZiu9r5E43kMlt9f8	Symphony (feat. Zara Larsson)	Clean Bandit	2188841	11	14	1	0
+12	6kex4EBAj0WHXDKZMEJaaF	Swalla (feat. Nicki Minaj & Ty Dolla $ign)	Jason Derulo	2099492	12	17	5	0
+13	6DXEZzM4wBa3EOl0NCNSvz	Did You See	J Hus	2050298	14	16	7	1
+14	167NczpNbRF7oWakJaY3Hh	Slow Hands	Niall Horan	2049001	13	7	13	-1
+15	7bJwvubZZaoGE1AGEfu8Fi	One Last Time	Ariana Grande	1985074	9	5	9	-6
+16	4c2W3VKsOFoIg2SFaO6DY5	Your Song	Rita Ora	1950372	16	4	16	0
+17	7qiZfU4dY1lWllzX7mPBI3	Shape of You	Ed Sheeran	1833581	15	24	1	-2
+18	4BJ5T8ZZZ3UrPG7k0OVQrp	Power (feat. Stormzy)	Little Mix	1828464	21	4	18	3
+19	1SJtlNRJDeYHioymcvsqev	Crying in the Club	Camila Cabello	1665628	23	5	19	4
+20	2habSXqcJGExM6JJyskY7O	Malibu	Miley Cyrus	1650391	17	6	15	-3
+21	6BaCraQ9xeLYg4Sb9TBT2X	Feels (feat. Pharrell Williams, Katy Perry & Big Sean)	Calvin Harris	1542147	nan	1	21	new
+22	5Xc74Dn1ZKH6H8XaVGOHXG	On My Mind	Disciples	1489244	24	11	22	2
+23	3Ytr1SUCUi6J3L9dRFx5iH	Know No Better (feat. Travis Scott, Camila Cabello & Quavo)	Major Lazer	1474227	30	3	23	7
+24	1louJpMmzEicAn7lzDalPW	No Promises (feat. Demi Lovato)	Cheat Codes	1451791	20	12	13	-4
+25	3kGfazcbVvVkuZunzlLgTD	Came Here for Love	Sigala	1429138	57	2	25	32
+26	6gpcs5eMhJwax4mIfKDYQk	Slide (feat. Frank Ocean & Migos)	Calvin Harris	1411441	29	4	25	3
+27	7KXjTSCq5nL1LoYtL7XAwS	HUMBLE.	Kendrick Lamar	1401274	19	12	5	-8
+28	0KKkJNfGyhkQ5aFogxQAPU	That's What I Like	Bruno Mars	1399388	22	19	10	-6
+29	6O85MfGECKBqAK2MgSbCaj	Places	Martin Solveig	1399134	28	20	27	-1
+30	0tKcYR2II1VCQWT79i5NrW	Thunder	Imagine Dragons	1342367	nan	5	30	re-enter
+31	0afhq8XCExXpqazXczTSve	Galway Girl	Ed Sheeran	1339351	25	16	1	-6
+32	3rOSwuTsUlJp0Pu0MkN8r8	Mask Off	Future	1335538	18	18	11	-14
+33	2eMwDehkIC1j68U6FA3Eiq	XO TOUR Llif3	Lil Uzi Vert	1292397	26	12	26	-7
+34	6jA8HL9i4QGzsj6fjoxp8Y	There for You	Martin Garrix	1260662	48	4	34	14
+35	6RUKPb4LETWmmr3iAEQktW	Something Just Like This	The Chainsmokers	1257587	27	18	3	-8
+36	2Gl0FzuLxflY6nPifJp5Dr	First Time	Kygo	1248018	34	8	26	-2
+37	6HUnnBwYZqcED1eQztxMBN	Solo Dance	Martin Jensen	1205792	36	24	7	-1
+38	1sCxVKWImDZSZKvG0U9B23	Bad Liar	Selena Gomez	1175845	46	5	24	8
+39	7hDc8b7IXETo14hHIHdnhd	Passionfruit	Drake	1166492	35	14	3	-4
+40	0dA2Mk56wEzDgegdC6R17g	Stay (with Alessia Cara)	Zedd	1153935	33	17	6	-7
+41	3kxfsdsCpFgN412fpnW85Y	Redbone	Childish Gambino	1137496	37	25	37	-4
+42	2mfUa8bLs2s5N4VaqJZ4lZ	Most Girls	Hailee Steinfeld	1133199	41	7	38	-1
+43	3eR23VReFzcdmS7TYCrhCe	It Ain't Me (with Selena Gomez)	Kygo	1122664	32	18	6	-11
+44	2kVHAQKVtczchKctctzbtK	Swish Swish	Katy Perry	1060345	40	3	40	-4
+45	6PCUP3dWmTjcTtXY02oFdT	Castle on the Hill	Ed Sheeran	1059471	38	24	2	-7
+46	3a1lNhkSLSkpJE4MSHpDu9	Congratulations	Post Malone	1040076	42	19	42	-4
+47	3Db8OhBMmNPLv2rHYoP7Wf	P.Y.T. (Pretty Young Thing)	John Gibbons	963011	56	7	47	9
+48	0UvCh63URrLFcPkKt99hHd	Don't Look Back in Anger - Remastered	Oasis	889636	44	4	44	-4
+49	2pJZ1v8HezrAoZ0Fhzby92	What Do I Know?	Ed Sheeran	887374	53	16	7	4
+50	7LEydI5NfjY6mZfKwYIptZ	Down	Fifth Harmony	845304	55	3	50	5
+51	5Ohxk2dO5COHF1krpoPigN	Sign of the Times	Harry Styles	820987	45	11	8	-6
+52	2EEeOnHehOozLq4aS0n6SL	iSpy (feat. Lil Yachty)	KYLE	735991	49	19	31	-3
+53	0gbBzIqrECJOEPvQJIBFs5	Green Light	Lorde	722864	60	14	24	7
+54	7M16mAuWuFA5rC9HvkXaGx	You Don't Know Me	Jax Jones	675060	59	3	52	5
+55	3EfugazgSddQvzZpkof5I4	Ciao Adios	Anne-Marie	670431	50	19	15	-5
+56	4aWmUDTfIPGksMNLV2rQP2	Despacito (Featuring Daddy Yankee)	Luis Fonsi	666163	63	21	42	7
+57	000xQL6tZNLJzIrtIgxqSl	Still Got Time	ZAYN	633881	43	13	23	-14
+58	6fTsxhIosAU6zXTAhSaemI	Chasing Highs	ALMA	627190	79	9	58	21
+59	3eqhMltljpvMkVNUbAHyQI	Wall Of Glass	Liam Gallagher	626319	52	3	50	-7
+60	51PIvodunv6NmX5250zxAh	The Cure	Lady Gaga	618268	39	10	27	-21
+61	6y2Kaz9QI01XBKJ8mTb7Pf	Skin	Rag'n'Bone Man	613965	62	21	24	1
+62	0Nhu3zSYbEz32IYiobV75e	Now Or Never	Halsey	613877	nan	8	58	re-enter
+63	5ZnJsoJGkQ5K15W7Rcr5JO	No More Sad Songs	Little Mix	609797	47	16	25	-16
+64	1sXUWdKx03aP9Gmzft58rt	Issues	Julia Michaels	598676	58	22	14	-6
+65	0tgVpDi06FyKpA1z0VMD4v	Perfect	Ed Sheeran	596293	64	16	5	-1
+66	5tz69p7tJuGPeMGwNTxYuV	1-800-273-8255	Logic	590484	66	7	54	0
+67	04YFRczeeieYRlsrPJ8hjh	Real Life	Duke Dumont	580220	153	3	67	86
+68	1xznGGDReH1oQq0xzbwXa3	One Dance	Drake	573094	69	25	15	1
+69	2JCxYaz4o7pSXrT1ZMBWOZ	Best Behaviour	Louisa	558864	76	15	62	7
+70	3FDrI0FLKzrYQiWxPhqV2W	Rollin (feat. Future & Khalid)	Calvin Harris	554311	65	4	43	-5
+71	5Gz1PxujU62sfecQpB0Stm	Unpredictable	Olly Murs	548903	113	2	71	42
+72	7oK9VyNzrYvRFo7nQEYkWN	Mr. Brightside	The Killers	547064	75	25	51	3
+73	4q8PHoRsPUB52LFylX8Ulz	More Than You Know	Axwell /\ Ingrosso	546288	nan	1	73	new
+74	5knuzwU65gJK7IF5yJsuaW	Rockabye (feat. Sean Paul & Anne-Marie)	Clean Bandit	537302	77	25	1	3
+75	3uMB82o0qa7erhiZBW9KQC	Big For Your Boots	Stormzy	536110	72	20	2	-3
+76	3ebXMykcMXOcLeJ9xZ17XH	Scared to Be Lonely	Martin Garrix	529091	51	21	11	-25
+77	0CcQNd8CINkwQfe1RDtGV6	Believer	Imagine Dragons	527946	nan	17	37	re-enter
+78	08QmhAybC6VHeG8gah84qA	Call Me	NEIKED	527065	84	3	78	6
+79	61AaiTZFfwruCncZ7m7CIg	Addison Lee (Peng Ting Called Maddison)	Not3s	518303	110	22	79	31
+80	0XfOi87h82i09rQjWYG0Bm	Instruction (feat. Demi Lovato & Stefflon Don)	Jax Jones	518128	nan	1	80	new
+81	6HZILIRieu8S0iqY8kIKhj	DNA.	Kendrick Lamar	502269	70	10	10	-11
+82	5Ua3GXyHwiSfpNTMjq6m2z	Touch	Little Mix	501367	74	25	3	-8
+83	5GG3knKdxKWrNboRijxeKF	Run Me Dry	Bryson Tiller	500115	85	4	83	2
+84	58zsLZPvfflaiIbNWoA22O	Human	Rag'n'Bone Man	498925	78	25	5	-6
+85	1xX9Po48ORssfN8MXeBLj9	Up In Here	5 After Midnight	498280	151	3	85	66
+86	2RttW7RAu5nOAfq6YFvApB	Happier	Ed Sheeran	486044	73	16	5	-13
+87	7rfiXyFb5M9BqdkvKvVEiB	My Love (feat. Major Lazer, WizKid, Dua Lipa)	Wale	468937	157	2	87	70
+88	5qqabIl2vWzo9ApSC317sa	Wonderwall - Remastered	Oasis	466490	81	25	61	-7
+89	5uCax9HTNlzGybIStD3vDh	Say You Won't Let Go	James Arthur	463890	83	25	5	-6
+90	78rIJddV4X0HkNAInEcYde	Call On Me - Ryan Riback Extended Remix	Starley	462904	91	25	6	1
+91	61WbtB6ujkpNAsAf5LjF4b	Bon appétit	Katy Perry	456411	68	6	47	-23
+92	7BKLCZ1jbUBVqRi2FVlTVw	Closer	The Chainsmokers	454045	95	25	9	3
+93	2XlHu0HcujBCkWMdIAvrqt	Blem	Drake	452482	87	14	6	-6
+94	51ChrwmUPDJvedPQnIU8Ls	Dive	Ed Sheeran	439401	88	16	8	-6
+95	72jbDTw1piOOj770jWNeaG	Paris	The Chainsmokers	433066	93	23	4	-2
+96	5HDPtsnyb3maFmPL8LLUTG	New Man	Ed Sheeran	431903	90	16	4	-6
+97	3NdDpSvN911VPGivFlV5d0	"I Don’t Wanna Live Forever (Fifty Shades Darker) - From ""Fifty Shades Darker (Original Motion Picture Soundtrack)"""	ZAYN	423347	82	25	7	-15
+98	6JV2JOEocMgcZxYSZelKcc	"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")"	Justin Timberlake	420736	116	25	38	18
+99	0RIMrAUyLGBF7zAPdvgE73	Fisherman (feat. MoStack & MIST)	J Hus	419609	96	6	53	-3
+100	152lZdxL1OR0ZMW6KquMif	Location	Khalid	419555	102	15	76	2
+101	0VhgEqMTNZwYL1ARDLLNCX	Can I Be Him	James Arthur	418863	92	7	92	-9
+102	2f9LSU0aBW04w6KL26DW8r	Come Closer	WizKid	417078	71	12	61	-31
+103	3Lfiu5sZ4M4B6JaKMBc0FU	Barcelona	Ed Sheeran	415907	98	16	9	-5
+104	2mNbgyi0gori4b1rFSPgIb	Sober	Lorde	414629	nan	1	104	new
+105	4pLwZjInHj3SimIyN9SnOz	Side To Side	Ariana Grande	414239	86	25	24	-19
+106	7FCfMXYTIiQ9b4hDYs4Iol	Be the One	Dua Lipa	411147	97	21	16	-9
+107	5aAx2yezTd8zXrkmtKl66Z	Starboy	The Weeknd	410486	103	25	2	-4
+108	0w5Bdu51Ka25Pf3hojsKHh	Hard Times	Paramore	410329	67	9	33	-41
+109	0dyiHoYbYjYaOEXLpmzQZG	Supercut	Lorde	400522	nan	1	109	new
+110	7BHPGtpuuWWsvE7cCaMuEU	Naive	The Kooks	399653	105	25	68	-5
+111	0FuTx2s3YH1ppmtiM6l0zI	September Song	JP Cooper	398100	108	25	8	-3
+112	7eGpQgpepXm1MJ80Zhoipv	Don't Matter Now	George Ezra	393717	nan	1	112	new
+113	6gBFPUFcJLzWGx4lenP6h2	goosebumps	Travis Scott	385662	114	9	113	1
+114	1qOLh0tI7trd1zdDKxYZTe	Starving	Hailee Steinfeld	385316	112	25	25	-2
+115	0YHUITU3w6ws1v8ehT264g	Shout Out to My Ex	Little Mix	384455	115	25	16	0
+116	6520aj0B4FSKGVuKNsOCOi	Chained To The Rhythm	Katy Perry	384053	94	17	7	-22
+117	7e8utCy2JlSB8dRHKi49xM	Fluorescent Adolescent	Arctic Monkeys	384028	119	25	82	2
+118	2jTujnt0y344ai1rNOywgr	KMT	Drake	381580	104	14	8	-14
+119	2bjwRfXMk4uRgOD9IBYl9h	Portland	Drake	380604	106	14	17	-13
+120	7ARveOiD31w2Nq0n5FsSf8	Perfect Places	Lorde	374906	nan	1	120	new
+121	4VuS959DSpr82t3qBqCrWG	Supermarket Flowers	Ed Sheeran	373940	101	16	10	-20
+122	4xX7OsX8XTGWJgRxNNIaFT	You Want Me (feat. Sadie Ama)	Tom Zanetti	373682	123	25	22	1
+123	343YBumqHu19cGoGARUTsd	Fake Love	Drake	373291	109	25	17	-14
+124	5dNfHmqgr128gMY2tc5CeJ	Ignition - Remix	R. Kelly	372049	138	25	76	14
+125	638s8Qi75q1pXjuH86fJX7	Bestie	Yungen	370449	nan	1	125	new
+126	1060gzllf4b0UETAXisR5l	Lights Out	Royal Blood	368868	nan	2	126	re-enter
+127	0fg8CqpjdojMyXLNzM2PaJ	Run Up (feat. PARTYNEXTDOOR & Nicki Minaj)	Major Lazer	368446	117	21	17	-10
+128	6DNtNfH8hXkqOX1sjqmI7p	Cold Water (feat. Justin Bieber & MØ)	Major Lazer	366561	120	25	22	-8
+129	12o6dxWGk29uIAP3OWY0pM	Homemade Dynamite	Lorde	361688	nan	1	129	new
+130	6b8Be6ljOzmkOmFslEb23P	24K Magic	Bruno Mars	361622	124	25	14	-6
+131	1yNyoWWWikbLhwIGWjZuDW	All Night	The Vamps	359983	121	25	11	-10
+132	7vFoFDWqTX0mHzLfrF1Cfy	Cheerleader - Felix Jaehn Remix Radio Edit	OMI	359200	193	11	132	61
+133	0or0gNaKAXYYCsOrpvRzAu	Liability	Lorde	353275	nan	2	113	re-enter
+134	5GXAXm5YOmYT0kL5jHvYBt	I Feel It Coming	The Weeknd	350441	122	25	13	-12
+135	2NHSYwGkAvPHzCinY0KwXo	Shape of You - Stormzy Remix	Ed Sheeran	350149	118	17	9	-17
+136	6jrMVRReY24qzCfe1BRrww	What You Know	Two Door Cinema Club	348383	126	25	69	-10
+137	4WjH9Bzt3kx7z8kl0awxh4	Lean On (feat. MØ & DJ Snake)	Major Lazer	348048	164	3	137	27
+138	0tICYNayWWhH9GPeFrfjfD	This Girl (Kungs Vs. Cookin' On 3 Burners)	Kungs	344367	180	23	72	42
+139	0uqPG793dkDDN7sCUJJIVC	Where Is The Love?	Black Eyed Peas	344257	99	3	85	-40
+140	3AsAuGTaDQzavZZThyYlop	Sexual	NEIKED	343734	137	25	6	-3
+141	5q4BpnMrYEFzLO0dYODj6J	The Louvre	Lorde	341044	nan	1	141	new
+142	0tV8pOpiNsKqUys0ilUcXz	Rise Up	Andra Day	338885	nan	1	142	new
+143	1KgfeuVn5OlsBEtoEmBa1t	Live Forever	Oasis	336857	100	3	65	-43
+144	5y9VR6oWTFjtprI6Zia6aB	Bridge Over Troubled Water	Artists for Grenfell	336737	nan	1	144	new
+145	4Q4jmPHwu0wrJvqrld0FQ6	I Would Like	Zara Larsson	331847	129	25	4	-16
+146	4Hf7WnR761jpxPr5D46Bcd	Treat You Better	Shawn Mendes	330411	127	25	40	-19
+147	7yq4Qj7cqayVTp3FF9CWbm	Riptide	Vance Joy	329543	189	8	147	42
+148	0cqRj7pUJDkTCEsJkx8snD	Shake It Off	Taylor Swift	329093	80	2	80	-68
+149	0JpxNq2SYwPt2uSqdcSvyQ	She's So Lovely	Scouting For Girls	328558	144	18	132	-5
+150	7yHEDfrJNd0zWOfXwydNH0	Into You	Ariana Grande	327724	111	22	66	-39
+151	17Fd6Yb7mSbinKG8LoWfFl	I Took A Pill In Ibiza - Seeb Remix	Mike Posner	327164	149	25	60	-2
+152	3cFsmM51N5zMAuu1nNY4Tw	No Lie	Sean Paul	323419	131	25	18	-21
+153	1D3ODoXHBLpdxolZRHWV1j	By Your Side	Jonas Blue	322528	155	25	18	2
+154	69bp2EbF7Q2rqc5N3ylezZ	Sorry	Justin Bieber	322133	143	25	53	-11
+155	3gbBpTdY8lnQwqxNCcf795	Pompeii	Bastille	321946	160	25	97	5
+156	1Slwb6dOYkBlWal1PGtnNg	Thinking out Loud	Ed Sheeran	317673	134	25	48	-22
+157	5hYTyyh2odQKphUbMqc5gN	"How Far I'll Go - From ""Moana"""	Alessia Cara	316201	132	25	30	-25
+158	0QsvXIfqM0zZoerQfsI9lm	Don't Let Me Down	The Chainsmokers	314212	150	25	41	-8
+159	6fxVffaTuwjgEk5h9QyRjy	Photograph	Ed Sheeran	313842	133	25	30	-26
+160	6PJ8FF6UR8FZXfEvpHkIVN	How Would You Feel (Paean)	Ed Sheeran	313808	130	18	6	-30
+161	7GJClzimvMSghjcrKxuf1M	Budapest	George Ezra	310769	nan	1	161	new
+162	1N90cV79gbBgO0bOs74Y0t	Heatstroke	Calvin Harris	309445	nan	3	141	re-enter
+163	5xoUgPXbMNUmoHU0Enwtwq	She Moves In Her Own Way	The Kooks	309415	185	4	163	22
+164	3hB5DgAiMAQ4DzYbsMq1IT	Love Yourself	Justin Bieber	309402	135	25	63	-29
+165	2eAAEa8pxKF7My0EO4rFgR	Blow Your Mind (Mwah)	Dua Lipa	307565	158	7	74	-7
+166	2aFiaMXmWsM3Vj72F9ksBl	Cake By The Ocean	DNCE	306081	166	24	83	0
+167	2Vf2Pflg5rTWSvSCK4qq4A	Privacy	Chris Brown	305799	146	12	104	-21
+168	4YLzVD32aMH4qgSsSPtNbl	Samantha	Dave	304210	139	21	54	-29
+169	35QZaWQRkmnAVqBF1TLCxQ	Nancy Mulligan	Ed Sheeran	302917	142	16	11	-27
+170	6UjfByV1lDLW0SOVQA4NAi	Gyalchester	Drake	301323	140	14	20	-30
+171	4pdPtRcBmOSQDlJ3Fk945m	Let Me Love You	DJ Snake	300570	163	25	23	-8
+172	7nKBxz47S9SD79N086fuhn	SUBEME LA RADIO	Enrique Iglesias	299971	nan	2	169	re-enter
+173	4kbj5MwxO1bq9wjT5g9HaA	Shut Up and Dance	WALK THE MOON	299844	nan	9	132	re-enter
+174	5dQJKDx0x73seZbwSORa1T	Middle Of The Night	The Vamps	299171	nan	5	104	re-enter
+175	4gDyoe1FImDlXVt58ssnMf	All I Can Think About Is You	Coldplay	298571	nan	1	175	new
+176	3ZOEytgrvLwQaqXreDs2Jx	Can't Stop	Red Hot Chili Peppers	298556	179	15	107	3
+177	7pZhSqnQq6dQA5Hc9xxl9I	Aladdin	Not3s	298029	nan	1	177	new
+178	5PmlrsujvBZV4YWlJB4jRk	Baby	Anton Powers	297586	nan	5	166	re-enter
+179	1e1JKLEDKP7hEQzJfNAgPl	Magnolia	Playboi Carti	297409	167	2	167	-12
+180	4BdIxxdtdpxaPk3vXYL47G	Dreams	Alex Ross	297340	nan	5	168	re-enter
+181	5XJJdNPkwmbUwE79gv0NxK	Gold Digger	Kanye West	296577	199	21	166	18
+182	0azC730Exh71aQlOt9Zj3y	This Is What You Came For	Calvin Harris	296552	187	25	42	5
+183	4Km5HrUvYTaSUfiSGPJeQR	Bad and Boujee (feat. Lil Uzi Vert)	Migos	294939	156	25	22	-27
+184	2COVGlcdLKhKVfzv3CKtfW	Screw & Brew	MoStack	294288	125	3	82	-59
+185	1jNOi6m3Hn8nLEeHCp5Msr	Seven Nation Army	The White Stripes	291049	161	25	117	-24
+186	1LbwMX3159t6QxG3u7DRWe	I Only Lie When I Love You	Royal Blood	290238	nan	1	186	new
+187	7w87IxuO7BDcJ3YUqCyMTT	Pumped Up Kicks	Foster The People	288977	186	24	100	-1
+188	1mea3bSkSGXuIRvnydlB5b	Viva La Vida	Coldplay	287196	152	3	144	-36
+189	2RlgNHKcydI9sayD2Df2xp	Mr. Blue Sky	Electric Light Orchestra	286261	195	8	101	6
+190	6SwRhMLwNqEi6alNPVG00n	LOYALTY. FEAT. RIHANNA.	Kendrick Lamar	283667	159	10	20	-31
+191	3caMfJGFp53NAH2TuigdNj	Hunter	Galantis	282657	nan	1	191	new
+192	1vYew137WJ69SFp9oez3xm	Red Red Wine	UB40	281988	nan	1	192	new
+193	0AJhcuRl3i1FfPNr88ZScv	You're in Love with a Psycho	Kasabian	281590	174	9	82	-19
+194	1Dp7JGFNjvg8Nk0CtMCcnr	Hard Feelings/Loveless	Lorde	280783	nan	1	194	new
+195	1CUVN2kn7mW5FjkqXTR2W1	Perfect Strangers	Jonas Blue	280524	192	18	56	-3
+196	6u9RqxALwkjJ1ukB1y8vuP	You've Got The Love	Florence + The Machine	279964	nan	1	196	new
+197	1cG0umU5TKStygKsPFZ9pY	Shed a Light	Robin Schulz	279766	nan	21	26	re-enter
+198	6C7RJEIUDqKkJRZVWdkfkH	Stronger	Kanye West	279632	178	24	79	-20
+199	3rq5w4bQGigXOfdN30ATJt	Do I Wanna Know?	Arctic Monkeys	278319	171	25	128	-28
+200	1KGi9sZVMeszgZOWivFpxs	No Scrubs	TLC	278210	175	7	152	-25
