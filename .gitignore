@@ -1,5 +1,8 @@
 #Ignore files >100 MB
 week1/**/*.*.zip
+
+week5/**/*.mat
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

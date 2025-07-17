@@ -161,6 +161,9 @@ pip install ipywidgets anywidget nbformat
 
 # Εγκατάσταση Jupyter στο εικονικό περιβάλλον
 pip install jupyter ipykernel
+
+# Εγκατάσταση πακέτων για δέντρα αποφάσεων
+pip install xgboost lightgbm setuptools yellowbrick graphviz
 ```
 
 ## Βήμα 6: Καταχώρηση Εικονικού Περιβάλλοντος ως Jupyter Kernel
