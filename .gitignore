@@ -5,6 +5,10 @@ week5/**/*.mat
 
 week6/6.2/aclimdb/
 
+finalExam/assignment1/
+finalExam/assignment2/
+finalExam/assignment3/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
