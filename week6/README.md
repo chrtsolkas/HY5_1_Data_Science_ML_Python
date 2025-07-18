@@ -1,6 +1,3 @@
-Κατεβάστε το απαραίτητο μεγάλο αρχεί0 της έκτης εβδομάδας από [εδώ](https://ekdda-my.sharepoint.com/:u:/g/personal/ctsolkas_edu_ekdd_gr/EYJm7mF5Mx1IsyHUjfjLa0cBsyBCLmarHQyDg4-0F2A6tA?e=q0z9EW). 
-Αποθηκεύστε το στον φάκελο 6.2 και αποσυμπιέστε το.
-
 - 6.1
     - [Από τους νευρώνες στα νευρωνικά δίκτυα, Μέρος Α](6.1/01_from_neurons_to_neural_nets_1.ipynb)
     - [Από τους νευρώνες στα νευρωνικά δίκτυα, Μέρος Β](6.1/02_from_neurons_to_neural_nets_2.ipynb)
