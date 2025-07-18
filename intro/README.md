@@ -164,6 +164,9 @@ pip install jupyter ipykernel
 
 # Εγκατάσταση πακέτων για δέντρα αποφάσεων
 pip install xgboost lightgbm setuptools yellowbrick graphviz
+
+# Εγκατάσταση πακέτων για νευρωνικά δίκτυα
+pip install tensorflow pydot
 ```
 
 ## Βήμα 6: Καταχώρηση Εικονικού Περιβάλλοντος ως Jupyter Kernel
