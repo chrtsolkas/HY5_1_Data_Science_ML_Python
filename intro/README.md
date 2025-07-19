@@ -25,7 +25,7 @@
 
 1. **Κατέβασμα Python:**
    - Επισκεφτείτε το [python.org](https://www.python.org/downloads/)
-   - Κατεβάστε την τελευταία έκδοση Python 3.x (συνιστάται 3.9 ή νεότερη)
+   - Κατεβάστε την τελευταία έκδοση Python 3.x (συνιστάται 3.9 ή νεότερη, δείτε σχετικά τα προαπαιτούμενα του [TensorFlow](https://www.tensorflow.org/install))
 
 2. **Εγκατάσταση Python:**
    - Εκτελέστε το κατεβασμένο αρχείο εγκατάστασης
@@ -33,11 +33,14 @@
    - Επιλέξτε "Install Now" για τις προεπιλεγμένες ρυθμίσεις
    - Εάν σας ζητηθεί, επιτρέψτε στον installer να απενεργοποιήσει το όριο μήκους διαδρομής
 
+3. **Προαπαιτούμενο για χρήση TensorFlow:**
+   - Εγκατάσταση του [Microsoft Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+
 ### macOS
 
 **Επιλογή Α: Χρήση Επίσημου Installer**
 1. Επισκεφτείτε το [python.org](https://www.python.org/downloads/)
-2. Κατεβάστε την τελευταία έκδοση Python 3.x
+2. Κατεβάστε την τελευταία έκδοση Python 3.x, δείτε σχετικά τα προαπαιτούμενα του [TensorFlow](https://www.tensorflow.org/install)
 3. Εκτελέστε τον installer και ακολουθήστε τις οδηγίες
 
 **Επιλογή Β: Χρήση Homebrew (Συνιστάται)**
