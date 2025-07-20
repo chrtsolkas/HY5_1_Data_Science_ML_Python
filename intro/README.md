@@ -174,6 +174,7 @@ pip install xgboost lightgbm setuptools yellowbrick graphviz
 pip install tensorflow pydot
 ```
 
+**ΣΗΜΑΝΤΙΚΟ**: Για να μπορείτε να χρησιμοποιήσετε τη βιβλιοθήκη graphviz θα πρέπει να εγκαταστήσετε την [αντίστοιχη εφαρμογή](https://graphviz.org/download/) στον υπολογιστή σας.
 ## Βήμα 6: Καταχώρηση Εικονικού Περιβάλλοντος ως Jupyter Kernel
 
 Αυτό το βήμα επιτρέπει στο Jupyter να χρησιμοποιεί το εικονικό περιβάλλον σας:
