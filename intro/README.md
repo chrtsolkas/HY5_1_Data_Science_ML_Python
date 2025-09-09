@@ -159,7 +159,7 @@ source data_science_env/bin/activate
 pip install --upgrade pip
 
 # Εγκατάσταση βασικών πακέτων επιστήμης δεδομένων
-pip install numpy pandas matplotlib seaborn plotly plotnine scipy scikit-learn
+pip install numpy pandas matplotlib seaborn plotly plotnine scipy scikit-learn bokeh
 
 # Εγκατάσταση πακέτων για Jupyter
 pip install ipywidgets anywidget nbformat
